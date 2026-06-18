@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "IR006001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آباده",
+      "en": "Abadeh",
+      "slug": "abadeh-ir006001"
+    },
+    "code": {
+      "id": "IR006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.221",
+      "lon": "52.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ارسنجان",
+      "en": "Arsanjan",
+      "slug": "arsanjan-ir006002"
+    },
+    "code": {
+      "id": "IR006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.831",
+      "lon": "53.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بوانات",
+      "en": "Bavanat",
+      "slug": "bavanat-ir006003"
+    },
+    "code": {
+      "id": "IR006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.268",
+      "lon": "53.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان داراب",
+      "en": "Darab",
+      "slug": "darab-ir006004"
+    },
+    "code": {
+      "id": "IR006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.485",
+      "lon": "55.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اقلید",
+      "en": "Eqlid",
+      "slug": "eqlid-ir006005"
+    },
+    "code": {
+      "id": "IR006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.726",
+      "lon": "52.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان استهبان",
+      "en": "Estahban",
+      "slug": "estahban-ir006006"
+    },
+    "code": {
+      "id": "IR006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.181",
+      "lon": "53.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فراشبند",
+      "en": "Farashband",
+      "slug": "farashband-ir006007"
+    },
+    "code": {
+      "id": "IR006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.601",
+      "lon": "52.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فسا",
+      "en": "Fasa",
+      "slug": "fasa-ir006008"
+    },
+    "code": {
+      "id": "IR006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.967",
+      "lon": "53.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فیروزآباد",
+      "en": "Firuzabad",
+      "slug": "firuzabad-ir006009"
+    },
+    "code": {
+      "id": "IR006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.862",
+      "lon": "52.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گراش",
+      "en": "Gerash",
+      "slug": "gerash-ir006010"
+    },
+    "code": {
+      "id": "IR006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.624",
+      "lon": "53.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جهرم",
+      "en": "Jahrom",
+      "slug": "jahrom-ir006011"
+    },
+    "code": {
+      "id": "IR006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.707",
+      "lon": "53.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کوار",
+      "en": "Kavar",
+      "slug": "kavar-ir006012"
+    },
+    "code": {
+      "id": "IR006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.208",
+      "lon": "52.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کازرون",
+      "en": "Kazerun",
+      "slug": "kazerun-ir006013"
+    },
+    "code": {
+      "id": "IR006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.501",
+      "lon": "51.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خرامه",
+      "en": "Kherameh",
+      "slug": "kherameh-ir006014"
+    },
+    "code": {
+      "id": "IR006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.518",
+      "lon": "53.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خنج",
+      "en": "Khonj",
+      "slug": "khonj-ir006015"
+    },
+    "code": {
+      "id": "IR006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.973",
+      "lon": "53.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خرمبید",
+      "en": "Khorrambid",
+      "slug": "khorrambid-ir006016"
+    },
+    "code": {
+      "id": "IR006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.546",
+      "lon": "53.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان لامرد",
+      "en": "Lamerd",
+      "slug": "lamerd-ir006017"
+    },
+    "code": {
+      "id": "IR006017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.473",
+      "lon": "53.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان لارستان",
+      "en": "Larestan",
+      "slug": "larestan-ir006018"
+    },
+    "code": {
+      "id": "IR006018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.835",
+      "lon": "54.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ممسنی",
+      "en": "Mamasani",
+      "slug": "mamasani-ir006019"
+    },
+    "code": {
+      "id": "IR006019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.072",
+      "lon": "51.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006020",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مرودشت",
+      "en": "Marvdasht",
+      "slug": "marvdasht-ir006020"
+    },
+    "code": {
+      "id": "IR006020",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.159",
+      "lon": "52.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006021",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مهر",
+      "en": "Mehr",
+      "slug": "mehr-ir006021"
+    },
+    "code": {
+      "id": "IR006021",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.681",
+      "lon": "52.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006022",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نی ریز",
+      "en": "Neyriz",
+      "slug": "neyriz-ir006022"
+    },
+    "code": {
+      "id": "IR006022",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.312",
+      "lon": "54.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006023",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پاسارگاد",
+      "en": "Pasargad",
+      "slug": "pasargad-ir006023"
+    },
+    "code": {
+      "id": "IR006023",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.141",
+      "lon": "53.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006024",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قیروکارزین",
+      "en": "Qir-o-Karzin",
+      "slug": "qir-o-karzin-ir006024"
+    },
+    "code": {
+      "id": "IR006024",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.328",
+      "lon": "52.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006025",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رستم",
+      "en": "Rostam",
+      "slug": "rostam-ir006025"
+    },
+    "code": {
+      "id": "IR006025",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.425",
+      "lon": "51.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006026",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سروستان",
+      "en": "Sarvestan",
+      "slug": "sarvestan-ir006026"
+    },
+    "code": {
+      "id": "IR006026",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.232",
+      "lon": "53.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006027",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سپیدان",
+      "en": "Sepidan",
+      "slug": "sepidan-ir006027"
+    },
+    "code": {
+      "id": "IR006027",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.202",
+      "lon": "52.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006028",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شیراز",
+      "en": "Shiraz",
+      "slug": "shiraz-ir006028"
+    },
+    "code": {
+      "id": "IR006028",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.569",
+      "lon": "52.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR006029",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زریندشت",
+      "en": "Zarrindasht",
+      "slug": "zarrindasht-ir006029"
+    },
+    "code": {
+      "id": "IR006029",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR006",
+        "level": 1,
+        "name": {
+          "local": "فارس",
+          "en": "Fars",
+          "slug": "fars-ir006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.3",
+      "lon": "54.486"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

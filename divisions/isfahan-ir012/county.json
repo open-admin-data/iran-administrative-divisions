@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "IR012001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آران وبیدگل",
+      "en": "Aran-o-Bidgol",
+      "slug": "aran-o-bidgol-ir012001"
+    },
+    "code": {
+      "id": "IR012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.141",
+      "lon": "51.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اردستان",
+      "en": "Ardestan",
+      "slug": "ardestan-ir012002"
+    },
+    "code": {
+      "id": "IR012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.653",
+      "lon": "52.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بوئین ومیاندشت",
+      "en": "Booeino Miyandasht",
+      "slug": "booeino-miyandasht-ir012004"
+    },
+    "code": {
+      "id": "IR012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.163",
+      "lon": "50.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان برخوار",
+      "en": "Borkhar",
+      "slug": "borkhar-ir012003"
+    },
+    "code": {
+      "id": "IR012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.01",
+      "lon": "51.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چادگان",
+      "en": "Chadegan",
+      "slug": "chadegan-ir012005"
+    },
+    "code": {
+      "id": "IR012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.75",
+      "lon": "50.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دهاقان",
+      "en": "Dehaghan",
+      "slug": "dehaghan-ir012006"
+    },
+    "code": {
+      "id": "IR012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.004",
+      "lon": "51.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فلاورجان",
+      "en": "Falavarjan",
+      "slug": "falavarjan-ir012007"
+    },
+    "code": {
+      "id": "IR012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.519",
+      "lon": "51.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فریدن",
+      "en": "Faridan",
+      "slug": "faridan-ir012008"
+    },
+    "code": {
+      "id": "IR012008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.962",
+      "lon": "50.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فریدون شهر",
+      "en": "Fereydunshahr",
+      "slug": "fereydunshahr-ir012009"
+    },
+    "code": {
+      "id": "IR012009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.851",
+      "lon": "50.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گلپایگان",
+      "en": "Golpayegan",
+      "slug": "golpayegan-ir012010"
+    },
+    "code": {
+      "id": "IR012010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.453",
+      "lon": "50.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اصفهان",
+      "en": "Isfahan",
+      "slug": "isfahan-ir012011"
+    },
+    "code": {
+      "id": "IR012011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.254",
+      "lon": "52.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کاشان",
+      "en": "Kashan",
+      "slug": "kashan-ir012012"
+    },
+    "code": {
+      "id": "IR012012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.973",
+      "lon": "51.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خوانسار",
+      "en": "Khansar",
+      "slug": "khansar-ir012013"
+    },
+    "code": {
+      "id": "IR012013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.249",
+      "lon": "50.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خمینی شهر",
+      "en": "Khomeinishahr",
+      "slug": "khomeinishahr-ir012014"
+    },
+    "code": {
+      "id": "IR012014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.685",
+      "lon": "51.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خوروبیابانک",
+      "en": "Khorobiyabanak",
+      "slug": "khorobiyabanak-ir012015"
+    },
+    "code": {
+      "id": "IR012015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.673",
+      "lon": "54.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان لنجان",
+      "en": "Lenjan",
+      "slug": "lenjan-ir012016"
+    },
+    "code": {
+      "id": "IR012016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.376",
+      "lon": "51.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مبارکه",
+      "en": "Mobarakeh",
+      "slug": "mobarakeh-ir012017"
+    },
+    "code": {
+      "id": "IR012017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.278",
+      "lon": "51.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نائین",
+      "en": "Nain",
+      "slug": "nain-ir012018"
+    },
+    "code": {
+      "id": "IR012018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.389",
+      "lon": "53.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نجف آباد",
+      "en": "Najafabad",
+      "slug": "najafabad-ir012019"
+    },
+    "code": {
+      "id": "IR012019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.906",
+      "lon": "51.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012020",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نطنز",
+      "en": "Natanz",
+      "slug": "natanz-ir012020"
+    },
+    "code": {
+      "id": "IR012020",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.587",
+      "lon": "51.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012022",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سمیرم",
+      "en": "Semirom",
+      "slug": "semirom-ir012022"
+    },
+    "code": {
+      "id": "IR012022",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.265",
+      "lon": "51.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012023",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شاهین شهرومیمه",
+      "en": "Shahinshahro Meymeh",
+      "slug": "shahinshahro-meymeh-ir012023"
+    },
+    "code": {
+      "id": "IR012023",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.24",
+      "lon": "51.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012021",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شهرضا",
+      "en": "Shahreza",
+      "slug": "shahreza-ir012021"
+    },
+    "code": {
+      "id": "IR012021",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.896",
+      "lon": "51.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR012024",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تیران وکرون",
+      "en": "Tiran-o-Korun",
+      "slug": "tiran-o-korun-ir012024"
+    },
+    "code": {
+      "id": "IR012024",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR012",
+        "level": 1,
+        "name": {
+          "local": "اصفهان",
+          "en": "Isfahan",
+          "slug": "isfahan-ir012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.784",
+      "lon": "51.041"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

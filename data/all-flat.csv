@@ -1,0 +1,33 @@
+# Data from Open Admin Data (https://openadmindata.org/ir/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/iran-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.county,zip_codes,geo.lat,geo.lon,source_url
+IR001,1,استان,Province,البرز,Alborz,alborz-ir001,IR001,,,,,,6,,35.946,50.906,https://openadmindata.org/ir/provinces/alborz-ir001/
+IR002,1,استان,Province,اردبیل,Ardabil,ardabil-ir002,IR002,,,,,,10,,38.407,47.986,https://openadmindata.org/ir/provinces/ardabil-ir002/
+IR003,1,استان,Province,بوشهر,Bushehr,bushehr-ir003,IR003,,,,,,10,,28.785,51.504,https://openadmindata.org/ir/provinces/bushehr-ir003/
+IR004,1,استان,Province,چهارمحال و بختیاری,Chaharmahal and Bakhtiari,chaharmahal-and-bakhtiari-ir004,IR004,,,,,,9,,31.979,50.81,https://openadmindata.org/ir/provinces/chaharmahal-and-bakhtiari-ir004/
+IR005,1,استان,Province,آذربایجان شرقی,East Azerbaijan,east-azerbaijan-ir005,IR005,,,,,,20,,38.086,46.692,https://openadmindata.org/ir/provinces/east-azerbaijan-ir005/
+IR006,1,استان,Province,فارس,Fars,fars-ir006,IR006,,,,,,29,,29.358,53.318,https://openadmindata.org/ir/provinces/fars-ir006/
+IR007,1,استان,Province,گیلان,Gilan,gilan-ir007,IR007,,,,,,16,,37.509,49.019,https://openadmindata.org/ir/provinces/gilan-ir007/
+IR008,1,استان,Province,گلستان,Golestan,golestan-ir008,IR008,,,,,,14,,37.313,54.894,https://openadmindata.org/ir/provinces/golestan-ir008/
+IR009,1,استان,Province,همدان,Hamadan,hamadan-ir009,IR009,,,,,,9,,34.87,48.559,https://openadmindata.org/ir/provinces/hamadan-ir009/
+IR010,1,استان,Province,هرمزگان,Hormozgan,hormozgan-ir010,IR010,,,,,,13,,27.142,55.033,https://openadmindata.org/ir/provinces/hormozgan-ir010/
+IR011,1,استان,Province,ایلام,Ilam,ilam-ir011,IR011,,,,,,10,,33.043,46.872,https://openadmindata.org/ir/provinces/ilam-ir011/
+IR012,1,استان,Province,اصفهان,Isfahan,isfahan-ir012,IR012,,,,,,24,,32.609,52.048,https://openadmindata.org/ir/provinces/isfahan-ir012/
+IR013,1,استان,Province,کرمان,Kerman,kerman-ir013,IR013,,,,,,23,,29.233,57.339,https://openadmindata.org/ir/provinces/kerman-ir013/
+IR014,1,استان,Province,کرمانشاه,Kermanshah,kermanshah-ir014,IR014,,,,,,14,,34.487,46.809,https://openadmindata.org/ir/provinces/kermanshah-ir014/
+IR015,1,استان,Province,خوزستان,Khuzestan,khuzestan-ir015,IR015,,,,,,27,,31.464,48.992,https://openadmindata.org/ir/provinces/khuzestan-ir015/
+IR016,1,استان,Province,کهگیلویه و بویراحمد,Kohgiluyeh and Boyer-Ahmad,kohgiluyeh-and-boyer-ahmad-ir016,IR016,,,,,,8,,30.703,51.095,https://openadmindata.org/ir/provinces/kohgiluyeh-and-boyer-ahmad-ir016/
+IR017,1,استان,Province,کردستان,Kurdistan,kurdistan-ir017,IR017,,,,,,10,,35.601,47.006,https://openadmindata.org/ir/provinces/kurdistan-ir017/
+IR018,1,استان,Province,لرستان,Lorestan,lorestan-ir018,IR018,,,,,,11,,33.516,48.322,https://openadmindata.org/ir/provinces/lorestan-ir018/
+IR019,1,استان,Province,مرکزی,Markazi,markazi-ir019,IR019,,,,,,12,,34.477,49.582,https://openadmindata.org/ir/provinces/markazi-ir019/
+IR020,1,استان,Province,مازندران,Mazandaran,mazandaran-ir020,IR020,,,,,,22,,36.363,52.368,https://openadmindata.org/ir/provinces/mazandaran-ir020/
+IR021,1,استان,Province,خراسان شمالی,North Khorasan,north-khorasan-ir021,IR021,,,,,,8,,37.433,57.179,https://openadmindata.org/ir/provinces/north-khorasan-ir021/
+IR022,1,استان,Province,قزوین,Qazvin,qazvin-ir022,IR022,,,,,,6,,36.109,50.039,https://openadmindata.org/ir/provinces/qazvin-ir022/
+IR023,1,استان,Province,قم,Qom,qom-ir023,IR023,,,,,,1,,34.667,51.002,https://openadmindata.org/ir/provinces/qom-ir023/
+IR024,1,استان,Province,خراسان رضوی,Razavi Khorasan,razavi-khorasan-ir024,IR024,,,,,,28,,35.779,59.03,https://openadmindata.org/ir/provinces/razavi-khorasan-ir024/
+IR025,1,استان,Province,سمنان,Semnan,semnan-ir025,IR025,,,,,,8,,35.787,54.968,https://openadmindata.org/ir/provinces/semnan-ir025/
+IR026,1,استان,Province,سیستان و بلوچستان,Sistan and Baluchestan,sistan-and-baluchestan-ir026,IR026,,,,,,19,,28.273,60.861,https://openadmindata.org/ir/provinces/sistan-and-baluchestan-ir026/
+IR027,1,استان,Province,خراسان جنوبی,South Khorasan,south-khorasan-ir027,IR027,,,,,,11,,32.802,58.239,https://openadmindata.org/ir/provinces/south-khorasan-ir027/
+IR028,1,استان,Province,تهران,Tehran,tehran-ir028,IR028,,,,,,16,,35.502,51.327,https://openadmindata.org/ir/provinces/tehran-ir028/
+IR029,1,استان,Province,آذربایجان غربی,West Azerbaijan,west-azerbaijan-ir029,IR029,,,,,,17,,37.875,44.7,https://openadmindata.org/ir/provinces/west-azerbaijan-ir029/
+IR030,1,استان,Province,یزد,Yazd,yazd-ir030,IR030,,,,,,10,,31.483,54.416,https://openadmindata.org/ir/provinces/yazd-ir030/
+IR031,1,استان,Province,زنجان,Zanjan,zanjan-ir031,IR031,,,,,,8,,36.401,48.422,https://openadmindata.org/ir/provinces/zanjan-ir031/

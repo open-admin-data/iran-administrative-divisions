@@ -1,0 +1,45 @@
+{
+  "id": "IR025004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مهدی شهر",
+    "en": "Mehdishahr",
+    "slug": "mehdishahr-ir025004"
+  },
+  "code": {
+    "id": "IR025004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR025",
+    "level": 1,
+    "name": {
+      "local": "سمنان",
+      "en": "Semnan",
+      "slug": "semnan-ir025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.887",
+    "lon": "53.308"
+  },
+  "metadata": {},
+  "source": {}
+}

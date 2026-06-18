@@ -1,0 +1,45 @@
+{
+  "id": "IR024028",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان زاوه",
+    "en": "Zave",
+    "slug": "zave-ir024028"
+  },
+  "code": {
+    "id": "IR024028",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR024",
+    "level": 1,
+    "name": {
+      "local": "خراسان رضوی",
+      "en": "Razavi Khorasan",
+      "slug": "razavi-khorasan-ir024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.262",
+    "lon": "59.72"
+  },
+  "metadata": {},
+  "source": {}
+}

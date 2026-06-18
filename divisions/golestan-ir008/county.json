@@ -1,0 +1,632 @@
+[
+  {
+    "id": "IR008001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان علی آباد",
+      "en": "Aliabad",
+      "slug": "aliabad-ir008001"
+    },
+    "code": {
+      "id": "IR008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.832",
+      "lon": "54.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آق قلا",
+      "en": "Aqqala",
+      "slug": "aqqala-ir008002"
+    },
+    "code": {
+      "id": "IR008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.187",
+      "lon": "54.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آزادشهر",
+      "en": "Azadshahr",
+      "slug": "azadshahr-ir008003"
+    },
+    "code": {
+      "id": "IR008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.996",
+      "lon": "55.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بندر گز",
+      "en": "Bandar-e-Gaz",
+      "slug": "bandar-e-gaz-ir008004"
+    },
+    "code": {
+      "id": "IR008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.735",
+      "lon": "53.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ترکمن",
+      "en": "Bandar-e-Torkaman",
+      "slug": "bandar-e-torkaman-ir008014"
+    },
+    "code": {
+      "id": "IR008014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.898",
+      "lon": "54.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گالیکش",
+      "en": "Galikash",
+      "slug": "galikash-ir008005"
+    },
+    "code": {
+      "id": "IR008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.328",
+      "lon": "55.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گمیشان",
+      "en": "Gomishan",
+      "slug": "gomishan-ir008006"
+    },
+    "code": {
+      "id": "IR008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.145",
+      "lon": "54.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گنبد کاووس",
+      "en": "Gonbad-e-Kavus",
+      "slug": "gonbad-e-kavus-ir008007"
+    },
+    "code": {
+      "id": "IR008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.588",
+      "lon": "55.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گرگان",
+      "en": "Gorgan",
+      "slug": "gorgan-ir008008"
+    },
+    "code": {
+      "id": "IR008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.738",
+      "lon": "54.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کلاله",
+      "en": "Kolaleh",
+      "slug": "kolaleh-ir008009"
+    },
+    "code": {
+      "id": "IR008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.571",
+      "lon": "55.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کردکوی",
+      "en": "Kordkuy",
+      "slug": "kordkuy-ir008010"
+    },
+    "code": {
+      "id": "IR008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.686",
+      "lon": "54.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مراوهتپه",
+      "en": "Maravehtapeh",
+      "slug": "maravehtapeh-ir008011"
+    },
+    "code": {
+      "id": "IR008011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.817",
+      "lon": "55.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مینودشت",
+      "en": "Minudasht",
+      "slug": "minudasht-ir008012"
+    },
+    "code": {
+      "id": "IR008012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.146",
+      "lon": "55.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR008013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رامیان",
+      "en": "Ramian",
+      "slug": "ramian-ir008013"
+    },
+    "code": {
+      "id": "IR008013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR008",
+        "level": 1,
+        "name": {
+          "local": "گلستان",
+          "en": "Golestan",
+          "slug": "golestan-ir008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.966",
+      "lon": "55.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

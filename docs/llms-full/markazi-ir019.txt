@@ -1,0 +1,69 @@
+# Markazi — Iran Administrative Divisions
+
+> 12 countys
+> Code: IR019
+> Coordinates: 34.477, 49.582
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان اراک (Arak)
+
+Code: IR019001, Coordinates: 34.144, 49.881
+
+
+### شهرستان آشتیان (Ashtian)
+
+Code: IR019002, Coordinates: 34.441, 50.021
+
+
+### شهرستان دلیجان (Delijan)
+
+Code: IR019003, Coordinates: 34.025, 50.791
+
+
+### شهرستان فراهان (Farahan)
+
+Code: IR019004, Coordinates: 34.621, 49.631
+
+
+### شهرستان خمین (Khomein)
+
+Code: IR019005, Coordinates: 33.663, 50.019
+
+
+### شهرستان خنداب (Khondab)
+
+Code: IR019006, Coordinates: 34.381, 49.146
+
+
+### شهرستان کمیجان (Komeijan)
+
+Code: IR019007, Coordinates: 34.745, 49.288
+
+
+### شهرستان محلات (Mahallat)
+
+Code: IR019008, Coordinates: 33.889, 50.426
+
+
+### شهرستان ساوه (Saveh)
+
+Code: IR019009, Coordinates: 35.086, 50.093
+
+
+### شهرستان شازند (Shazand)
+
+Code: IR019010, Coordinates: 33.909, 49.32
+
+
+### شهرستان تفرش (Tafresh)
+
+Code: IR019011, Coordinates: 34.788, 49.892
+
+
+### شهرستان زرندیه (Zarandieh)
+
+Code: IR019012, Coordinates: 35.333, 50.308
+
+

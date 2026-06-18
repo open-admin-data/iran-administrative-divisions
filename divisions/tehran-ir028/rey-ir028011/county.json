@@ -1,0 +1,45 @@
+{
+  "id": "IR028011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ری",
+    "en": "Rey",
+    "slug": "rey-ir028011"
+  },
+  "code": {
+    "id": "IR028011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR028",
+    "level": 1,
+    "name": {
+      "local": "تهران",
+      "en": "Tehran",
+      "slug": "tehran-ir028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.362",
+    "lon": "51.217"
+  },
+  "metadata": {},
+  "source": {}
+}

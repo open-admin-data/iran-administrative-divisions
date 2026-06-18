@@ -1,0 +1,112 @@
+# Iran Administrative Divisions
+
+> Open dataset of Iran's administrative hierarchy:
+> 31 provinces, 429 countys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 31
+- Total countys: 429
+- Coordinates: included (all levels)
+- Last updated: 2026-06-18
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/data/all-province.json)
+- [All countys (JSON)](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/data/all-county.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Alborz](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/alborz-ir001/) — 6 countys
+- [Ardabil](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/ardabil-ir002/) — 10 countys
+- [Bushehr](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/bushehr-ir003/) — 10 countys
+- [Chaharmahal and Bakhtiari](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/chaharmahal-and-bakhtiari-ir004/) — 9 countys
+- [East Azerbaijan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/east-azerbaijan-ir005/) — 20 countys
+- [Fars](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/fars-ir006/) — 29 countys
+- [Gilan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/gilan-ir007/) — 16 countys
+- [Golestan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/golestan-ir008/) — 14 countys
+- [Hamadan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/hamadan-ir009/) — 9 countys
+- [Hormozgan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/hormozgan-ir010/) — 13 countys
+- [Ilam](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/ilam-ir011/) — 10 countys
+- [Isfahan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/isfahan-ir012/) — 24 countys
+- [Kerman](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/kerman-ir013/) — 23 countys
+- [Kermanshah](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/kermanshah-ir014/) — 14 countys
+- [Khuzestan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/khuzestan-ir015/) — 27 countys
+- [Kohgiluyeh and Boyer-Ahmad](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/kohgiluyeh-and-boyer-ahmad-ir016/) — 8 countys
+- [Kurdistan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/kurdistan-ir017/) — 10 countys
+- [Lorestan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/lorestan-ir018/) — 11 countys
+- [Markazi](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/markazi-ir019/) — 12 countys
+- [Mazandaran](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/mazandaran-ir020/) — 22 countys
+- [North Khorasan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/north-khorasan-ir021/) — 8 countys
+- [Qazvin](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/qazvin-ir022/) — 6 countys
+- [Qom](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/qom-ir023/) — 1 countys
+- [Razavi Khorasan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/razavi-khorasan-ir024/) — 28 countys
+- [Semnan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/semnan-ir025/) — 8 countys
+- [Sistan and Baluchestan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/sistan-and-baluchestan-ir026/) — 19 countys
+- [South Khorasan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/south-khorasan-ir027/) — 11 countys
+- [Tehran](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/tehran-ir028/) — 16 countys
+- [West Azerbaijan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/west-azerbaijan-ir029/) — 17 countys
+- [Yazd](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/yazd-ir030/) — 10 countys
+- [Zanjan](https://github.com/open-admin-data/iran-administrative-divisions/tree/main/divisions/zanjan-ir031/) — 8 countys
+
+## Per-Province Full Data
+
+- [Alborz](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/alborz-ir001.txt)
+- [Ardabil](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/ardabil-ir002.txt)
+- [Bushehr](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/bushehr-ir003.txt)
+- [Chaharmahal and Bakhtiari](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/chaharmahal-and-bakhtiari-ir004.txt)
+- [East Azerbaijan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/east-azerbaijan-ir005.txt)
+- [Fars](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/fars-ir006.txt)
+- [Gilan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/gilan-ir007.txt)
+- [Golestan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/golestan-ir008.txt)
+- [Hamadan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/hamadan-ir009.txt)
+- [Hormozgan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/hormozgan-ir010.txt)
+- [Ilam](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/ilam-ir011.txt)
+- [Isfahan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/isfahan-ir012.txt)
+- [Kerman](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/kerman-ir013.txt)
+- [Kermanshah](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/kermanshah-ir014.txt)
+- [Khuzestan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/khuzestan-ir015.txt)
+- [Kohgiluyeh and Boyer-Ahmad](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/kohgiluyeh-and-boyer-ahmad-ir016.txt)
+- [Kurdistan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/kurdistan-ir017.txt)
+- [Lorestan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/lorestan-ir018.txt)
+- [Markazi](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/markazi-ir019.txt)
+- [Mazandaran](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/mazandaran-ir020.txt)
+- [North Khorasan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/north-khorasan-ir021.txt)
+- [Qazvin](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/qazvin-ir022.txt)
+- [Qom](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/qom-ir023.txt)
+- [Razavi Khorasan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/razavi-khorasan-ir024.txt)
+- [Semnan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/semnan-ir025.txt)
+- [Sistan and Baluchestan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/sistan-and-baluchestan-ir026.txt)
+- [South Khorasan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/south-khorasan-ir027.txt)
+- [Tehran](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/tehran-ir028.txt)
+- [West Azerbaijan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/west-azerbaijan-ir029.txt)
+- [Yazd](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/yazd-ir030.txt)
+- [Zanjan](https://raw.githubusercontent.com/open-admin-data/iran-administrative-divisions/main/docs/llms-full/zanjan-ir031.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (county)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Iran Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/iran-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

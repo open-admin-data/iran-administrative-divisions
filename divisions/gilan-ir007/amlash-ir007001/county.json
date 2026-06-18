@@ -1,0 +1,45 @@
+{
+  "id": "IR007001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان املش",
+    "en": "Amlash",
+    "slug": "amlash-ir007001"
+  },
+  "code": {
+    "id": "IR007001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.956",
+    "lon": "50.116"
+  },
+  "metadata": {},
+  "source": {}
+}

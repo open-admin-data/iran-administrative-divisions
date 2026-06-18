@@ -1,0 +1,857 @@
+[
+  {
+    "id": "IR026001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چابهار",
+      "en": "Chabahar",
+      "slug": "chabahar-ir026001"
+    },
+    "code": {
+      "id": "IR026001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.505",
+      "lon": "61.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دلگان",
+      "en": "Dalgan",
+      "slug": "dalgan-ir026002"
+    },
+    "code": {
+      "id": "IR026002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.41",
+      "lon": "59.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فنوج",
+      "en": "Fanouj",
+      "slug": "fanouj-ir026003"
+    },
+    "code": {
+      "id": "IR026003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.719",
+      "lon": "59.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قصرقند",
+      "en": "Ghasre Ghand",
+      "slug": "ghasre-ghand-ir026013"
+    },
+    "code": {
+      "id": "IR026013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.116",
+      "lon": "60.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هامون",
+      "en": "Hamoun",
+      "slug": "hamoun-ir026004"
+    },
+    "code": {
+      "id": "IR026004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.551",
+      "lon": "61.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هیرمند",
+      "en": "Hirmand",
+      "slug": "hirmand-ir026005"
+    },
+    "code": {
+      "id": "IR026005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.175",
+      "lon": "61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ایرانشهر",
+      "en": "Iranshahr",
+      "slug": "iranshahr-ir026006"
+    },
+    "code": {
+      "id": "IR026006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.74",
+      "lon": "60.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خاش",
+      "en": "Khash",
+      "slug": "khash-ir026007"
+    },
+    "code": {
+      "id": "IR026007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.192",
+      "lon": "61.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کنارک",
+      "en": "Konarak",
+      "slug": "konarak-ir026008"
+    },
+    "code": {
+      "id": "IR026008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.646",
+      "lon": "59.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مهرستان",
+      "en": "Mehrestan",
+      "slug": "mehrestan-ir026009"
+    },
+    "code": {
+      "id": "IR026009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.015",
+      "lon": "61.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان میرجاوه",
+      "en": "Mirjaveh",
+      "slug": "mirjaveh-ir026010"
+    },
+    "code": {
+      "id": "IR026010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.86",
+      "lon": "61.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نیکشهر",
+      "en": "Nikshahr",
+      "slug": "nikshahr-ir026011"
+    },
+    "code": {
+      "id": "IR026011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.451",
+      "lon": "60.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نیمروز",
+      "en": "Nimrouz",
+      "slug": "nimrouz-ir026012"
+    },
+    "code": {
+      "id": "IR026012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.948",
+      "lon": "60.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سراوان",
+      "en": "Saravan",
+      "slug": "saravan-ir026014"
+    },
+    "code": {
+      "id": "IR026014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.329",
+      "lon": "62.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سرباز",
+      "en": "Sarbaz",
+      "slug": "sarbaz-ir026015"
+    },
+    "code": {
+      "id": "IR026015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.436",
+      "lon": "61.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سیب وسوران",
+      "en": "Sibo Soran",
+      "slug": "sibo-soran-ir026016"
+    },
+    "code": {
+      "id": "IR026016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.217",
+      "lon": "62.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زابل",
+      "en": "Zabol",
+      "slug": "zabol-ir026017"
+    },
+    "code": {
+      "id": "IR026017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.032",
+      "lon": "61.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زاهدان",
+      "en": "Zahedan",
+      "slug": "zahedan-ir026019"
+    },
+    "code": {
+      "id": "IR026019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.661",
+      "lon": "60.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR026018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زهک",
+      "en": "Zehak",
+      "slug": "zehak-ir026018"
+    },
+    "code": {
+      "id": "IR026018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR026",
+        "level": 1,
+        "name": {
+          "local": "سیستان و بلوچستان",
+          "en": "Sistan and Baluchestan",
+          "slug": "sistan-and-baluchestan-ir026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.794",
+      "lon": "61.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

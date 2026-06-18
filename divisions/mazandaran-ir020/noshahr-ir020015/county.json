@@ -1,0 +1,45 @@
+{
+  "id": "IR020015",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان نوشهر",
+    "en": "Noshahr",
+    "slug": "noshahr-ir020015"
+  },
+  "code": {
+    "id": "IR020015",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.466",
+    "lon": "51.597"
+  },
+  "metadata": {},
+  "source": {}
+}

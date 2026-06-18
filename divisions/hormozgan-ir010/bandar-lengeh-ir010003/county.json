@@ -1,0 +1,45 @@
+{
+  "id": "IR010003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بندر لنگه",
+    "en": "Bandar-Lengeh",
+    "slug": "bandar-lengeh-ir010003"
+  },
+  "code": {
+    "id": "IR010003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR010",
+    "level": 1,
+    "name": {
+      "local": "هرمزگان",
+      "en": "Hormozgan",
+      "slug": "hormozgan-ir010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.814",
+    "lon": "54.528"
+  },
+  "metadata": {},
+  "source": {}
+}

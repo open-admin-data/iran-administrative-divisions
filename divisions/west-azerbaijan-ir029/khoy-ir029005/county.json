@@ -1,0 +1,45 @@
+{
+  "id": "IR029005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان خوی",
+    "en": "Khoy",
+    "slug": "khoy-ir029005"
+  },
+  "code": {
+    "id": "IR029005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR029",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان غربی",
+      "en": "West Azerbaijan",
+      "slug": "west-azerbaijan-ir029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.649",
+    "lon": "44.761"
+  },
+  "metadata": {},
+  "source": {}
+}

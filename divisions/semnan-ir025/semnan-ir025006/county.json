@@ -1,0 +1,45 @@
+{
+  "id": "IR025006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سمنان",
+    "en": "Semnan",
+    "slug": "semnan-ir025006"
+  },
+  "code": {
+    "id": "IR025006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR025",
+    "level": 1,
+    "name": {
+      "local": "سمنان",
+      "en": "Semnan",
+      "slug": "semnan-ir025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.106",
+    "lon": "53.831"
+  },
+  "metadata": {},
+  "source": {}
+}

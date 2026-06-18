@@ -1,0 +1,45 @@
+{
+  "id": "IR029013",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سردشت",
+    "en": "Sardasht",
+    "slug": "sardasht-ir029013"
+  },
+  "code": {
+    "id": "IR029013",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR029",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان غربی",
+      "en": "West Azerbaijan",
+      "slug": "west-azerbaijan-ir029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.221",
+    "lon": "45.497"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "IR010",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "هرمزگان",
+    "en": "Hormozgan",
+    "slug": "hormozgan-ir010"
+  },
+  "code": {
+    "id": "IR010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.142",
+    "lon": "55.033"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/hormozgan-ir010/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

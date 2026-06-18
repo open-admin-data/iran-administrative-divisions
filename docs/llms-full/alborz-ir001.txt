@@ -1,0 +1,39 @@
+# Alborz — Iran Administrative Divisions
+
+> 6 countys
+> Code: IR001
+> Coordinates: 35.946, 50.906
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان اشتهارد (Eshtehard)
+
+Code: IR001001, Coordinates: 35.701, 50.493
+
+
+### شهرستان فردیس (Fardis)
+
+Code: IR001002, Coordinates: 35.736, 50.962
+
+
+### شهرستان کرج (Karaj)
+
+Code: IR001003, Coordinates: 35.936, 51.101
+
+
+### شهرستان نظرآباد (Nazarabad)
+
+Code: IR001004, Coordinates: 35.903, 50.522
+
+
+### شهرستان ساوجبلاغ (Savojbolagh)
+
+Code: IR001005, Coordinates: 35.934, 50.818
+
+
+### شهرستان طالقان (Taleghan)
+
+Code: IR001006, Coordinates: 36.222, 50.772
+
+

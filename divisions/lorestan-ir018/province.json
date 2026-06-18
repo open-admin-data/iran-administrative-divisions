@@ -1,0 +1,33 @@
+{
+  "id": "IR018",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "لرستان",
+    "en": "Lorestan",
+    "slug": "lorestan-ir018"
+  },
+  "code": {
+    "id": "IR018",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.516",
+    "lon": "48.322"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/lorestan-ir018/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

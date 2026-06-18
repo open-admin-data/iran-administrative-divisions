@@ -1,0 +1,45 @@
+{
+  "id": "IR013009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان قلعهگنج",
+    "en": "Ghaleye-Ganj",
+    "slug": "ghaleye-ganj-ir013009"
+  },
+  "code": {
+    "id": "IR013009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR013",
+    "level": 1,
+    "name": {
+      "local": "کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.195",
+    "lon": "58.47"
+  },
+  "metadata": {},
+  "source": {}
+}

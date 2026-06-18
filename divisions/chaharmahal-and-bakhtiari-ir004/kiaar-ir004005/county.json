@@ -1,0 +1,45 @@
+{
+  "id": "IR004005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان کیار",
+    "en": "Kiaar",
+    "slug": "kiaar-ir004005"
+  },
+  "code": {
+    "id": "IR004005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR004",
+    "level": 1,
+    "name": {
+      "local": "چهارمحال و بختیاری",
+      "en": "Chaharmahal and Bakhtiari",
+      "slug": "chaharmahal-and-bakhtiari-ir004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR004",
+      "level": 1,
+      "name": {
+        "local": "چهارمحال و بختیاری",
+        "en": "Chaharmahal and Bakhtiari",
+        "slug": "chaharmahal-and-bakhtiari-ir004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.931",
+    "lon": "50.691"
+  },
+  "metadata": {},
+  "source": {}
+}

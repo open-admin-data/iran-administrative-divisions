@@ -1,0 +1,45 @@
+{
+  "id": "IR027009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سربیشه",
+    "en": "Sarbisheh",
+    "slug": "sarbisheh-ir027009"
+  },
+  "code": {
+    "id": "IR027009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR027",
+    "level": 1,
+    "name": {
+      "local": "خراسان جنوبی",
+      "en": "South Khorasan",
+      "slug": "south-khorasan-ir027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.472",
+    "lon": "60.048"
+  },
+  "metadata": {},
+  "source": {}
+}

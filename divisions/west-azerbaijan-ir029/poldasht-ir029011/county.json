@@ -1,0 +1,45 @@
+{
+  "id": "IR029011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان پلدشت",
+    "en": "Poldasht",
+    "slug": "poldasht-ir029011"
+  },
+  "code": {
+    "id": "IR029011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR029",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان غربی",
+      "en": "West Azerbaijan",
+      "slug": "west-azerbaijan-ir029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.262",
+    "lon": "45.018"
+  },
+  "metadata": {},
+  "source": {}
+}

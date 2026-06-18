@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "IR013001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان انار",
+      "en": "Anar",
+      "slug": "anar-ir013001"
+    },
+    "code": {
+      "id": "IR013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.815",
+      "lon": "55.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان عنبرآباد",
+      "en": "Anbarabad",
+      "slug": "anbarabad-ir013002"
+    },
+    "code": {
+      "id": "IR013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.441",
+      "lon": "58.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ارزوئیه",
+      "en": "Arzuiyeh",
+      "slug": "arzuiyeh-ir013003"
+    },
+    "code": {
+      "id": "IR013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.472",
+      "lon": "56.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بافت",
+      "en": "Baft",
+      "slug": "baft-ir013004"
+    },
+    "code": {
+      "id": "IR013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.044",
+      "lon": "56.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بم",
+      "en": "Bam",
+      "slug": "bam-ir013005"
+    },
+    "code": {
+      "id": "IR013005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.079",
+      "lon": "58.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بردسیر",
+      "en": "Bardsir",
+      "slug": "bardsir-ir013006"
+    },
+    "code": {
+      "id": "IR013006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.793",
+      "lon": "56.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فهرج",
+      "en": "Fahraj",
+      "slug": "fahraj-ir013007"
+    },
+    "code": {
+      "id": "IR013007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.166",
+      "lon": "59.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-ir013008"
+    },
+    "code": {
+      "id": "IR013008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.19",
+      "lon": "57.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قلعهگنج",
+      "en": "Ghaleye-Ganj",
+      "slug": "ghaleye-ganj-ir013009"
+    },
+    "code": {
+      "id": "IR013009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.195",
+      "lon": "58.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جیرفت",
+      "en": "Jiroft",
+      "slug": "jiroft-ir013010"
+    },
+    "code": {
+      "id": "IR013010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.728",
+      "lon": "57.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کهنوج",
+      "en": "Kahnuj",
+      "slug": "kahnuj-ir013011"
+    },
+    "code": {
+      "id": "IR013011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.851",
+      "lon": "57.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013012"
+    },
+    "code": {
+      "id": "IR013012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.516",
+      "lon": "58.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کوهبنان",
+      "en": "Kuhbonan",
+      "slug": "kuhbonan-ir013013"
+    },
+    "code": {
+      "id": "IR013013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.36",
+      "lon": "56.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان منوجان",
+      "en": "Manujan",
+      "slug": "manujan-ir013014"
+    },
+    "code": {
+      "id": "IR013014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.368",
+      "lon": "57.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نرماشیر",
+      "en": "Normashir",
+      "slug": "normashir-ir013015"
+    },
+    "code": {
+      "id": "IR013015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.253",
+      "lon": "58.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رابر",
+      "en": "Rabar",
+      "slug": "rabar-ir013016"
+    },
+    "code": {
+      "id": "IR013016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.172",
+      "lon": "56.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رفسنجان",
+      "en": "Rafsanjan",
+      "slug": "rafsanjan-ir013017"
+    },
+    "code": {
+      "id": "IR013017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.573",
+      "lon": "55.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان راور",
+      "en": "Ravar",
+      "slug": "ravar-ir013018"
+    },
+    "code": {
+      "id": "IR013018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.263",
+      "lon": "57.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ریگان",
+      "en": "Rigan",
+      "slug": "rigan-ir013019"
+    },
+    "code": {
+      "id": "IR013019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.471",
+      "lon": "58.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013020",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رودبار جنوب",
+      "en": "Roudbar-e-Jonub",
+      "slug": "roudbar-e-jonub-ir013020"
+    },
+    "code": {
+      "id": "IR013020",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.857",
+      "lon": "58.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013021",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شهربابک",
+      "en": "Shahr-e-Babak",
+      "slug": "shahr-e-babak-ir013021"
+    },
+    "code": {
+      "id": "IR013021",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.256",
+      "lon": "55.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013022",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سیرجان",
+      "en": "Sirjan",
+      "slug": "sirjan-ir013022"
+    },
+    "code": {
+      "id": "IR013022",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.352",
+      "lon": "55.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR013023",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زرند",
+      "en": "Zarand",
+      "slug": "zarand-ir013023"
+    },
+    "code": {
+      "id": "IR013023",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR013",
+        "level": 1,
+        "name": {
+          "local": "کرمان",
+          "en": "Kerman",
+          "slug": "kerman-ir013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.916",
+      "lon": "56.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

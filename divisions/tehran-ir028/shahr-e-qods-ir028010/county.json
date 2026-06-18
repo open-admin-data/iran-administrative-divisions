@@ -1,0 +1,45 @@
+{
+  "id": "IR028010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان قدس",
+    "en": "Shahr-e Qods",
+    "slug": "shahr-e-qods-ir028010"
+  },
+  "code": {
+    "id": "IR028010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR028",
+    "level": 1,
+    "name": {
+      "local": "تهران",
+      "en": "Tehran",
+      "slug": "tehran-ir028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.704",
+    "lon": "51.102"
+  },
+  "metadata": {},
+  "source": {}
+}

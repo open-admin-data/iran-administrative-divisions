@@ -1,0 +1,45 @@
+{
+  "id": "IR020005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بهشهر",
+    "en": "Behshahr",
+    "slug": "behshahr-ir020005"
+  },
+  "code": {
+    "id": "IR020005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.678",
+    "lon": "53.523"
+  },
+  "metadata": {},
+  "source": {}
+}

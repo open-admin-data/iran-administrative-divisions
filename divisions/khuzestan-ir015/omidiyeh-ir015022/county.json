@@ -1,0 +1,45 @@
+{
+  "id": "IR015022",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان امیدیه",
+    "en": "Omidiyeh",
+    "slug": "omidiyeh-ir015022"
+  },
+  "code": {
+    "id": "IR015022",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR015",
+    "level": 1,
+    "name": {
+      "local": "خوزستان",
+      "en": "Khuzestan",
+      "slug": "khuzestan-ir015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.792",
+    "lon": "49.694"
+  },
+  "metadata": {},
+  "source": {}
+}

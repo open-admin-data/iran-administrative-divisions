@@ -1,0 +1,45 @@
+{
+  "id": "IR021004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان گرمه",
+    "en": "Germeh",
+    "slug": "germeh-ir021004"
+  },
+  "code": {
+    "id": "IR021004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR021",
+    "level": 1,
+    "name": {
+      "local": "خراسان شمالی",
+      "en": "North Khorasan",
+      "slug": "north-khorasan-ir021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.109",
+    "lon": "56.173"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR019003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دلیجان",
+    "en": "Delijan",
+    "slug": "delijan-ir019003"
+  },
+  "code": {
+    "id": "IR019003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR019",
+    "level": 1,
+    "name": {
+      "local": "مرکزی",
+      "en": "Markazi",
+      "slug": "markazi-ir019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.025",
+    "lon": "50.791"
+  },
+  "metadata": {},
+  "source": {}
+}

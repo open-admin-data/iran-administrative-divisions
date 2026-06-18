@@ -1,0 +1,45 @@
+{
+  "id": "IR016006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان گچساران",
+    "en": "Gachsaran",
+    "slug": "gachsaran-ir016006"
+  },
+  "code": {
+    "id": "IR016006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR016",
+    "level": 1,
+    "name": {
+      "local": "کهگیلویه و بویراحمد",
+      "en": "Kohgiluyeh and Boyer-Ahmad",
+      "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR016",
+      "level": 1,
+      "name": {
+        "local": "کهگیلویه و بویراحمد",
+        "en": "Kohgiluyeh and Boyer-Ahmad",
+        "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.285",
+    "lon": "50.801"
+  },
+  "metadata": {},
+  "source": {}
+}

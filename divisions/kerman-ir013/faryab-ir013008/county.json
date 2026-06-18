@@ -1,0 +1,45 @@
+{
+  "id": "IR013008",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فاریاب",
+    "en": "Faryab",
+    "slug": "faryab-ir013008"
+  },
+  "code": {
+    "id": "IR013008",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR013",
+    "level": 1,
+    "name": {
+      "local": "کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.19",
+    "lon": "57.221"
+  },
+  "metadata": {},
+  "source": {}
+}

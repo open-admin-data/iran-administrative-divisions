@@ -1,0 +1,45 @@
+{
+  "id": "IR011003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان چرداول",
+    "en": "Shirvan-o-Chardavol",
+    "slug": "shirvan-o-chardavol-ir011003"
+  },
+  "code": {
+    "id": "IR011003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR011",
+    "level": 1,
+    "name": {
+      "local": "ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.79",
+    "lon": "47.14"
+  },
+  "metadata": {},
+  "source": {}
+}

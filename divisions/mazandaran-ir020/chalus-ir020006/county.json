@@ -1,0 +1,45 @@
+{
+  "id": "IR020006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان چالوس",
+    "en": "Chalus",
+    "slug": "chalus-ir020006"
+  },
+  "code": {
+    "id": "IR020006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.425",
+    "lon": "51.251"
+  },
+  "metadata": {},
+  "source": {}
+}

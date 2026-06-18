@@ -1,0 +1,45 @@
+{
+  "id": "IR018002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ازنا",
+    "en": "Azna",
+    "slug": "azna-ir018002"
+  },
+  "code": {
+    "id": "IR018002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR018",
+    "level": 1,
+    "name": {
+      "local": "لرستان",
+      "en": "Lorestan",
+      "slug": "lorestan-ir018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.49",
+    "lon": "49.429"
+  },
+  "metadata": {},
+  "source": {}
+}

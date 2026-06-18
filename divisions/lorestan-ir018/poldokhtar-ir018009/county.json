@@ -1,0 +1,45 @@
+{
+  "id": "IR018009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان پلدختر",
+    "en": "Poldokhtar",
+    "slug": "poldokhtar-ir018009"
+  },
+  "code": {
+    "id": "IR018009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR018",
+    "level": 1,
+    "name": {
+      "local": "لرستان",
+      "en": "Lorestan",
+      "slug": "lorestan-ir018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.06",
+    "lon": "47.983"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "IR023001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قم",
+      "en": "Qom",
+      "slug": "qom-ir023001"
+    },
+    "code": {
+      "id": "IR023001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR023",
+      "level": 1,
+      "name": {
+        "local": "قم",
+        "en": "Qom",
+        "slug": "qom-ir023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR023",
+        "level": 1,
+        "name": {
+          "local": "قم",
+          "en": "Qom",
+          "slug": "qom-ir023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.667",
+      "lon": "51.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "IR005014",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مرند",
+    "en": "Marand",
+    "slug": "marand-ir005014"
+  },
+  "code": {
+    "id": "IR005014",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR005",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان شرقی",
+      "en": "East Azerbaijan",
+      "slug": "east-azerbaijan-ir005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.586",
+    "lon": "45.657"
+  },
+  "metadata": {},
+  "source": {}
+}

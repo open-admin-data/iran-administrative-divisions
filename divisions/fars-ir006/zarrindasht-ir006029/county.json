@@ -1,0 +1,45 @@
+{
+  "id": "IR006029",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان زریندشت",
+    "en": "Zarrindasht",
+    "slug": "zarrindasht-ir006029"
+  },
+  "code": {
+    "id": "IR006029",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.3",
+    "lon": "54.486"
+  },
+  "metadata": {},
+  "source": {}
+}

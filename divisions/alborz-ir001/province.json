@@ -1,0 +1,33 @@
+{
+  "id": "IR001",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "البرز",
+    "en": "Alborz",
+    "slug": "alborz-ir001"
+  },
+  "code": {
+    "id": "IR001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.946",
+    "lon": "50.906"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/alborz-ir001/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

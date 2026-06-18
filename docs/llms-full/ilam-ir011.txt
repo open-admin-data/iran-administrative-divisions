@@ -1,0 +1,59 @@
+# Ilam — Iran Administrative Divisions
+
+> 10 countys
+> Code: IR011
+> Coordinates: 33.043, 46.872
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان آبدانان (Abdanan)
+
+Code: IR011001, Coordinates: 32.857, 47.526
+
+
+### شهرستان بدره (Badre)
+
+Code: IR011002, Coordinates: 33.316, 47.032
+
+
+### شهرستان درهشهر (Darreh Shahr)
+
+Code: IR011004, Coordinates: 33.025, 47.562
+
+
+### شهرستان دهلران (Dehloran)
+
+Code: IR011005, Coordinates: 32.679, 47.23
+
+
+### شهرستان ایوان (Eyvan)
+
+Code: IR011006, Coordinates: 33.856, 46.235
+
+
+### شهرستان ایلام (Ilam)
+
+Code: IR011007, Coordinates: 33.611, 46.061
+
+
+### شهرستان ملکشاهی (Malekshahi)
+
+Code: IR011008, Coordinates: 33.288, 46.628
+
+
+### شهرستان مهران (Mehran)
+
+Code: IR011009, Coordinates: 33.261, 46.287
+
+
+### شهرستان چرداول (Shirvan-o-Chardavol)
+
+Code: IR011003, Coordinates: 33.79, 47.14
+
+
+### شهرستان سیروان (Sirvan)
+
+Code: IR011010, Coordinates: 33.597, 46.704
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "IR031",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "زنجان",
+    "en": "Zanjan",
+    "slug": "zanjan-ir031"
+  },
+  "code": {
+    "id": "IR031",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.401",
+    "lon": "48.422"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/zanjan-ir031/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

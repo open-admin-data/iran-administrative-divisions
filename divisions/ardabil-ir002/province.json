@@ -1,0 +1,33 @@
+{
+  "id": "IR002",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "اردبیل",
+    "en": "Ardabil",
+    "slug": "ardabil-ir002"
+  },
+  "code": {
+    "id": "IR002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.407",
+    "lon": "47.986"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/ardabil-ir002/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

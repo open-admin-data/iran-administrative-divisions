@@ -1,0 +1,45 @@
+{
+  "id": "IR008006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان گمیشان",
+    "en": "Gomishan",
+    "slug": "gomishan-ir008006"
+  },
+  "code": {
+    "id": "IR008006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.145",
+    "lon": "54.17"
+  },
+  "metadata": {},
+  "source": {}
+}

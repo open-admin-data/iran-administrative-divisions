@@ -1,0 +1,45 @@
+{
+  "id": "IR002005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان کوثر",
+    "en": "Kowsar",
+    "slug": "kowsar-ir002005"
+  },
+  "code": {
+    "id": "IR002005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR002",
+    "level": 1,
+    "name": {
+      "local": "اردبیل",
+      "en": "Ardabil",
+      "slug": "ardabil-ir002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.715",
+    "lon": "48.253"
+  },
+  "metadata": {},
+  "source": {}
+}

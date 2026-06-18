@@ -1,0 +1,45 @@
+{
+  "id": "IR019006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان خنداب",
+    "en": "Khondab",
+    "slug": "khondab-ir019006"
+  },
+  "code": {
+    "id": "IR019006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR019",
+    "level": 1,
+    "name": {
+      "local": "مرکزی",
+      "en": "Markazi",
+      "slug": "markazi-ir019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.381",
+    "lon": "49.146"
+  },
+  "metadata": {},
+  "source": {}
+}

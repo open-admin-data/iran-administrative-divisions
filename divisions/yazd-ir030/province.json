@@ -1,0 +1,33 @@
+{
+  "id": "IR030",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "یزد",
+    "en": "Yazd",
+    "slug": "yazd-ir030"
+  },
+  "code": {
+    "id": "IR030",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.483",
+    "lon": "54.416"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/yazd-ir030/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR027011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان زیرکوه",
+    "en": "Zirkouh",
+    "slug": "zirkouh-ir027011"
+  },
+  "code": {
+    "id": "IR027011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR027",
+    "level": 1,
+    "name": {
+      "local": "خراسان جنوبی",
+      "en": "South Khorasan",
+      "slug": "south-khorasan-ir027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.543",
+    "lon": "60.123"
+  },
+  "metadata": {},
+  "source": {}
+}

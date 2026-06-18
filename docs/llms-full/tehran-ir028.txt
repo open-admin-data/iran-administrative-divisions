@@ -1,0 +1,89 @@
+# Tehran — Iran Administrative Divisions
+
+> 16 countys
+> Code: IR028
+> Coordinates: 35.502, 51.327
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان بهارستان (Baharestan)
+
+Code: IR028001, Coordinates: 35.531, 51.173
+
+
+### شهرستان دماوند (Damavand)
+
+Code: IR028002, Coordinates: 35.618, 52.169
+
+
+### شهرستان فیروزکوه (Firuzkuh)
+
+Code: IR028003, Coordinates: 35.637, 52.703
+
+
+### شهرستان اسلامشهر (Islamshahr)
+
+Code: IR028005, Coordinates: 35.58, 51.253
+
+
+### شهرستان ملارد (Malard)
+
+Code: IR028006, Coordinates: 35.604, 50.653
+
+
+### شهرستان پاکدشت (Pakdasht)
+
+Code: IR028007, Coordinates: 35.443, 51.777
+
+
+### شهرستان پردیس (Pardis)
+
+Code: IR028008, Coordinates: 35.67, 51.786
+
+
+### شهرستان پیشوا (Pishva)
+
+Code: IR028009, Coordinates: 35.328, 51.752
+
+
+### شهرستان قرچک (Qarchak)
+
+Code: IR028004, Coordinates: 35.417, 51.572
+
+
+### شهرستان ری (Rey)
+
+Code: IR028011, Coordinates: 35.362, 51.217
+
+
+### شهرستان رباط کریم (Robat-Karim)
+
+Code: IR028012, Coordinates: 35.49, 51.022
+
+
+### شهرستان قدس (Shahr-e Qods)
+
+Code: IR028010, Coordinates: 35.704, 51.102
+
+
+### شهرستان شهریار (Shahriar)
+
+Code: IR028013, Coordinates: 35.597, 51.049
+
+
+### شهرستان شمیرانات (Shemiranat)
+
+Code: IR028014, Coordinates: 35.959, 51.607
+
+
+### شهرستان تهران (Tehran)
+
+Code: IR028015, Coordinates: 35.729, 51.408
+
+
+### شهرستان ورامین (Varamin)
+
+Code: IR028016, Coordinates: 35.14, 51.73
+
+

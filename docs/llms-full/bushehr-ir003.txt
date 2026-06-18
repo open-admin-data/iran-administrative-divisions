@@ -1,0 +1,59 @@
+# Bushehr — Iran Administrative Divisions
+
+> 10 countys
+> Code: IR003
+> Coordinates: 28.785, 51.504
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان عسلویه (Asaluyeh)
+
+Code: IR003001, Coordinates: 27.488, 52.682
+
+
+### شهرستان بوشهر (Bushehr)
+
+Code: IR003002, Coordinates: 29.061, 51.052
+
+
+### شهرستان دشتستان (Dashtestan)
+
+Code: IR003003, Coordinates: 29.225, 51.374
+
+
+### شهرستان دشتی (Dashti)
+
+Code: IR003004, Coordinates: 28.447, 51.627
+
+
+### شهرستان دیر (Dayyer)
+
+Code: IR003006, Coordinates: 28.037, 51.678
+
+
+### شهرستان دیلم (Deylam)
+
+Code: IR003005, Coordinates: 30.021, 50.346
+
+
+### شهرستان گناوه (Ganaveh)
+
+Code: IR003007, Coordinates: 29.534, 50.673
+
+
+### شهرستان جم (Jam)
+
+Code: IR003008, Coordinates: 27.92, 52.264
+
+
+### شهرستان کنگان (Kangan)
+
+Code: IR003009, Coordinates: 27.771, 52.193
+
+
+### شهرستان تنگستان (Tangestan)
+
+Code: IR003010, Coordinates: 28.71, 51.542
+
+

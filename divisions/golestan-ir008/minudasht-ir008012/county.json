@@ -1,0 +1,45 @@
+{
+  "id": "IR008012",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مینودشت",
+    "en": "Minudasht",
+    "slug": "minudasht-ir008012"
+  },
+  "code": {
+    "id": "IR008012",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.146",
+    "lon": "55.448"
+  },
+  "metadata": {},
+  "source": {}
+}

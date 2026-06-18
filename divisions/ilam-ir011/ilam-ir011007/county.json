@@ -1,0 +1,45 @@
+{
+  "id": "IR011007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ایلام",
+    "en": "Ilam",
+    "slug": "ilam-ir011007"
+  },
+  "code": {
+    "id": "IR011007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR011",
+    "level": 1,
+    "name": {
+      "local": "ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.611",
+    "lon": "46.061"
+  },
+  "metadata": {},
+  "source": {}
+}

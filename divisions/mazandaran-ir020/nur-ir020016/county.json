@@ -1,0 +1,45 @@
+{
+  "id": "IR020016",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان نور",
+    "en": "Nur",
+    "slug": "nur-ir020016"
+  },
+  "code": {
+    "id": "IR020016",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.322",
+    "lon": "52.004"
+  },
+  "metadata": {},
+  "source": {}
+}

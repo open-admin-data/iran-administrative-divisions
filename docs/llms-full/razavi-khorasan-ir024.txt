@@ -1,0 +1,149 @@
+# Razavi Khorasan — Iran Administrative Divisions
+
+> 28 countys
+> Code: IR024
+> Coordinates: 35.779, 59.03
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان بجستان (Bajestan)
+
+Code: IR024001, Coordinates: 34.586, 58.046
+
+
+### شهرستان باخرز (Bakharz)
+
+Code: IR024002, Coordinates: 35.055, 60.276
+
+
+### شهرستان بردسکن (Bardaskan)
+
+Code: IR024003, Coordinates: 35.136, 57.436
+
+
+### شهرستان چناران (Chenaran)
+
+Code: IR024005, Coordinates: 36.663, 59.047
+
+
+### شهرستان درگز (Dargaz)
+
+Code: IR024006, Coordinates: 37.313, 59.081
+
+
+### شهرستان داورزن (Davarzan)
+
+Code: IR024007, Coordinates: 36.311, 57.077
+
+
+### شهرستان فریمان (Fariman)
+
+Code: IR024008, Coordinates: 35.729, 59.922
+
+
+### شهرستان فیروزه (Firuzeh)
+
+Code: IR024009, Coordinates: 36.35, 58.452
+
+
+### شهرستان گناباد (Gonabad)
+
+Code: IR024010, Coordinates: 34.413, 58.83
+
+
+### شهرستان جغتای (Joghatai)
+
+Code: IR024011, Coordinates: 36.652, 57.024
+
+
+### شهرستان جوین (Jowayin)
+
+Code: IR024012, Coordinates: 36.61, 57.555
+
+
+### شهرستان کلات (Kalat)
+
+Code: IR024013, Coordinates: 36.851, 59.952
+
+
+### شهرستان کاشمر (Kashmar)
+
+Code: IR024014, Coordinates: 35.417, 58.524
+
+
+### شهرستان خواف (Khaf)
+
+Code: IR024015, Coordinates: 34.452, 60.046
+
+
+### شهرستان خلیل آباد (Khalilabad)
+
+Code: IR024016, Coordinates: 35.179, 58.22
+
+
+### شهرستان خوشاب (Khoshab)
+
+Code: IR024017, Coordinates: 36.57, 58.059
+
+
+### شهرستان مه ولات (Mahvelat)
+
+Code: IR024018, Coordinates: 35.058, 58.655
+
+
+### شهرستان مشهد (Mashhad)
+
+Code: IR024019, Coordinates: 36.341, 59.871
+
+
+### شهرستان نیشابور (Nishapur)
+
+Code: IR024020, Coordinates: 36.272, 58.866
+
+
+### شهرستان قوچان (Quchan)
+
+Code: IR024021, Coordinates: 37.146, 58.58
+
+
+### شهرستان رشتخوار (Rashtkhar)
+
+Code: IR024022, Coordinates: 34.804, 59.239
+
+
+### شهرستان سبزوار (Sabzevar)
+
+Code: IR024023, Coordinates: 35.956, 57.471
+
+
+### شهرستان سرخس (Sarakhs)
+
+Code: IR024024, Coordinates: 36.271, 60.786
+
+
+### شهرستان تایباد (Taybad)
+
+Code: IR024025, Coordinates: 34.782, 60.662
+
+
+### شهرستان تربت حیدریه (Torbat-e-Heydarieh)
+
+Code: IR024026, Coordinates: 35.406, 59.058
+
+
+### شهرستان تربت جام (Torbat-e-Jam)
+
+Code: IR024027, Coordinates: 35.45, 60.623
+
+
+### شهرستان بینالود (Torghabe-o-Shandiz)
+
+Code: IR024004, Coordinates: 36.286, 59.282
+
+
+### شهرستان زاوه (Zave)
+
+Code: IR024028, Coordinates: 35.262, 59.72
+
+

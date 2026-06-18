@@ -1,0 +1,45 @@
+{
+  "id": "IR006005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اقلید",
+    "en": "Eqlid",
+    "slug": "eqlid-ir006005"
+  },
+  "code": {
+    "id": "IR006005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.726",
+    "lon": "52.358"
+  },
+  "metadata": {},
+  "source": {}
+}

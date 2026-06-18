@@ -1,0 +1,45 @@
+{
+  "id": "IR031008",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان زنجان",
+    "en": "Zanjan",
+    "slug": "zanjan-ir031008"
+  },
+  "code": {
+    "id": "IR031008",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR031",
+    "level": 1,
+    "name": {
+      "local": "زنجان",
+      "en": "Zanjan",
+      "slug": "zanjan-ir031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.851",
+    "lon": "48.247"
+  },
+  "metadata": {},
+  "source": {}
+}

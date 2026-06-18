@@ -1,0 +1,33 @@
+{
+  "id": "IR016",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "کهگیلویه و بویراحمد",
+    "en": "Kohgiluyeh and Boyer-Ahmad",
+    "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+  },
+  "code": {
+    "id": "IR016",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.703",
+    "lon": "51.095"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/kohgiluyeh-and-boyer-ahmad-ir016/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

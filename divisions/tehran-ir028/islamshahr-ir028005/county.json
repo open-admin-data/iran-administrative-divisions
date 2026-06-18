@@ -1,0 +1,45 @@
+{
+  "id": "IR028005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اسلامشهر",
+    "en": "Islamshahr",
+    "slug": "islamshahr-ir028005"
+  },
+  "code": {
+    "id": "IR028005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR028",
+    "level": 1,
+    "name": {
+      "local": "تهران",
+      "en": "Tehran",
+      "slug": "tehran-ir028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.58",
+    "lon": "51.253"
+  },
+  "metadata": {},
+  "source": {}
+}

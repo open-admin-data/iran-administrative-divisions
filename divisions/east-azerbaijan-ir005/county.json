@@ -1,0 +1,902 @@
+[
+  {
+    "id": "IR005001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اهر",
+      "en": "Ahar",
+      "slug": "ahar-ir005001"
+    },
+    "code": {
+      "id": "IR005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.695",
+      "lon": "47.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان عجبشیر",
+      "en": "Ajabshir",
+      "slug": "ajabshir-ir005002"
+    },
+    "code": {
+      "id": "IR005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.546",
+      "lon": "45.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آذرشهر",
+      "en": "Azarshahr",
+      "slug": "azarshahr-ir005003"
+    },
+    "code": {
+      "id": "IR005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.732",
+      "lon": "45.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بناب",
+      "en": "Bonab",
+      "slug": "bonab-ir005004"
+    },
+    "code": {
+      "id": "IR005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.348",
+      "lon": "46.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بستان آباد",
+      "en": "Bostanabad",
+      "slug": "bostanabad-ir005005"
+    },
+    "code": {
+      "id": "IR005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.813",
+      "lon": "46.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چاراویماق",
+      "en": "Charuymaq",
+      "slug": "charuymaq-ir005006"
+    },
+    "code": {
+      "id": "IR005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.055",
+      "lon": "47.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هشترود",
+      "en": "Hashtrud",
+      "slug": "hashtrud-ir005007"
+    },
+    "code": {
+      "id": "IR005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.397",
+      "lon": "46.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هریس",
+      "en": "Heris",
+      "slug": "heris-ir005008"
+    },
+    "code": {
+      "id": "IR005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.232",
+      "lon": "46.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جلفا",
+      "en": "Jolfa",
+      "slug": "jolfa-ir005009"
+    },
+    "code": {
+      "id": "IR005009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.822",
+      "lon": "45.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کلیبر",
+      "en": "Kalibar",
+      "slug": "kalibar-ir005010"
+    },
+    "code": {
+      "id": "IR005010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.951",
+      "lon": "47.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خداآفرین",
+      "en": "Khodaafarin",
+      "slug": "khodaafarin-ir005011"
+    },
+    "code": {
+      "id": "IR005011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.081",
+      "lon": "46.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ملکان",
+      "en": "Malekan",
+      "slug": "malekan-ir005012"
+    },
+    "code": {
+      "id": "IR005012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.115",
+      "lon": "46.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مراغه",
+      "en": "Maragheh",
+      "slug": "maragheh-ir005013"
+    },
+    "code": {
+      "id": "IR005013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.377",
+      "lon": "46.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مرند",
+      "en": "Marand",
+      "slug": "marand-ir005014"
+    },
+    "code": {
+      "id": "IR005014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.586",
+      "lon": "45.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان میانه",
+      "en": "Mianeh",
+      "slug": "mianeh-ir005015"
+    },
+    "code": {
+      "id": "IR005015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.486",
+      "lon": "47.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اسکو",
+      "en": "Osku",
+      "slug": "osku-ir005016"
+    },
+    "code": {
+      "id": "IR005016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.865",
+      "lon": "45.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سراب",
+      "en": "Sarab",
+      "slug": "sarab-ir005017"
+    },
+    "code": {
+      "id": "IR005017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.996",
+      "lon": "47.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شبستر",
+      "en": "Shabestar",
+      "slug": "shabestar-ir005018"
+    },
+    "code": {
+      "id": "IR005018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.241",
+      "lon": "45.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تبریز",
+      "en": "Tabriz",
+      "slug": "tabriz-ir005019"
+    },
+    "code": {
+      "id": "IR005019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.105",
+      "lon": "46.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR005020",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ورزقان",
+      "en": "Varzaqan",
+      "slug": "varzaqan-ir005020"
+    },
+    "code": {
+      "id": "IR005020",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR005",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان شرقی",
+          "en": "East Azerbaijan",
+          "slug": "east-azerbaijan-ir005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.585",
+      "lon": "46.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

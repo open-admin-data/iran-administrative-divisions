@@ -1,0 +1,33 @@
+{
+  "id": "IR014",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "کرمانشاه",
+    "en": "Kermanshah",
+    "slug": "kermanshah-ir014"
+  },
+  "code": {
+    "id": "IR014",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.487",
+    "lon": "46.809"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/kermanshah-ir014/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

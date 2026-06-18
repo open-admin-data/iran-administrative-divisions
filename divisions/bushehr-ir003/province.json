@@ -1,0 +1,33 @@
+{
+  "id": "IR003",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "بوشهر",
+    "en": "Bushehr",
+    "slug": "bushehr-ir003"
+  },
+  "code": {
+    "id": "IR003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.785",
+    "lon": "51.504"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/bushehr-ir003/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR030007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مهریز",
+    "en": "Mehriz",
+    "slug": "mehriz-ir030007"
+  },
+  "code": {
+    "id": "IR030007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR030",
+    "level": 1,
+    "name": {
+      "local": "یزد",
+      "en": "Yazd",
+      "slug": "yazd-ir030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.381",
+    "lon": "54.698"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR026019",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان زاهدان",
+    "en": "Zahedan",
+    "slug": "zahedan-ir026019"
+  },
+  "code": {
+    "id": "IR026019",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR026",
+    "level": 1,
+    "name": {
+      "local": "سیستان و بلوچستان",
+      "en": "Sistan and Baluchestan",
+      "slug": "sistan-and-baluchestan-ir026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.661",
+    "lon": "60.248"
+  },
+  "metadata": {},
+  "source": {}
+}

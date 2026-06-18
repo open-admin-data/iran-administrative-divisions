@@ -1,0 +1,33 @@
+{
+  "id": "IR026",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "سیستان و بلوچستان",
+    "en": "Sistan and Baluchestan",
+    "slug": "sistan-and-baluchestan-ir026"
+  },
+  "code": {
+    "id": "IR026",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.273",
+    "lon": "60.861"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/sistan-and-baluchestan-ir026/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

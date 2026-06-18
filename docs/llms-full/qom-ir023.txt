@@ -1,0 +1,14 @@
+# Qom — Iran Administrative Divisions
+
+> 1 countys
+> Code: IR023
+> Coordinates: 34.667, 51.002
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان قم (Qom)
+
+Code: IR023001, Coordinates: 34.667, 51.002
+
+

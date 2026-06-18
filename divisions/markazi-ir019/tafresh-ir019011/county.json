@@ -1,0 +1,45 @@
+{
+  "id": "IR019011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان تفرش",
+    "en": "Tafresh",
+    "slug": "tafresh-ir019011"
+  },
+  "code": {
+    "id": "IR019011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR019",
+    "level": 1,
+    "name": {
+      "local": "مرکزی",
+      "en": "Markazi",
+      "slug": "markazi-ir019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.788",
+    "lon": "49.892"
+  },
+  "metadata": {},
+  "source": {}
+}

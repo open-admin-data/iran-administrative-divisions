@@ -1,0 +1,45 @@
+{
+  "id": "IR006028",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان شیراز",
+    "en": "Shiraz",
+    "slug": "shiraz-ir006028"
+  },
+  "code": {
+    "id": "IR006028",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.569",
+    "lon": "52.492"
+  },
+  "metadata": {},
+  "source": {}
+}

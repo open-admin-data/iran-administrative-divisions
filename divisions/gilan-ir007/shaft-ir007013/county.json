@@ -1,0 +1,45 @@
+{
+  "id": "IR007013",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان شفت",
+    "en": "Shaft",
+    "slug": "shaft-ir007013"
+  },
+  "code": {
+    "id": "IR007013",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.136",
+    "lon": "49.429"
+  },
+  "metadata": {},
+  "source": {}
+}

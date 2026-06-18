@@ -1,0 +1,45 @@
+{
+  "id": "IR006015",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان خنج",
+    "en": "Khonj",
+    "slug": "khonj-ir006015"
+  },
+  "code": {
+    "id": "IR006015",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.973",
+    "lon": "53.007"
+  },
+  "metadata": {},
+  "source": {}
+}

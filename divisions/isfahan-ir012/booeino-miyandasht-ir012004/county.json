@@ -1,0 +1,45 @@
+{
+  "id": "IR012004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بوئین ومیاندشت",
+    "en": "Booeino Miyandasht",
+    "slug": "booeino-miyandasht-ir012004"
+  },
+  "code": {
+    "id": "IR012004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR012",
+    "level": 1,
+    "name": {
+      "local": "اصفهان",
+      "en": "Isfahan",
+      "slug": "isfahan-ir012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.163",
+    "lon": "50.105"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR021002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اسفراین",
+    "en": "Esfarayen",
+    "slug": "esfarayen-ir021002"
+  },
+  "code": {
+    "id": "IR021002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR021",
+    "level": 1,
+    "name": {
+      "local": "خراسان شمالی",
+      "en": "North Khorasan",
+      "slug": "north-khorasan-ir021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.934",
+    "lon": "57.491"
+  },
+  "metadata": {},
+  "source": {}
+}

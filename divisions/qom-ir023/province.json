@@ -1,0 +1,33 @@
+{
+  "id": "IR023",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "قم",
+    "en": "Qom",
+    "slug": "qom-ir023"
+  },
+  "code": {
+    "id": "IR023",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.667",
+    "lon": "51.002"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/qom-ir023/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

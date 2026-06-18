@@ -1,0 +1,45 @@
+{
+  "id": "IR003001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان عسلویه",
+    "en": "Asaluyeh",
+    "slug": "asaluyeh-ir003001"
+  },
+  "code": {
+    "id": "IR003001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR003",
+    "level": 1,
+    "name": {
+      "local": "بوشهر",
+      "en": "Bushehr",
+      "slug": "bushehr-ir003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.488",
+    "lon": "52.682"
+  },
+  "metadata": {},
+  "source": {}
+}

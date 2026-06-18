@@ -1,0 +1,45 @@
+{
+  "id": "IR026004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان هامون",
+    "en": "Hamoun",
+    "slug": "hamoun-ir026004"
+  },
+  "code": {
+    "id": "IR026004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR026",
+    "level": 1,
+    "name": {
+      "local": "سیستان و بلوچستان",
+      "en": "Sistan and Baluchestan",
+      "slug": "sistan-and-baluchestan-ir026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.551",
+    "lon": "61.251"
+  },
+  "metadata": {},
+  "source": {}
+}

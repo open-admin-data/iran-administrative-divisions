@@ -1,0 +1,497 @@
+[
+  {
+    "id": "IR018001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان الیگودرز",
+      "en": "Aligudarz",
+      "slug": "aligudarz-ir018001"
+    },
+    "code": {
+      "id": "IR018001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.146",
+      "lon": "49.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ازنا",
+      "en": "Azna",
+      "slug": "azna-ir018002"
+    },
+    "code": {
+      "id": "IR018002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.49",
+      "lon": "49.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بروجرد",
+      "en": "Borujerd",
+      "slug": "borujerd-ir018003"
+    },
+    "code": {
+      "id": "IR018003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.868",
+      "lon": "48.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دلفان",
+      "en": "Delfan",
+      "slug": "delfan-ir018004"
+    },
+    "code": {
+      "id": "IR018004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.105",
+      "lon": "47.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دورود",
+      "en": "Dorud",
+      "slug": "dorud-ir018006"
+    },
+    "code": {
+      "id": "IR018006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.521",
+      "lon": "49.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دوره",
+      "en": "Doureh",
+      "slug": "doureh-ir018005"
+    },
+    "code": {
+      "id": "IR018005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.606",
+      "lon": "47.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خرمآباد",
+      "en": "Khorramabad",
+      "slug": "khorramabad-ir018007"
+    },
+    "code": {
+      "id": "IR018007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.4",
+      "lon": "48.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کوهدشت",
+      "en": "Kuhdasht",
+      "slug": "kuhdasht-ir018008"
+    },
+    "code": {
+      "id": "IR018008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.589",
+      "lon": "47.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پلدختر",
+      "en": "Poldokhtar",
+      "slug": "poldokhtar-ir018009"
+    },
+    "code": {
+      "id": "IR018009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.06",
+      "lon": "47.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رومشکان",
+      "en": "Romeshkan",
+      "slug": "romeshkan-ir018010"
+    },
+    "code": {
+      "id": "IR018010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.256",
+      "lon": "47.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR018011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سلسله",
+      "en": "Selseleh",
+      "slug": "selseleh-ir018011"
+    },
+    "code": {
+      "id": "IR018011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR018",
+        "level": 1,
+        "name": {
+          "local": "لرستان",
+          "en": "Lorestan",
+          "slug": "lorestan-ir018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.834",
+      "lon": "48.108"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

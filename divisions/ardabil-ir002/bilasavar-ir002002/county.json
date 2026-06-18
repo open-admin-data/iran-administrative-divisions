@@ -1,0 +1,45 @@
+{
+  "id": "IR002002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بیلهسوار",
+    "en": "Bilasavar",
+    "slug": "bilasavar-ir002002"
+  },
+  "code": {
+    "id": "IR002002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR002",
+    "level": 1,
+    "name": {
+      "local": "اردبیل",
+      "en": "Ardabil",
+      "slug": "ardabil-ir002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.347",
+    "lon": "47.997"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR008004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بندر گز",
+    "en": "Bandar-e-Gaz",
+    "slug": "bandar-e-gaz-ir008004"
+  },
+  "code": {
+    "id": "IR008004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.735",
+    "lon": "53.959"
+  },
+  "metadata": {},
+  "source": {}
+}

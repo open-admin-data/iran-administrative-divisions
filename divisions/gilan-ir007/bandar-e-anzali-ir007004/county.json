@@ -1,0 +1,45 @@
+{
+  "id": "IR007004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بندر انزلی",
+    "en": "Bandar-e-Anzali",
+    "slug": "bandar-e-anzali-ir007004"
+  },
+  "code": {
+    "id": "IR007004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.473",
+    "lon": "49.369"
+  },
+  "metadata": {},
+  "source": {}
+}

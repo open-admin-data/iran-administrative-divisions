@@ -1,0 +1,49 @@
+# Zanjan — Iran Administrative Divisions
+
+> 8 countys
+> Code: IR031
+> Coordinates: 36.401, 48.422
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان ابهر (Abhar)
+
+Code: IR031001, Coordinates: 36.134, 49.165
+
+
+### شهرستان ایجرود (Eejrud)
+
+Code: IR031002, Coordinates: 36.326, 48.156
+
+
+### شهرستان خدابنده (Khodabandeh)
+
+Code: IR031003, Coordinates: 35.99, 48.414
+
+
+### شهرستان خرمدره (Khorramdarreh)
+
+Code: IR031004, Coordinates: 36.295, 49.184
+
+
+### شهرستان ماه نشان (Mahneshan)
+
+Code: IR031005, Coordinates: 36.643, 47.637
+
+
+### شهرستان سلطانیه (Soltanieh)
+
+Code: IR031006, Coordinates: 36.481, 48.766
+
+
+### شهرستان طارم (Tarom)
+
+Code: IR031007, Coordinates: 36.927, 48.882
+
+
+### شهرستان زنجان (Zanjan)
+
+Code: IR031008, Coordinates: 36.851, 48.247
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "IR029012",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سلماس",
+    "en": "Salmas",
+    "slug": "salmas-ir029012"
+  },
+  "code": {
+    "id": "IR029012",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR029",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان غربی",
+      "en": "West Azerbaijan",
+      "slug": "west-azerbaijan-ir029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.106",
+    "lon": "44.696"
+  },
+  "metadata": {},
+  "source": {}
+}

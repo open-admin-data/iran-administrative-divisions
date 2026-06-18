@@ -1,0 +1,45 @@
+{
+  "id": "IR014013",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سرپل ذهاب",
+    "en": "Sarpol-e-Zahab",
+    "slug": "sarpol-e-zahab-ir014013"
+  },
+  "code": {
+    "id": "IR014013",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR014",
+    "level": 1,
+    "name": {
+      "local": "کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.53",
+    "lon": "45.834"
+  },
+  "metadata": {},
+  "source": {}
+}

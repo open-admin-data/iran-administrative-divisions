@@ -1,0 +1,45 @@
+{
+  "id": "IR006004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان داراب",
+    "en": "Darab",
+    "slug": "darab-ir006004"
+  },
+  "code": {
+    "id": "IR006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.485",
+    "lon": "55.047"
+  },
+  "metadata": {},
+  "source": {}
+}

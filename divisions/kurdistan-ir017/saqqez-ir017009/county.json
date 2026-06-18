@@ -1,0 +1,45 @@
+{
+  "id": "IR017009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سقز",
+    "en": "Saqqez",
+    "slug": "saqqez-ir017009"
+  },
+  "code": {
+    "id": "IR017009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR017",
+    "level": 1,
+    "name": {
+      "local": "کردستان",
+      "en": "Kurdistan",
+      "slug": "kurdistan-ir017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.122",
+    "lon": "46.36"
+  },
+  "metadata": {},
+  "source": {}
+}

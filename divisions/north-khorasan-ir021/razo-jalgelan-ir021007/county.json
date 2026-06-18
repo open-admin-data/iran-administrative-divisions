@@ -1,0 +1,45 @@
+{
+  "id": "IR021007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان رازوجرگلان",
+    "en": "Razo Jalgelan",
+    "slug": "razo-jalgelan-ir021007"
+  },
+  "code": {
+    "id": "IR021007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR021",
+    "level": 1,
+    "name": {
+      "local": "خراسان شمالی",
+      "en": "North Khorasan",
+      "slug": "north-khorasan-ir021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.07",
+    "lon": "56.991"
+  },
+  "metadata": {},
+  "source": {}
+}

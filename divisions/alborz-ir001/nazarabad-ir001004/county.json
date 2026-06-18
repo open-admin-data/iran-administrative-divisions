@@ -1,0 +1,45 @@
+{
+  "id": "IR001004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان نظرآباد",
+    "en": "Nazarabad",
+    "slug": "nazarabad-ir001004"
+  },
+  "code": {
+    "id": "IR001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR001",
+    "level": 1,
+    "name": {
+      "local": "البرز",
+      "en": "Alborz",
+      "slug": "alborz-ir001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.903",
+    "lon": "50.522"
+  },
+  "metadata": {},
+  "source": {}
+}

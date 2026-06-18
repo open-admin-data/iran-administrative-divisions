@@ -1,0 +1,45 @@
+{
+  "id": "IR015002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آغاجاری",
+    "en": "Aghajari",
+    "slug": "aghajari-ir015002"
+  },
+  "code": {
+    "id": "IR015002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR015",
+    "level": 1,
+    "name": {
+      "local": "خوزستان",
+      "en": "Khuzestan",
+      "slug": "khuzestan-ir015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.747",
+    "lon": "49.91"
+  },
+  "metadata": {},
+  "source": {}
+}

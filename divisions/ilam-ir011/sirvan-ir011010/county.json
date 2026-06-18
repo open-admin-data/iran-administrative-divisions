@@ -1,0 +1,45 @@
+{
+  "id": "IR011010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سیروان",
+    "en": "Sirvan",
+    "slug": "sirvan-ir011010"
+  },
+  "code": {
+    "id": "IR011010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR011",
+    "level": 1,
+    "name": {
+      "local": "ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.597",
+    "lon": "46.704"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR024009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فیروزه",
+    "en": "Firuzeh",
+    "slug": "firuzeh-ir024009"
+  },
+  "code": {
+    "id": "IR024009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR024",
+    "level": 1,
+    "name": {
+      "local": "خراسان رضوی",
+      "en": "Razavi Khorasan",
+      "slug": "razavi-khorasan-ir024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.35",
+    "lon": "58.452"
+  },
+  "metadata": {},
+  "source": {}
+}

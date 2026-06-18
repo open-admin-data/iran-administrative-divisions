@@ -1,0 +1,45 @@
+{
+  "id": "IR009004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان همدان",
+    "en": "Hamadan",
+    "slug": "hamadan-ir009004"
+  },
+  "code": {
+    "id": "IR009004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR009",
+    "level": 1,
+    "name": {
+      "local": "همدان",
+      "en": "Hamadan",
+      "slug": "hamadan-ir009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.836",
+    "lon": "48.775"
+  },
+  "metadata": {},
+  "source": {}
+}

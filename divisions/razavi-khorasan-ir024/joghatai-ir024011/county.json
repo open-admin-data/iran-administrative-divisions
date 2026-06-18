@@ -1,0 +1,45 @@
+{
+  "id": "IR024011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان جغتای",
+    "en": "Joghatai",
+    "slug": "joghatai-ir024011"
+  },
+  "code": {
+    "id": "IR024011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR024",
+    "level": 1,
+    "name": {
+      "local": "خراسان رضوی",
+      "en": "Razavi Khorasan",
+      "slug": "razavi-khorasan-ir024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.652",
+    "lon": "57.024"
+  },
+  "metadata": {},
+  "source": {}
+}

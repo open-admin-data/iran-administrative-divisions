@@ -1,0 +1,45 @@
+{
+  "id": "IR010002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بندرعباس",
+    "en": "Bandar-Abbas",
+    "slug": "bandar-abbas-ir010002"
+  },
+  "code": {
+    "id": "IR010002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR010",
+    "level": 1,
+    "name": {
+      "local": "هرمزگان",
+      "en": "Hormozgan",
+      "slug": "hormozgan-ir010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.468",
+    "lon": "56.317"
+  },
+  "metadata": {},
+  "source": {}
+}

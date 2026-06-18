@@ -1,0 +1,45 @@
+{
+  "id": "IR012001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آران وبیدگل",
+    "en": "Aran-o-Bidgol",
+    "slug": "aran-o-bidgol-ir012001"
+  },
+  "code": {
+    "id": "IR012001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR012",
+    "level": 1,
+    "name": {
+      "local": "اصفهان",
+      "en": "Isfahan",
+      "slug": "isfahan-ir012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.141",
+    "lon": "51.87"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR026003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فنوج",
+    "en": "Fanouj",
+    "slug": "fanouj-ir026003"
+  },
+  "code": {
+    "id": "IR026003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR026",
+    "level": 1,
+    "name": {
+      "local": "سیستان و بلوچستان",
+      "en": "Sistan and Baluchestan",
+      "slug": "sistan-and-baluchestan-ir026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.719",
+    "lon": "59.478"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR024017",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان خوشاب",
+    "en": "Khoshab",
+    "slug": "khoshab-ir024017"
+  },
+  "code": {
+    "id": "IR024017",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR024",
+    "level": 1,
+    "name": {
+      "local": "خراسان رضوی",
+      "en": "Razavi Khorasan",
+      "slug": "razavi-khorasan-ir024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.57",
+    "lon": "58.059"
+  },
+  "metadata": {},
+  "source": {}
+}

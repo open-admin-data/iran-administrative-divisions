@@ -1,0 +1,45 @@
+{
+  "id": "IR006022",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان نی ریز",
+    "en": "Neyriz",
+    "slug": "neyriz-ir006022"
+  },
+  "code": {
+    "id": "IR006022",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.312",
+    "lon": "54.561"
+  },
+  "metadata": {},
+  "source": {}
+}

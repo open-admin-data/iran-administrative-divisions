@@ -1,0 +1,45 @@
+{
+  "id": "IR005007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان هشترود",
+    "en": "Hashtrud",
+    "slug": "hashtrud-ir005007"
+  },
+  "code": {
+    "id": "IR005007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR005",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان شرقی",
+      "en": "East Azerbaijan",
+      "slug": "east-azerbaijan-ir005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.397",
+    "lon": "46.941"
+  },
+  "metadata": {},
+  "source": {}
+}

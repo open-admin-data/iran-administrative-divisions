@@ -1,0 +1,45 @@
+{
+  "id": "IR008003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آزادشهر",
+    "en": "Azadshahr",
+    "slug": "azadshahr-ir008003"
+  },
+  "code": {
+    "id": "IR008003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.996",
+    "lon": "55.405"
+  },
+  "metadata": {},
+  "source": {}
+}

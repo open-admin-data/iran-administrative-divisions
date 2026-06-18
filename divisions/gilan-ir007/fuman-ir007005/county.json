@@ -1,0 +1,45 @@
+{
+  "id": "IR007005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فومن",
+    "en": "Fuman",
+    "slug": "fuman-ir007005"
+  },
+  "code": {
+    "id": "IR007005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.175",
+    "lon": "49.141"
+  },
+  "metadata": {},
+  "source": {}
+}

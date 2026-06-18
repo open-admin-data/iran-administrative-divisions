@@ -1,0 +1,45 @@
+{
+  "id": "IR006011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان جهرم",
+    "en": "Jahrom",
+    "slug": "jahrom-ir006011"
+  },
+  "code": {
+    "id": "IR006011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.707",
+    "lon": "53.253"
+  },
+  "metadata": {},
+  "source": {}
+}

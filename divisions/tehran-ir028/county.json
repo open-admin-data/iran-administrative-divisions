@@ -1,0 +1,722 @@
+[
+  {
+    "id": "IR028001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بهارستان",
+      "en": "Baharestan",
+      "slug": "baharestan-ir028001"
+    },
+    "code": {
+      "id": "IR028001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.531",
+      "lon": "51.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دماوند",
+      "en": "Damavand",
+      "slug": "damavand-ir028002"
+    },
+    "code": {
+      "id": "IR028002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.618",
+      "lon": "52.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فیروزکوه",
+      "en": "Firuzkuh",
+      "slug": "firuzkuh-ir028003"
+    },
+    "code": {
+      "id": "IR028003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.637",
+      "lon": "52.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اسلامشهر",
+      "en": "Islamshahr",
+      "slug": "islamshahr-ir028005"
+    },
+    "code": {
+      "id": "IR028005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.58",
+      "lon": "51.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ملارد",
+      "en": "Malard",
+      "slug": "malard-ir028006"
+    },
+    "code": {
+      "id": "IR028006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.604",
+      "lon": "50.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پاکدشت",
+      "en": "Pakdasht",
+      "slug": "pakdasht-ir028007"
+    },
+    "code": {
+      "id": "IR028007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.443",
+      "lon": "51.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پردیس",
+      "en": "Pardis",
+      "slug": "pardis-ir028008"
+    },
+    "code": {
+      "id": "IR028008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.67",
+      "lon": "51.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پیشوا",
+      "en": "Pishva",
+      "slug": "pishva-ir028009"
+    },
+    "code": {
+      "id": "IR028009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.328",
+      "lon": "51.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قرچک",
+      "en": "Qarchak",
+      "slug": "qarchak-ir028004"
+    },
+    "code": {
+      "id": "IR028004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.417",
+      "lon": "51.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ری",
+      "en": "Rey",
+      "slug": "rey-ir028011"
+    },
+    "code": {
+      "id": "IR028011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.362",
+      "lon": "51.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رباط کریم",
+      "en": "Robat-Karim",
+      "slug": "robat-karim-ir028012"
+    },
+    "code": {
+      "id": "IR028012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.49",
+      "lon": "51.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قدس",
+      "en": "Shahr-e Qods",
+      "slug": "shahr-e-qods-ir028010"
+    },
+    "code": {
+      "id": "IR028010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.704",
+      "lon": "51.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شهریار",
+      "en": "Shahriar",
+      "slug": "shahriar-ir028013"
+    },
+    "code": {
+      "id": "IR028013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.597",
+      "lon": "51.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شمیرانات",
+      "en": "Shemiranat",
+      "slug": "shemiranat-ir028014"
+    },
+    "code": {
+      "id": "IR028014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.959",
+      "lon": "51.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تهران",
+      "en": "Tehran",
+      "slug": "tehran-ir028015"
+    },
+    "code": {
+      "id": "IR028015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.729",
+      "lon": "51.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR028016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ورامین",
+      "en": "Varamin",
+      "slug": "varamin-ir028016"
+    },
+    "code": {
+      "id": "IR028016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR028",
+        "level": 1,
+        "name": {
+          "local": "تهران",
+          "en": "Tehran",
+          "slug": "tehran-ir028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.14",
+      "lon": "51.73"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

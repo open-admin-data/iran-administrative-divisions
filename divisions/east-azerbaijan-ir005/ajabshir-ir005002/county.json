@@ -1,0 +1,45 @@
+{
+  "id": "IR005002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان عجبشیر",
+    "en": "Ajabshir",
+    "slug": "ajabshir-ir005002"
+  },
+  "code": {
+    "id": "IR005002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR005",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان شرقی",
+      "en": "East Azerbaijan",
+      "slug": "east-azerbaijan-ir005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.546",
+    "lon": "45.985"
+  },
+  "metadata": {},
+  "source": {}
+}

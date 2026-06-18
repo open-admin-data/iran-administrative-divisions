@@ -1,0 +1,45 @@
+{
+  "id": "IR001001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اشتهارد",
+    "en": "Eshtehard",
+    "slug": "eshtehard-ir001001"
+  },
+  "code": {
+    "id": "IR001001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR001",
+    "level": 1,
+    "name": {
+      "local": "البرز",
+      "en": "Alborz",
+      "slug": "alborz-ir001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.701",
+    "lon": "50.493"
+  },
+  "metadata": {},
+  "source": {}
+}

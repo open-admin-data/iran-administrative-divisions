@@ -1,0 +1,45 @@
+{
+  "id": "IR025008",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان شاهرود",
+    "en": "Shahrud",
+    "slug": "shahrud-ir025008"
+  },
+  "code": {
+    "id": "IR025008",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR025",
+    "level": 1,
+    "name": {
+      "local": "سمنان",
+      "en": "Semnan",
+      "slug": "semnan-ir025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.575",
+    "lon": "55.857"
+  },
+  "metadata": {},
+  "source": {}
+}

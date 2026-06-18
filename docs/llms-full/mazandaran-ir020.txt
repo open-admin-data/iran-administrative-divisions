@@ -1,0 +1,119 @@
+# Mazandaran — Iran Administrative Divisions
+
+> 22 countys
+> Code: IR020
+> Coordinates: 36.363, 52.368
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان عباس آباد (Abbasabad)
+
+Code: IR020001, Coordinates: 36.638, 51.152
+
+
+### شهرستان آمل (Amol)
+
+Code: IR020002, Coordinates: 36.193, 52.344
+
+
+### شهرستان بابل (Babol)
+
+Code: IR020003, Coordinates: 36.273, 52.634
+
+
+### شهرستان بابلسر (Babolsar)
+
+Code: IR020004, Coordinates: 36.658, 52.699
+
+
+### شهرستان بهشهر (Behshahr)
+
+Code: IR020005, Coordinates: 36.678, 53.523
+
+
+### شهرستان چالوس (Chalus)
+
+Code: IR020006, Coordinates: 36.425, 51.251
+
+
+### شهرستان فریدونکنار (Feredunkenar)
+
+Code: IR020007, Coordinates: 36.645, 52.526
+
+
+### شهرستان گلوگاه (Galugah)
+
+Code: IR020008, Coordinates: 36.703, 53.759
+
+
+### شهرستان جویبار (Juybar)
+
+Code: IR020010, Coordinates: 36.677, 52.91
+
+
+### شهرستان کلاردشت (Kelardasht)
+
+Code: IR020011, Coordinates: 36.42, 51.066
+
+
+### شهرستان محمودآباد (Mahmudabad)
+
+Code: IR020012, Coordinates: 36.61, 52.323
+
+
+### شهرستان میاندورود (Miandorud)
+
+Code: IR020013, Coordinates: 36.623, 53.214
+
+
+### شهرستان نکا (Neka)
+
+Code: IR020014, Coordinates: 36.589, 53.403
+
+
+### شهرستان سوادکوه شمالی (Northern Savadkooh)
+
+Code: IR020019, Coordinates: 36.253, 52.846
+
+
+### شهرستان نوشهر (Noshahr)
+
+Code: IR020015, Coordinates: 36.466, 51.597
+
+
+### شهرستان نور (Nur)
+
+Code: IR020016, Coordinates: 36.322, 52.004
+
+
+### شهرستان قائمشهر (Qaemshahr)
+
+Code: IR020009, Coordinates: 36.467, 52.881
+
+
+### شهرستان رامسر (Ramsar)
+
+Code: IR020017, Coordinates: 36.77, 50.539
+
+
+### شهرستان ساری (Sari)
+
+Code: IR020018, Coordinates: 36.394, 53.246
+
+
+### شهرستان سوادکوه (Savadkuh)
+
+Code: IR020020, Coordinates: 36.09, 52.942
+
+
+### شهرستان سیمرغ (Simorgh)
+
+Code: IR020021, Coordinates: 36.581, 52.816
+
+
+### شهرستان تنکابن (Tonekabon)
+
+Code: IR020022, Coordinates: 36.569, 50.809
+
+

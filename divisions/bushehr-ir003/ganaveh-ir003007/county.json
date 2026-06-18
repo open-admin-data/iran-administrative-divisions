@@ -1,0 +1,45 @@
+{
+  "id": "IR003007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان گناوه",
+    "en": "Ganaveh",
+    "slug": "ganaveh-ir003007"
+  },
+  "code": {
+    "id": "IR003007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR003",
+    "level": 1,
+    "name": {
+      "local": "بوشهر",
+      "en": "Bushehr",
+      "slug": "bushehr-ir003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.534",
+    "lon": "50.673"
+  },
+  "metadata": {},
+  "source": {}
+}

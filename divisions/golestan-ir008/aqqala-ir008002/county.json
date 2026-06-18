@@ -1,0 +1,45 @@
+{
+  "id": "IR008002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آق قلا",
+    "en": "Aqqala",
+    "slug": "aqqala-ir008002"
+  },
+  "code": {
+    "id": "IR008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.187",
+    "lon": "54.526"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR024007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان داورزن",
+    "en": "Davarzan",
+    "slug": "davarzan-ir024007"
+  },
+  "code": {
+    "id": "IR024007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR024",
+    "level": 1,
+    "name": {
+      "local": "خراسان رضوی",
+      "en": "Razavi Khorasan",
+      "slug": "razavi-khorasan-ir024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.311",
+    "lon": "57.077"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR002009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان پارس آباد",
+    "en": "Parsabad",
+    "slug": "parsabad-ir002009"
+  },
+  "code": {
+    "id": "IR002009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR002",
+    "level": 1,
+    "name": {
+      "local": "اردبیل",
+      "en": "Ardabil",
+      "slug": "ardabil-ir002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.462",
+    "lon": "47.56"
+  },
+  "metadata": {},
+  "source": {}
+}

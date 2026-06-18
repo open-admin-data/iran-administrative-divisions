@@ -1,0 +1,45 @@
+{
+  "id": "IR031005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ماه نشان",
+    "en": "Mahneshan",
+    "slug": "mahneshan-ir031005"
+  },
+  "code": {
+    "id": "IR031005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR031",
+    "level": 1,
+    "name": {
+      "local": "زنجان",
+      "en": "Zanjan",
+      "slug": "zanjan-ir031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.643",
+    "lon": "47.637"
+  },
+  "metadata": {},
+  "source": {}
+}

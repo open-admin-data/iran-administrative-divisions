@@ -1,0 +1,49 @@
+# Kohgiluyeh and Boyer-Ahmad — Iran Administrative Divisions
+
+> 8 countys
+> Code: IR016
+> Coordinates: 30.703, 51.095
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان بهمئی (Bahmai)
+
+Code: IR016001, Coordinates: 30.984, 50.079
+
+
+### شهرستان باشت (Basht)
+
+Code: IR016002, Coordinates: 30.445, 51.089
+
+
+### شهرستان چرام (Charam)
+
+Code: IR016004, Coordinates: 30.808, 50.879
+
+
+### شهرستان دنا (Dena)
+
+Code: IR016005, Coordinates: 31.003, 51.241
+
+
+### شهرستان گچساران (Gachsaran)
+
+Code: IR016006, Coordinates: 30.285, 50.801
+
+
+### شهرستان کهگیلویه (Kohgeluyeh)
+
+Code: IR016007, Coordinates: 31.022, 50.598
+
+
+### شهرستان لنده (Landeh)
+
+Code: IR016008, Coordinates: 30.978, 50.359
+
+
+### شهرستان بویراحمد (Yasooj)
+
+Code: IR016003, Coordinates: 30.907, 51.051
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "IR015021",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مسجدسلیمان",
+    "en": "Masjed-Soleyman",
+    "slug": "masjed-soleyman-ir015021"
+  },
+  "code": {
+    "id": "IR015021",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR015",
+    "level": 1,
+    "name": {
+      "local": "خوزستان",
+      "en": "Khuzestan",
+      "slug": "khuzestan-ir015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.003",
+    "lon": "49.297"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR016005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دنا",
+    "en": "Dena",
+    "slug": "dena-ir016005"
+  },
+  "code": {
+    "id": "IR016005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR016",
+    "level": 1,
+    "name": {
+      "local": "کهگیلویه و بویراحمد",
+      "en": "Kohgiluyeh and Boyer-Ahmad",
+      "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR016",
+      "level": 1,
+      "name": {
+        "local": "کهگیلویه و بویراحمد",
+        "en": "Kohgiluyeh and Boyer-Ahmad",
+        "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.003",
+    "lon": "51.241"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "IR027",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "خراسان جنوبی",
+    "en": "South Khorasan",
+    "slug": "south-khorasan-ir027"
+  },
+  "code": {
+    "id": "IR027",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.802",
+    "lon": "58.239"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/south-khorasan-ir027/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

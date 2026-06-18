@@ -1,0 +1,59 @@
+# Yazd — Iran Administrative Divisions
+
+> 10 countys
+> Code: IR030
+> Coordinates: 31.483, 54.416
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان ابرکوه (Abarkuh)
+
+Code: IR030001, Coordinates: 31.127, 53.34
+
+
+### شهرستان اردکان (Ardekan)
+
+Code: IR030002, Coordinates: 32.703, 54.953
+
+
+### شهرستان اشکذر (Ashkezar)
+
+Code: IR030003, Coordinates: 31.986, 53.974
+
+
+### شهرستان بافق (Bafq)
+
+Code: IR030004, Coordinates: 31.646, 55.468
+
+
+### شهرستان بهاباد (Bahabad)
+
+Code: IR030005, Coordinates: 32.016, 56.067
+
+
+### شهرستان خاتم (Khatam)
+
+Code: IR030006, Coordinates: 30.303, 54.16
+
+
+### شهرستان مهریز (Mehriz)
+
+Code: IR030007, Coordinates: 31.381, 54.698
+
+
+### شهرستان میبد (Meybod)
+
+Code: IR030008, Coordinates: 31.96, 53.374
+
+
+### شهرستان تفت (Taft)
+
+Code: IR030009, Coordinates: 31.441, 53.794
+
+
+### شهرستان یزد (Yazd)
+
+Code: IR030010, Coordinates: 31.943, 54.462
+
+

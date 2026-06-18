@@ -1,0 +1,79 @@
+# Kermanshah — Iran Administrative Divisions
+
+> 14 countys
+> Code: IR014
+> Coordinates: 34.487, 46.809
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان دالاهو (Dalaho)
+
+Code: IR014001, Coordinates: 34.384, 46.275
+
+
+### شهرستان گیلانغرب (Gilan-e-Gharb)
+
+Code: IR014003, Coordinates: 34.062, 46.042
+
+
+### شهرستان هرسین (Harsin)
+
+Code: IR014004, Coordinates: 34.34, 47.515
+
+
+### شهرستان اسلام آبادغرب (Islamabad-e-Gharb)
+
+Code: IR014002, Coordinates: 34.043, 46.652
+
+
+### شهرستان جوانرود (Javanrud)
+
+Code: IR014005, Coordinates: 34.861, 46.311
+
+
+### شهرستان کنگاور (Kangavar)
+
+Code: IR014006, Coordinates: 34.452, 47.964
+
+
+### شهرستان کرمانشاه (Kermanshah)
+
+Code: IR014007, Coordinates: 34.298, 46.993
+
+
+### شهرستان پاوه (Paveh)
+
+Code: IR014008, Coordinates: 35.095, 46.288
+
+
+### شهرستان قصر شیرین (Qasr-e-Shirin)
+
+Code: IR014009, Coordinates: 34.203, 45.618
+
+
+### شهرستان روانسر (Ravansar)
+
+Code: IR014010, Coordinates: 34.767, 46.644
+
+
+### شهرستان صحنه (Sahneh)
+
+Code: IR014011, Coordinates: 34.564, 47.576
+
+
+### شهرستان سرپل ذهاب (Sarpol-e-Zahab)
+
+Code: IR014013, Coordinates: 34.53, 45.834
+
+
+### شهرستان ثلاث باباجانی (Solas-e-Babajani)
+
+Code: IR014012, Coordinates: 34.819, 45.994
+
+
+### شهرستان سنقر (Sonqor)
+
+Code: IR014014, Coordinates: 34.854, 47.438
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "IR015025",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان شادگان",
+    "en": "Shadegan",
+    "slug": "shadegan-ir015025"
+  },
+  "code": {
+    "id": "IR015025",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR015",
+    "level": 1,
+    "name": {
+      "local": "خوزستان",
+      "en": "Khuzestan",
+      "slug": "khuzestan-ir015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.647",
+    "lon": "48.628"
+  },
+  "metadata": {},
+  "source": {}
+}

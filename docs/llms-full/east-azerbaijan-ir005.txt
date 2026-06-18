@@ -1,0 +1,109 @@
+# East Azerbaijan — Iran Administrative Divisions
+
+> 20 countys
+> Code: IR005
+> Coordinates: 38.086, 46.692
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان اهر (Ahar)
+
+Code: IR005001, Coordinates: 38.695, 47.358
+
+
+### شهرستان عجبشیر (Ajabshir)
+
+Code: IR005002, Coordinates: 37.546, 45.985
+
+
+### شهرستان آذرشهر (Azarshahr)
+
+Code: IR005003, Coordinates: 37.732, 45.94
+
+
+### شهرستان بناب (Bonab)
+
+Code: IR005004, Coordinates: 37.348, 46.058
+
+
+### شهرستان بستان آباد (Bostanabad)
+
+Code: IR005005, Coordinates: 37.813, 46.756
+
+
+### شهرستان چاراویماق (Charuymaq)
+
+Code: IR005006, Coordinates: 37.055, 47.148
+
+
+### شهرستان هشترود (Hashtrud)
+
+Code: IR005007, Coordinates: 37.397, 46.941
+
+
+### شهرستان هریس (Heris)
+
+Code: IR005008, Coordinates: 38.232, 46.893
+
+
+### شهرستان جلفا (Jolfa)
+
+Code: IR005009, Coordinates: 38.822, 45.959
+
+
+### شهرستان کلیبر (Kalibar)
+
+Code: IR005010, Coordinates: 38.951, 47.097
+
+
+### شهرستان خداآفرین (Khodaafarin)
+
+Code: IR005011, Coordinates: 39.081, 46.944
+
+
+### شهرستان ملکان (Malekan)
+
+Code: IR005012, Coordinates: 37.115, 46.232
+
+
+### شهرستان مراغه (Maragheh)
+
+Code: IR005013, Coordinates: 37.377, 46.397
+
+
+### شهرستان مرند (Marand)
+
+Code: IR005014, Coordinates: 38.586, 45.657
+
+
+### شهرستان میانه (Mianeh)
+
+Code: IR005015, Coordinates: 37.486, 47.689
+
+
+### شهرستان اسکو (Osku)
+
+Code: IR005016, Coordinates: 37.865, 45.535
+
+
+### شهرستان سراب (Sarab)
+
+Code: IR005017, Coordinates: 37.996, 47.457
+
+
+### شهرستان شبستر (Shabestar)
+
+Code: IR005018, Coordinates: 38.241, 45.827
+
+
+### شهرستان تبریز (Tabriz)
+
+Code: IR005019, Coordinates: 38.105, 46.157
+
+
+### شهرستان ورزقان (Varzaqan)
+
+Code: IR005020, Coordinates: 38.585, 46.447
+
+

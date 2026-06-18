@@ -1,0 +1,45 @@
+{
+  "id": "IR019008",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان محلات",
+    "en": "Mahallat",
+    "slug": "mahallat-ir019008"
+  },
+  "code": {
+    "id": "IR019008",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR019",
+    "level": 1,
+    "name": {
+      "local": "مرکزی",
+      "en": "Markazi",
+      "slug": "markazi-ir019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.889",
+    "lon": "50.426"
+  },
+  "metadata": {},
+  "source": {}
+}

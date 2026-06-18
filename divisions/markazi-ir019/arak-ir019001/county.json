@@ -1,0 +1,45 @@
+{
+  "id": "IR019001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اراک",
+    "en": "Arak",
+    "slug": "arak-ir019001"
+  },
+  "code": {
+    "id": "IR019001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR019",
+    "level": 1,
+    "name": {
+      "local": "مرکزی",
+      "en": "Markazi",
+      "slug": "markazi-ir019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.144",
+    "lon": "49.881"
+  },
+  "metadata": {},
+  "source": {}
+}

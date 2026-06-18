@@ -1,0 +1,54 @@
+# Hamadan — Iran Administrative Divisions
+
+> 9 countys
+> Code: IR009
+> Coordinates: 34.87, 48.559
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان اسدآباد (Asadabad)
+
+Code: IR009001, Coordinates: 34.787, 48.038
+
+
+### شهرستان بهار (Bahar)
+
+Code: IR009002, Coordinates: 34.962, 48.351
+
+
+### شهرستان فامنین (Famenin)
+
+Code: IR009003, Coordinates: 35.046, 49.098
+
+
+### شهرستان همدان (Hamadan)
+
+Code: IR009004, Coordinates: 34.836, 48.775
+
+
+### شهرستان کبودرآهنگ (Kabudarahang)
+
+Code: IR009005, Coordinates: 35.338, 48.37
+
+
+### شهرستان ملایر (Malayer)
+
+Code: IR009006, Coordinates: 34.338, 48.706
+
+
+### شهرستان نهاوند (Nahavand)
+
+Code: IR009007, Coordinates: 34.218, 48.247
+
+
+### شهرستان رزن (Razan)
+
+Code: IR009008, Coordinates: 35.459, 48.932
+
+
+### شهرستان تویسرکان (Tuyserkan)
+
+Code: IR009009, Coordinates: 34.553, 48.311
+
+

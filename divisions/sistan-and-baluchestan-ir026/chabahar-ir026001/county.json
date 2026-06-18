@@ -1,0 +1,45 @@
+{
+  "id": "IR026001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان چابهار",
+    "en": "Chabahar",
+    "slug": "chabahar-ir026001"
+  },
+  "code": {
+    "id": "IR026001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR026",
+    "level": 1,
+    "name": {
+      "local": "سیستان و بلوچستان",
+      "en": "Sistan and Baluchestan",
+      "slug": "sistan-and-baluchestan-ir026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.505",
+    "lon": "61.202"
+  },
+  "metadata": {},
+  "source": {}
+}

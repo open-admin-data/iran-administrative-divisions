@@ -1,0 +1,33 @@
+{
+  "id": "IR013",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "کرمان",
+    "en": "Kerman",
+    "slug": "kerman-ir013"
+  },
+  "code": {
+    "id": "IR013",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.233",
+    "lon": "57.339"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/kerman-ir013/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

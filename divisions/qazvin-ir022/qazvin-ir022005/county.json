@@ -1,0 +1,45 @@
+{
+  "id": "IR022005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان قزوین",
+    "en": "Qazvin",
+    "slug": "qazvin-ir022005"
+  },
+  "code": {
+    "id": "IR022005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR022",
+    "level": 1,
+    "name": {
+      "local": "قزوین",
+      "en": "Qazvin",
+      "slug": "qazvin-ir022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR022",
+      "level": 1,
+      "name": {
+        "local": "قزوین",
+        "en": "Qazvin",
+        "slug": "qazvin-ir022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.454",
+    "lon": "49.922"
+  },
+  "metadata": {},
+  "source": {}
+}

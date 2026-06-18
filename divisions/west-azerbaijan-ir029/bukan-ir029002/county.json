@@ -1,0 +1,45 @@
+{
+  "id": "IR029002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بوکان",
+    "en": "Bukan",
+    "slug": "bukan-ir029002"
+  },
+  "code": {
+    "id": "IR029002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR029",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان غربی",
+      "en": "West Azerbaijan",
+      "slug": "west-azerbaijan-ir029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.539",
+    "lon": "46.18"
+  },
+  "metadata": {},
+  "source": {}
+}

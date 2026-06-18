@@ -1,0 +1,45 @@
+{
+  "id": "IR006019",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ممسنی",
+    "en": "Mamasani",
+    "slug": "mamasani-ir006019"
+  },
+  "code": {
+    "id": "IR006019",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.072",
+    "lon": "51.423"
+  },
+  "metadata": {},
+  "source": {}
+}

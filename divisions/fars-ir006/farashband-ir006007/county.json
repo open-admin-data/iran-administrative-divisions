@@ -1,0 +1,45 @@
+{
+  "id": "IR006007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فراشبند",
+    "en": "Farashband",
+    "slug": "farashband-ir006007"
+  },
+  "code": {
+    "id": "IR006007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.601",
+    "lon": "52.268"
+  },
+  "metadata": {},
+  "source": {}
+}

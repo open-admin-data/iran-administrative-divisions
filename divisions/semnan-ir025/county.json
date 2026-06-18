@@ -1,0 +1,362 @@
+[
+  {
+    "id": "IR025001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آرادان",
+      "en": "Aradan",
+      "slug": "aradan-ir025001"
+    },
+    "code": {
+      "id": "IR025001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.926",
+      "lon": "52.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR025002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دامغان",
+      "en": "Damghan",
+      "slug": "damghan-ir025002"
+    },
+    "code": {
+      "id": "IR025002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.396",
+      "lon": "54.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR025003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گرمسار",
+      "en": "Garmsar",
+      "slug": "garmsar-ir025003"
+    },
+    "code": {
+      "id": "IR025003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.99",
+      "lon": "52.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR025004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مهدی شهر",
+      "en": "Mehdishahr",
+      "slug": "mehdishahr-ir025004"
+    },
+    "code": {
+      "id": "IR025004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.887",
+      "lon": "53.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR025005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان میامی",
+      "en": "Meyami",
+      "slug": "meyami-ir025005"
+    },
+    "code": {
+      "id": "IR025005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.738",
+      "lon": "55.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR025006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سمنان",
+      "en": "Semnan",
+      "slug": "semnan-ir025006"
+    },
+    "code": {
+      "id": "IR025006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.106",
+      "lon": "53.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR025008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شاهرود",
+      "en": "Shahrud",
+      "slug": "shahrud-ir025008"
+    },
+    "code": {
+      "id": "IR025008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.575",
+      "lon": "55.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR025009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سرخه",
+      "en": "Sorkheh",
+      "slug": "sorkheh-ir025009"
+    },
+    "code": {
+      "id": "IR025009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR025",
+        "level": 1,
+        "name": {
+          "local": "سمنان",
+          "en": "Semnan",
+          "slug": "semnan-ir025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.99",
+      "lon": "53.162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

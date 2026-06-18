@@ -1,0 +1,45 @@
+{
+  "id": "IR014011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان صحنه",
+    "en": "Sahneh",
+    "slug": "sahneh-ir014011"
+  },
+  "code": {
+    "id": "IR014011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR014",
+    "level": 1,
+    "name": {
+      "local": "کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.564",
+    "lon": "47.576"
+  },
+  "metadata": {},
+  "source": {}
+}

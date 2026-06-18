@@ -1,0 +1,33 @@
+{
+  "id": "IR011",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ایلام",
+    "en": "Ilam",
+    "slug": "ilam-ir011"
+  },
+  "code": {
+    "id": "IR011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.043",
+    "lon": "46.872"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/ilam-ir011/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

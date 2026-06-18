@@ -1,0 +1,45 @@
+{
+  "id": "IR006014",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان خرامه",
+    "en": "Kherameh",
+    "slug": "kherameh-ir006014"
+  },
+  "code": {
+    "id": "IR006014",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.518",
+    "lon": "53.299"
+  },
+  "metadata": {},
+  "source": {}
+}

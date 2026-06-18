@@ -1,0 +1,45 @@
+{
+  "id": "IR030010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان یزد",
+    "en": "Yazd",
+    "slug": "yazd-ir030010"
+  },
+  "code": {
+    "id": "IR030010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR030",
+    "level": 1,
+    "name": {
+      "local": "یزد",
+      "en": "Yazd",
+      "slug": "yazd-ir030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.943",
+    "lon": "54.462"
+  },
+  "metadata": {},
+  "source": {}
+}

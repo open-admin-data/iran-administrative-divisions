@@ -1,0 +1,124 @@
+# Kerman — Iran Administrative Divisions
+
+> 23 countys
+> Code: IR013
+> Coordinates: 29.233, 57.339
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان انار (Anar)
+
+Code: IR013001, Coordinates: 30.815, 55.318
+
+
+### شهرستان عنبرآباد (Anbarabad)
+
+Code: IR013002, Coordinates: 28.441, 58.119
+
+
+### شهرستان ارزوئیه (Arzuiyeh)
+
+Code: IR013003, Coordinates: 28.472, 56.556
+
+
+### شهرستان بافت (Baft)
+
+Code: IR013004, Coordinates: 29.044, 56.502
+
+
+### شهرستان بم (Bam)
+
+Code: IR013005, Coordinates: 29.079, 58.202
+
+
+### شهرستان بردسیر (Bardsir)
+
+Code: IR013006, Coordinates: 29.793, 56.707
+
+
+### شهرستان فهرج (Fahraj)
+
+Code: IR013007, Coordinates: 29.166, 59.195
+
+
+### شهرستان فاریاب (Faryab)
+
+Code: IR013008, Coordinates: 28.19, 57.221
+
+
+### شهرستان قلعهگنج (Ghaleye-Ganj)
+
+Code: IR013009, Coordinates: 27.195, 58.47
+
+
+### شهرستان جیرفت (Jiroft)
+
+Code: IR013010, Coordinates: 28.728, 57.504
+
+
+### شهرستان کهنوج (Kahnuj)
+
+Code: IR013011, Coordinates: 27.851, 57.65
+
+
+### شهرستان کرمان (Kerman)
+
+Code: IR013012, Coordinates: 30.516, 58.006
+
+
+### شهرستان کوهبنان (Kuhbonan)
+
+Code: IR013013, Coordinates: 31.36, 56.19
+
+
+### شهرستان منوجان (Manujan)
+
+Code: IR013014, Coordinates: 27.368, 57.62
+
+
+### شهرستان نرماشیر (Normashir)
+
+Code: IR013015, Coordinates: 29.253, 58.751
+
+
+### شهرستان رابر (Rabar)
+
+Code: IR013016, Coordinates: 29.172, 56.989
+
+
+### شهرستان رفسنجان (Rafsanjan)
+
+Code: IR013017, Coordinates: 30.573, 55.89
+
+
+### شهرستان راور (Ravar)
+
+Code: IR013018, Coordinates: 31.263, 57.108
+
+
+### شهرستان ریگان (Rigan)
+
+Code: IR013019, Coordinates: 28.471, 58.819
+
+
+### شهرستان رودبار جنوب (Roudbar-e-Jonub)
+
+Code: IR013020, Coordinates: 27.857, 58.428
+
+
+### شهرستان شهربابک (Shahr-e-Babak)
+
+Code: IR013021, Coordinates: 30.256, 55.09
+
+
+### شهرستان سیرجان (Sirjan)
+
+Code: IR013022, Coordinates: 29.352, 55.661
+
+
+### شهرستان زرند (Zarand)
+
+Code: IR013023, Coordinates: 30.916, 56.408
+
+

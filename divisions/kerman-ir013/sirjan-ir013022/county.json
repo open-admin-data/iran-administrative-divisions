@@ -1,0 +1,45 @@
+{
+  "id": "IR013022",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سیرجان",
+    "en": "Sirjan",
+    "slug": "sirjan-ir013022"
+  },
+  "code": {
+    "id": "IR013022",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR013",
+    "level": 1,
+    "name": {
+      "local": "کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.352",
+    "lon": "55.661"
+  },
+  "metadata": {},
+  "source": {}
+}

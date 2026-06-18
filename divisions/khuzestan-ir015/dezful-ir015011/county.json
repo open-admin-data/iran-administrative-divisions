@@ -1,0 +1,45 @@
+{
+  "id": "IR015011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دزفول",
+    "en": "Dezful",
+    "slug": "dezful-ir015011"
+  },
+  "code": {
+    "id": "IR015011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR015",
+    "level": 1,
+    "name": {
+      "local": "خوزستان",
+      "en": "Khuzestan",
+      "slug": "khuzestan-ir015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.485",
+    "lon": "48.746"
+  },
+  "metadata": {},
+  "source": {}
+}

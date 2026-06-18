@@ -1,0 +1,45 @@
+{
+  "id": "IR018001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان الیگودرز",
+    "en": "Aligudarz",
+    "slug": "aligudarz-ir018001"
+  },
+  "code": {
+    "id": "IR018001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR018",
+    "level": 1,
+    "name": {
+      "local": "لرستان",
+      "en": "Lorestan",
+      "slug": "lorestan-ir018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.146",
+    "lon": "49.387"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR006023",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان پاسارگاد",
+    "en": "Pasargad",
+    "slug": "pasargad-ir006023"
+  },
+  "code": {
+    "id": "IR006023",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.141",
+    "lon": "53.133"
+  },
+  "metadata": {},
+  "source": {}
+}

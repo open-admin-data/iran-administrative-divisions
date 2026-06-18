@@ -1,0 +1,452 @@
+[
+  {
+    "id": "IR011001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آبدانان",
+      "en": "Abdanan",
+      "slug": "abdanan-ir011001"
+    },
+    "code": {
+      "id": "IR011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.857",
+      "lon": "47.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بدره",
+      "en": "Badre",
+      "slug": "badre-ir011002"
+    },
+    "code": {
+      "id": "IR011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.316",
+      "lon": "47.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان درهشهر",
+      "en": "Darreh Shahr",
+      "slug": "darreh-shahr-ir011004"
+    },
+    "code": {
+      "id": "IR011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.025",
+      "lon": "47.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دهلران",
+      "en": "Dehloran",
+      "slug": "dehloran-ir011005"
+    },
+    "code": {
+      "id": "IR011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.679",
+      "lon": "47.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ایوان",
+      "en": "Eyvan",
+      "slug": "eyvan-ir011006"
+    },
+    "code": {
+      "id": "IR011006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.856",
+      "lon": "46.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011007"
+    },
+    "code": {
+      "id": "IR011007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.611",
+      "lon": "46.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ملکشاهی",
+      "en": "Malekshahi",
+      "slug": "malekshahi-ir011008"
+    },
+    "code": {
+      "id": "IR011008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.288",
+      "lon": "46.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مهران",
+      "en": "Mehran",
+      "slug": "mehran-ir011009"
+    },
+    "code": {
+      "id": "IR011009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.261",
+      "lon": "46.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چرداول",
+      "en": "Shirvan-o-Chardavol",
+      "slug": "shirvan-o-chardavol-ir011003"
+    },
+    "code": {
+      "id": "IR011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.79",
+      "lon": "47.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR011010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سیروان",
+      "en": "Sirvan",
+      "slug": "sirvan-ir011010"
+    },
+    "code": {
+      "id": "IR011010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR011",
+        "level": 1,
+        "name": {
+          "local": "ایلام",
+          "en": "Ilam",
+          "slug": "ilam-ir011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.597",
+      "lon": "46.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

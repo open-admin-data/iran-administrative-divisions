@@ -1,0 +1,45 @@
+{
+  "id": "IR004006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان کوهرنگ",
+    "en": "Kuhrang",
+    "slug": "kuhrang-ir004006"
+  },
+  "code": {
+    "id": "IR004006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR004",
+    "level": 1,
+    "name": {
+      "local": "چهارمحال و بختیاری",
+      "en": "Chaharmahal and Bakhtiari",
+      "slug": "chaharmahal-and-bakhtiari-ir004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR004",
+      "level": 1,
+      "name": {
+        "local": "چهارمحال و بختیاری",
+        "en": "Chaharmahal and Bakhtiari",
+        "slug": "chaharmahal-and-bakhtiari-ir004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.405",
+    "lon": "50.112"
+  },
+  "metadata": {},
+  "source": {}
+}

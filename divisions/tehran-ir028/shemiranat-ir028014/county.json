@@ -1,0 +1,45 @@
+{
+  "id": "IR028014",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان شمیرانات",
+    "en": "Shemiranat",
+    "slug": "shemiranat-ir028014"
+  },
+  "code": {
+    "id": "IR028014",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR028",
+    "level": 1,
+    "name": {
+      "local": "تهران",
+      "en": "Tehran",
+      "slug": "tehran-ir028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.959",
+    "lon": "51.607"
+  },
+  "metadata": {},
+  "source": {}
+}

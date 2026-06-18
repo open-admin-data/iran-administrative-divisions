@@ -1,0 +1,45 @@
+{
+  "id": "IR021003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فاروج",
+    "en": "Faroj",
+    "slug": "faroj-ir021003"
+  },
+  "code": {
+    "id": "IR021003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR021",
+    "level": 1,
+    "name": {
+      "local": "خراسان شمالی",
+      "en": "North Khorasan",
+      "slug": "north-khorasan-ir021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.273",
+    "lon": "58.28"
+  },
+  "metadata": {},
+  "source": {}
+}

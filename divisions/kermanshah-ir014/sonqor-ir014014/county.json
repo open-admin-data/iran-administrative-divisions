@@ -1,0 +1,45 @@
+{
+  "id": "IR014014",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سنقر",
+    "en": "Sonqor",
+    "slug": "sonqor-ir014014"
+  },
+  "code": {
+    "id": "IR014014",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR014",
+    "level": 1,
+    "name": {
+      "local": "کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.854",
+    "lon": "47.438"
+  },
+  "metadata": {},
+  "source": {}
+}

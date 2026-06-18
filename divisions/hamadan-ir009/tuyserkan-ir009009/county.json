@@ -1,0 +1,45 @@
+{
+  "id": "IR009009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان تویسرکان",
+    "en": "Tuyserkan",
+    "slug": "tuyserkan-ir009009"
+  },
+  "code": {
+    "id": "IR009009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR009",
+    "level": 1,
+    "name": {
+      "local": "همدان",
+      "en": "Hamadan",
+      "slug": "hamadan-ir009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.553",
+    "lon": "48.311"
+  },
+  "metadata": {},
+  "source": {}
+}

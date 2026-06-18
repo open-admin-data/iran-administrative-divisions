@@ -1,0 +1,45 @@
+{
+  "id": "IR004002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بن",
+    "en": "Ben",
+    "slug": "ben-ir004002"
+  },
+  "code": {
+    "id": "IR004002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR004",
+    "level": 1,
+    "name": {
+      "local": "چهارمحال و بختیاری",
+      "en": "Chaharmahal and Bakhtiari",
+      "slug": "chaharmahal-and-bakhtiari-ir004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR004",
+      "level": 1,
+      "name": {
+        "local": "چهارمحال و بختیاری",
+        "en": "Chaharmahal and Bakhtiari",
+        "slug": "chaharmahal-and-bakhtiari-ir004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.578",
+    "lon": "50.616"
+  },
+  "metadata": {},
+  "source": {}
+}

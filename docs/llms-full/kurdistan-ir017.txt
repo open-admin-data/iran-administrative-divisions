@@ -1,0 +1,59 @@
+# Kurdistan — Iran Administrative Divisions
+
+> 10 countys
+> Code: IR017
+> Coordinates: 35.601, 47.006
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان بانه (Baneh)
+
+Code: IR017001, Coordinates: 36.022, 45.79
+
+
+### شهرستان بیجار (Bijar)
+
+Code: IR017002, Coordinates: 35.967, 47.663
+
+
+### شهرستان دهگلان (Dehgolan)
+
+Code: IR017003, Coordinates: 35.356, 47.347
+
+
+### شهرستان دیواندره (Divandarreh)
+
+Code: IR017004, Coordinates: 35.97, 46.982
+
+
+### شهرستان کامیاران (Kamyaran)
+
+Code: IR017006, Coordinates: 34.947, 46.854
+
+
+### شهرستان مریوان (Marivan)
+
+Code: IR017007, Coordinates: 35.588, 46.37
+
+
+### شهرستان قروه (Qorveh)
+
+Code: IR017005, Coordinates: 35.25, 47.806
+
+
+### شهرستان سنندج (Sannandaj)
+
+Code: IR017008, Coordinates: 35.368, 46.827
+
+
+### شهرستان سقز (Saqqez)
+
+Code: IR017009, Coordinates: 36.122, 46.36
+
+
+### شهرستان سروآباد (Sarvabad)
+
+Code: IR017010, Coordinates: 35.22, 46.41
+
+

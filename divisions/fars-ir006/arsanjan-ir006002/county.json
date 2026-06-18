@@ -1,0 +1,45 @@
+{
+  "id": "IR006002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ارسنجان",
+    "en": "Arsanjan",
+    "slug": "arsanjan-ir006002"
+  },
+  "code": {
+    "id": "IR006002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.831",
+    "lon": "53.392"
+  },
+  "metadata": {},
+  "source": {}
+}

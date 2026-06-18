@@ -1,0 +1,45 @@
+{
+  "id": "IR011005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دهلران",
+    "en": "Dehloran",
+    "slug": "dehloran-ir011005"
+  },
+  "code": {
+    "id": "IR011005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR011",
+    "level": 1,
+    "name": {
+      "local": "ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.679",
+    "lon": "47.23"
+  },
+  "metadata": {},
+  "source": {}
+}

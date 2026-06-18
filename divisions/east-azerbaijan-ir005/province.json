@@ -1,0 +1,33 @@
+{
+  "id": "IR005",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "آذربایجان شرقی",
+    "en": "East Azerbaijan",
+    "slug": "east-azerbaijan-ir005"
+  },
+  "code": {
+    "id": "IR005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.086",
+    "lon": "46.692"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/east-azerbaijan-ir005/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

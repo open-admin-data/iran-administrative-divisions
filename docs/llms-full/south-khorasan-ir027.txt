@@ -1,0 +1,64 @@
+# South Khorasan — Iran Administrative Divisions
+
+> 11 countys
+> Code: IR027
+> Coordinates: 32.802, 58.239
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان بیرجند (Birjand)
+
+Code: IR027001, Coordinates: 33.074, 59.144
+
+
+### شهرستان بشرویه (Boshruyeh)
+
+Code: IR027002, Coordinates: 34.043, 57.337
+
+
+### شهرستان درمیان (Darmian)
+
+Code: IR027003, Coordinates: 32.945, 60.154
+
+
+### شهرستان فردوس (Ferdows)
+
+Code: IR027004, Coordinates: 33.974, 58.04
+
+
+### شهرستان خوسف (Khusf)
+
+Code: IR027006, Coordinates: 32.336, 58.707
+
+
+### شهرستان نهبندان (Nehbandan)
+
+Code: IR027007, Coordinates: 31.433, 59.645
+
+
+### شهرستان قائنات (Qaen)
+
+Code: IR027005, Coordinates: 33.657, 59.013
+
+
+### شهرستان سرایان (Sarayan)
+
+Code: IR027008, Coordinates: 33.338, 58.292
+
+
+### شهرستان سربیشه (Sarbisheh)
+
+Code: IR027009, Coordinates: 32.472, 60.048
+
+
+### شهرستان طبس (Tabas)
+
+Code: IR027010, Coordinates: 33.393, 56.545
+
+
+### شهرستان زیرکوه (Zirkouh)
+
+Code: IR027011, Coordinates: 33.543, 60.123
+
+

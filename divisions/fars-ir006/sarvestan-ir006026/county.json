@@ -1,0 +1,45 @@
+{
+  "id": "IR006026",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سروستان",
+    "en": "Sarvestan",
+    "slug": "sarvestan-ir006026"
+  },
+  "code": {
+    "id": "IR006026",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.232",
+    "lon": "53.11"
+  },
+  "metadata": {},
+  "source": {}
+}

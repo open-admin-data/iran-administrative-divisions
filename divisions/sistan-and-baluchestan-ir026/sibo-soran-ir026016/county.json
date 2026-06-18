@@ -1,0 +1,45 @@
+{
+  "id": "IR026016",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سیب وسوران",
+    "en": "Sibo Soran",
+    "slug": "sibo-soran-ir026016"
+  },
+  "code": {
+    "id": "IR026016",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR026",
+    "level": 1,
+    "name": {
+      "local": "سیستان و بلوچستان",
+      "en": "Sistan and Baluchestan",
+      "slug": "sistan-and-baluchestan-ir026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR026",
+      "level": 1,
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.217",
+    "lon": "62.095"
+  },
+  "metadata": {},
+  "source": {}
+}

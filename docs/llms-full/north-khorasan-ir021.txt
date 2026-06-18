@@ -1,0 +1,49 @@
+# North Khorasan — Iran Administrative Divisions
+
+> 8 countys
+> Code: IR021
+> Coordinates: 37.433, 57.179
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان بجنورد (Bojnurd)
+
+Code: IR021001, Coordinates: 37.601, 57.404
+
+
+### شهرستان اسفراین (Esfarayen)
+
+Code: IR021002, Coordinates: 36.934, 57.491
+
+
+### شهرستان فاروج (Faroj)
+
+Code: IR021003, Coordinates: 37.273, 58.28
+
+
+### شهرستان گرمه (Germeh)
+
+Code: IR021004, Coordinates: 37.109, 56.173
+
+
+### شهرستان جاجرم (Jajrom)
+
+Code: IR021005, Coordinates: 37.03, 56.698
+
+
+### شهرستان مانه وسملقان (Maneh-o-Samalqan)
+
+Code: IR021006, Coordinates: 37.732, 56.71
+
+
+### شهرستان رازوجرگلان (Razo Jalgelan)
+
+Code: IR021007, Coordinates: 38.07, 56.991
+
+
+### شهرستان شیروان (Shirvan)
+
+Code: IR021008, Coordinates: 37.503, 57.984
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "IR004001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اردل",
+    "en": "Ardal",
+    "slug": "ardal-ir004001"
+  },
+  "code": {
+    "id": "IR004001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR004",
+    "level": 1,
+    "name": {
+      "local": "چهارمحال و بختیاری",
+      "en": "Chaharmahal and Bakhtiari",
+      "slug": "chaharmahal-and-bakhtiari-ir004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR004",
+      "level": 1,
+      "name": {
+        "local": "چهارمحال و بختیاری",
+        "en": "Chaharmahal and Bakhtiari",
+        "slug": "chaharmahal-and-bakhtiari-ir004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.914",
+    "lon": "50.34"
+  },
+  "metadata": {},
+  "source": {}
+}

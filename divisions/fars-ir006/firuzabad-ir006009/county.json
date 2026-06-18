@@ -1,0 +1,45 @@
+{
+  "id": "IR006009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فیروزآباد",
+    "en": "Firuzabad",
+    "slug": "firuzabad-ir006009"
+  },
+  "code": {
+    "id": "IR006009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.862",
+    "lon": "52.632"
+  },
+  "metadata": {},
+  "source": {}
+}

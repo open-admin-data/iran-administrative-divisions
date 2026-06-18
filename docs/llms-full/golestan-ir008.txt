@@ -1,0 +1,79 @@
+# Golestan — Iran Administrative Divisions
+
+> 14 countys
+> Code: IR008
+> Coordinates: 37.313, 54.894
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان علی آباد (Aliabad)
+
+Code: IR008001, Coordinates: 36.832, 54.91
+
+
+### شهرستان آق قلا (Aqqala)
+
+Code: IR008002, Coordinates: 37.187, 54.526
+
+
+### شهرستان آزادشهر (Azadshahr)
+
+Code: IR008003, Coordinates: 36.996, 55.405
+
+
+### شهرستان بندر گز (Bandar-e-Gaz)
+
+Code: IR008004, Coordinates: 36.735, 53.959
+
+
+### شهرستان ترکمن (Bandar-e-Torkaman)
+
+Code: IR008014, Coordinates: 36.898, 54.156
+
+
+### شهرستان گالیکش (Galikash)
+
+Code: IR008005, Coordinates: 37.328, 55.688
+
+
+### شهرستان گمیشان (Gomishan)
+
+Code: IR008006, Coordinates: 37.145, 54.17
+
+
+### شهرستان گنبد کاووس (Gonbad-e-Kavus)
+
+Code: IR008007, Coordinates: 37.588, 55.059
+
+
+### شهرستان گرگان (Gorgan)
+
+Code: IR008008, Coordinates: 36.738, 54.501
+
+
+### شهرستان کلاله (Kolaleh)
+
+Code: IR008009, Coordinates: 37.571, 55.613
+
+
+### شهرستان کردکوی (Kordkuy)
+
+Code: IR008010, Coordinates: 36.686, 54.203
+
+
+### شهرستان مراوهتپه (Maravehtapeh)
+
+Code: IR008011, Coordinates: 37.817, 55.873
+
+
+### شهرستان مینودشت (Minudasht)
+
+Code: IR008012, Coordinates: 37.146, 55.448
+
+
+### شهرستان رامیان (Ramian)
+
+Code: IR008013, Coordinates: 36.966, 55.103
+
+

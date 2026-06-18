@@ -1,0 +1,45 @@
+{
+  "id": "IR007003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آستارا",
+    "en": "Astara",
+    "slug": "astara-ir007003"
+  },
+  "code": {
+    "id": "IR007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.353",
+    "lon": "48.727"
+  },
+  "metadata": {},
+  "source": {}
+}

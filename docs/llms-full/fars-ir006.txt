@@ -1,0 +1,154 @@
+# Fars — Iran Administrative Divisions
+
+> 29 countys
+> Code: IR006
+> Coordinates: 29.358, 53.318
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان آباده (Abadeh)
+
+Code: IR006001, Coordinates: 31.221, 52.415
+
+
+### شهرستان ارسنجان (Arsanjan)
+
+Code: IR006002, Coordinates: 29.831, 53.392
+
+
+### شهرستان بوانات (Bavanat)
+
+Code: IR006003, Coordinates: 30.268, 53.595
+
+
+### شهرستان داراب (Darab)
+
+Code: IR006004, Coordinates: 28.485, 55.047
+
+
+### شهرستان اقلید (Eqlid)
+
+Code: IR006005, Coordinates: 30.726, 52.358
+
+
+### شهرستان استهبان (Estahban)
+
+Code: IR006006, Coordinates: 29.181, 53.856
+
+
+### شهرستان فراشبند (Farashband)
+
+Code: IR006007, Coordinates: 28.601, 52.268
+
+
+### شهرستان فسا (Fasa)
+
+Code: IR006008, Coordinates: 28.967, 53.818
+
+
+### شهرستان فیروزآباد (Firuzabad)
+
+Code: IR006009, Coordinates: 28.862, 52.632
+
+
+### شهرستان گراش (Gerash)
+
+Code: IR006010, Coordinates: 27.624, 53.633
+
+
+### شهرستان جهرم (Jahrom)
+
+Code: IR006011, Coordinates: 28.707, 53.253
+
+
+### شهرستان کوار (Kavar)
+
+Code: IR006012, Coordinates: 29.208, 52.712
+
+
+### شهرستان کازرون (Kazerun)
+
+Code: IR006013, Coordinates: 29.501, 51.677
+
+
+### شهرستان خرامه (Kherameh)
+
+Code: IR006014, Coordinates: 29.518, 53.299
+
+
+### شهرستان خنج (Khonj)
+
+Code: IR006015, Coordinates: 27.973, 53.007
+
+
+### شهرستان خرمبید (Khorrambid)
+
+Code: IR006016, Coordinates: 30.546, 53.13
+
+
+### شهرستان لامرد (Lamerd)
+
+Code: IR006017, Coordinates: 27.473, 53.34
+
+
+### شهرستان لارستان (Larestan)
+
+Code: IR006018, Coordinates: 27.835, 54.611
+
+
+### شهرستان ممسنی (Mamasani)
+
+Code: IR006019, Coordinates: 30.072, 51.423
+
+
+### شهرستان مرودشت (Marvdasht)
+
+Code: IR006020, Coordinates: 30.159, 52.686
+
+
+### شهرستان مهر (Mehr)
+
+Code: IR006021, Coordinates: 27.681, 52.673
+
+
+### شهرستان نی ریز (Neyriz)
+
+Code: IR006022, Coordinates: 29.312, 54.561
+
+
+### شهرستان پاسارگاد (Pasargad)
+
+Code: IR006023, Coordinates: 30.141, 53.133
+
+
+### شهرستان قیروکارزین (Qir-o-Karzin)
+
+Code: IR006024, Coordinates: 28.328, 52.982
+
+
+### شهرستان رستم (Rostam)
+
+Code: IR006025, Coordinates: 30.425, 51.386
+
+
+### شهرستان سروستان (Sarvestan)
+
+Code: IR006026, Coordinates: 29.232, 53.11
+
+
+### شهرستان سپیدان (Sepidan)
+
+Code: IR006027, Coordinates: 30.202, 52.043
+
+
+### شهرستان شیراز (Shiraz)
+
+Code: IR006028, Coordinates: 29.569, 52.492
+
+
+### شهرستان زریندشت (Zarrindasht)
+
+Code: IR006029, Coordinates: 28.3, 54.486
+
+

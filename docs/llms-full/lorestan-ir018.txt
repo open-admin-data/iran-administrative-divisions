@@ -1,0 +1,64 @@
+# Lorestan — Iran Administrative Divisions
+
+> 11 countys
+> Code: IR018
+> Coordinates: 33.516, 48.322
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان الیگودرز (Aligudarz)
+
+Code: IR018001, Coordinates: 33.146, 49.387
+
+
+### شهرستان ازنا (Azna)
+
+Code: IR018002, Coordinates: 33.49, 49.429
+
+
+### شهرستان بروجرد (Borujerd)
+
+Code: IR018003, Coordinates: 33.868, 48.791
+
+
+### شهرستان دلفان (Delfan)
+
+Code: IR018004, Coordinates: 34.105, 47.809
+
+
+### شهرستان دورود (Dorud)
+
+Code: IR018006, Coordinates: 33.521, 49.119
+
+
+### شهرستان دوره (Doureh)
+
+Code: IR018005, Coordinates: 33.606, 47.964
+
+
+### شهرستان خرمآباد (Khorramabad)
+
+Code: IR018007, Coordinates: 33.4, 48.56
+
+
+### شهرستان کوهدشت (Kuhdasht)
+
+Code: IR018008, Coordinates: 33.589, 47.38
+
+
+### شهرستان پلدختر (Poldokhtar)
+
+Code: IR018009, Coordinates: 33.06, 47.983
+
+
+### شهرستان رومشکان (Romeshkan)
+
+Code: IR018010, Coordinates: 33.256, 47.436
+
+
+### شهرستان سلسله (Selseleh)
+
+Code: IR018011, Coordinates: 33.834, 48.108
+
+

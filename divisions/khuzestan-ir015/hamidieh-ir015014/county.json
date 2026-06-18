@@ -1,0 +1,45 @@
+{
+  "id": "IR015014",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان حمیدیه",
+    "en": "Hamidieh",
+    "slug": "hamidieh-ir015014"
+  },
+  "code": {
+    "id": "IR015014",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR015",
+    "level": 1,
+    "name": {
+      "local": "خوزستان",
+      "en": "Khuzestan",
+      "slug": "khuzestan-ir015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.504",
+    "lon": "48.495"
+  },
+  "metadata": {},
+  "source": {}
+}

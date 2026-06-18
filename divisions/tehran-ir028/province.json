@@ -1,0 +1,33 @@
+{
+  "id": "IR028",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "تهران",
+    "en": "Tehran",
+    "slug": "tehran-ir028"
+  },
+  "code": {
+    "id": "IR028",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.502",
+    "lon": "51.327"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/tehran-ir028/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

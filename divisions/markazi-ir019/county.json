@@ -1,0 +1,542 @@
+[
+  {
+    "id": "IR019001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اراک",
+      "en": "Arak",
+      "slug": "arak-ir019001"
+    },
+    "code": {
+      "id": "IR019001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.144",
+      "lon": "49.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آشتیان",
+      "en": "Ashtian",
+      "slug": "ashtian-ir019002"
+    },
+    "code": {
+      "id": "IR019002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.441",
+      "lon": "50.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دلیجان",
+      "en": "Delijan",
+      "slug": "delijan-ir019003"
+    },
+    "code": {
+      "id": "IR019003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.025",
+      "lon": "50.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فراهان",
+      "en": "Farahan",
+      "slug": "farahan-ir019004"
+    },
+    "code": {
+      "id": "IR019004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.621",
+      "lon": "49.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خمین",
+      "en": "Khomein",
+      "slug": "khomein-ir019005"
+    },
+    "code": {
+      "id": "IR019005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.663",
+      "lon": "50.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خنداب",
+      "en": "Khondab",
+      "slug": "khondab-ir019006"
+    },
+    "code": {
+      "id": "IR019006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.381",
+      "lon": "49.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کمیجان",
+      "en": "Komeijan",
+      "slug": "komeijan-ir019007"
+    },
+    "code": {
+      "id": "IR019007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.745",
+      "lon": "49.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان محلات",
+      "en": "Mahallat",
+      "slug": "mahallat-ir019008"
+    },
+    "code": {
+      "id": "IR019008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.889",
+      "lon": "50.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ساوه",
+      "en": "Saveh",
+      "slug": "saveh-ir019009"
+    },
+    "code": {
+      "id": "IR019009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.086",
+      "lon": "50.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شازند",
+      "en": "Shazand",
+      "slug": "shazand-ir019010"
+    },
+    "code": {
+      "id": "IR019010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.909",
+      "lon": "49.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تفرش",
+      "en": "Tafresh",
+      "slug": "tafresh-ir019011"
+    },
+    "code": {
+      "id": "IR019011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.788",
+      "lon": "49.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR019012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زرندیه",
+      "en": "Zarandieh",
+      "slug": "zarandieh-ir019012"
+    },
+    "code": {
+      "id": "IR019012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR019",
+      "level": 1,
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR019",
+        "level": 1,
+        "name": {
+          "local": "مرکزی",
+          "en": "Markazi",
+          "slug": "markazi-ir019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.333",
+      "lon": "50.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

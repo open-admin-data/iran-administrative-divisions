@@ -1,0 +1,45 @@
+{
+  "id": "IR022001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آبیک",
+    "en": "Abyek",
+    "slug": "abyek-ir022001"
+  },
+  "code": {
+    "id": "IR022001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR022",
+    "level": 1,
+    "name": {
+      "local": "قزوین",
+      "en": "Qazvin",
+      "slug": "qazvin-ir022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR022",
+      "level": 1,
+      "name": {
+        "local": "قزوین",
+        "en": "Qazvin",
+        "slug": "qazvin-ir022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.08",
+    "lon": "50.318"
+  },
+  "metadata": {},
+  "source": {}
+}

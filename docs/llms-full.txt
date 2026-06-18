@@ -1,0 +1,73 @@
+# Iran Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Alborz](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/alborz-ir001.txt) — 6 countys
+- [Ardabil](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/ardabil-ir002.txt) — 10 countys
+- [Bushehr](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/bushehr-ir003.txt) — 10 countys
+- [Chaharmahal and Bakhtiari](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/chaharmahal-and-bakhtiari-ir004.txt) — 9 countys
+- [East Azerbaijan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/east-azerbaijan-ir005.txt) — 20 countys
+- [Fars](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/fars-ir006.txt) — 29 countys
+- [Gilan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/gilan-ir007.txt) — 16 countys
+- [Golestan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/golestan-ir008.txt) — 14 countys
+- [Hamadan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/hamadan-ir009.txt) — 9 countys
+- [Hormozgan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/hormozgan-ir010.txt) — 13 countys
+- [Ilam](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/ilam-ir011.txt) — 10 countys
+- [Isfahan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/isfahan-ir012.txt) — 24 countys
+- [Kerman](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/kerman-ir013.txt) — 23 countys
+- [Kermanshah](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/kermanshah-ir014.txt) — 14 countys
+- [Khuzestan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/khuzestan-ir015.txt) — 27 countys
+- [Kohgiluyeh and Boyer-Ahmad](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/kohgiluyeh-and-boyer-ahmad-ir016.txt) — 8 countys
+- [Kurdistan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/kurdistan-ir017.txt) — 10 countys
+- [Lorestan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/lorestan-ir018.txt) — 11 countys
+- [Markazi](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/markazi-ir019.txt) — 12 countys
+- [Mazandaran](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/mazandaran-ir020.txt) — 22 countys
+- [North Khorasan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/north-khorasan-ir021.txt) — 8 countys
+- [Qazvin](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/qazvin-ir022.txt) — 6 countys
+- [Qom](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/qom-ir023.txt) — 1 countys
+- [Razavi Khorasan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/razavi-khorasan-ir024.txt) — 28 countys
+- [Semnan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/semnan-ir025.txt) — 8 countys
+- [Sistan and Baluchestan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/sistan-and-baluchestan-ir026.txt) — 19 countys
+- [South Khorasan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/south-khorasan-ir027.txt) — 11 countys
+- [Tehran](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/tehran-ir028.txt) — 16 countys
+- [West Azerbaijan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/west-azerbaijan-ir029.txt) — 17 countys
+- [Yazd](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/yazd-ir030.txt) — 10 countys
+- [Zanjan](https://github.com/open-admin-data/iran-administrative-divisions/blob/main/docs/llms-full/zanjan-ir031.txt) — 8 countys
+
+## Summary
+
+| Province | Countys | 
+|---|---|
+| Alborz | 6 | 
+| Ardabil | 10 | 
+| Bushehr | 10 | 
+| Chaharmahal and Bakhtiari | 9 | 
+| East Azerbaijan | 20 | 
+| Fars | 29 | 
+| Gilan | 16 | 
+| Golestan | 14 | 
+| Hamadan | 9 | 
+| Hormozgan | 13 | 
+| Ilam | 10 | 
+| Isfahan | 24 | 
+| Kerman | 23 | 
+| Kermanshah | 14 | 
+| Khuzestan | 27 | 
+| Kohgiluyeh and Boyer-Ahmad | 8 | 
+| Kurdistan | 10 | 
+| Lorestan | 11 | 
+| Markazi | 12 | 
+| Mazandaran | 22 | 
+| North Khorasan | 8 | 
+| Qazvin | 6 | 
+| Qom | 1 | 
+| Razavi Khorasan | 28 | 
+| Semnan | 8 | 
+| Sistan and Baluchestan | 19 | 
+| South Khorasan | 11 | 
+| Tehran | 16 | 
+| West Azerbaijan | 17 | 
+| Yazd | 10 | 
+| Zanjan | 8 | 

@@ -1,0 +1,45 @@
+{
+  "id": "IR012007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فلاورجان",
+    "en": "Falavarjan",
+    "slug": "falavarjan-ir012007"
+  },
+  "code": {
+    "id": "IR012007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR012",
+    "level": 1,
+    "name": {
+      "local": "اصفهان",
+      "en": "Isfahan",
+      "slug": "isfahan-ir012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.519",
+    "lon": "51.536"
+  },
+  "metadata": {},
+  "source": {}
+}

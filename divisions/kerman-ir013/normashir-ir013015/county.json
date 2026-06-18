@@ -1,0 +1,45 @@
+{
+  "id": "IR013015",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان نرماشیر",
+    "en": "Normashir",
+    "slug": "normashir-ir013015"
+  },
+  "code": {
+    "id": "IR013015",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR013",
+    "level": 1,
+    "name": {
+      "local": "کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.253",
+    "lon": "58.751"
+  },
+  "metadata": {},
+  "source": {}
+}

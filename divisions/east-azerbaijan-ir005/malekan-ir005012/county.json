@@ -1,0 +1,45 @@
+{
+  "id": "IR005012",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ملکان",
+    "en": "Malekan",
+    "slug": "malekan-ir005012"
+  },
+  "code": {
+    "id": "IR005012",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR005",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان شرقی",
+      "en": "East Azerbaijan",
+      "slug": "east-azerbaijan-ir005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.115",
+    "lon": "46.232"
+  },
+  "metadata": {},
+  "source": {}
+}

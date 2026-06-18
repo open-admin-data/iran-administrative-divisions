@@ -1,0 +1,45 @@
+{
+  "id": "IR018007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان خرمآباد",
+    "en": "Khorramabad",
+    "slug": "khorramabad-ir018007"
+  },
+  "code": {
+    "id": "IR018007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR018",
+    "level": 1,
+    "name": {
+      "local": "لرستان",
+      "en": "Lorestan",
+      "slug": "lorestan-ir018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.4",
+    "lon": "48.56"
+  },
+  "metadata": {},
+  "source": {}
+}

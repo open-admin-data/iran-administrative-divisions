@@ -1,0 +1,45 @@
+{
+  "id": "IR010013",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سیریک",
+    "en": "Sirik",
+    "slug": "sirik-ir010013"
+  },
+  "code": {
+    "id": "IR010013",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR010",
+    "level": 1,
+    "name": {
+      "local": "هرمزگان",
+      "en": "Hormozgan",
+      "slug": "hormozgan-ir010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.529",
+    "lon": "57.219"
+  },
+  "metadata": {},
+  "source": {}
+}

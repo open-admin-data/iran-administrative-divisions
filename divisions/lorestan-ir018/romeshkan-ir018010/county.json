@@ -1,0 +1,45 @@
+{
+  "id": "IR018010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان رومشکان",
+    "en": "Romeshkan",
+    "slug": "romeshkan-ir018010"
+  },
+  "code": {
+    "id": "IR018010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR018",
+    "level": 1,
+    "name": {
+      "local": "لرستان",
+      "en": "Lorestan",
+      "slug": "lorestan-ir018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR018",
+      "level": 1,
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.256",
+    "lon": "47.436"
+  },
+  "metadata": {},
+  "source": {}
+}

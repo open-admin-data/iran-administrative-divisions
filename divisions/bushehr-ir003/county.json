@@ -1,0 +1,452 @@
+[
+  {
+    "id": "IR003001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان عسلویه",
+      "en": "Asaluyeh",
+      "slug": "asaluyeh-ir003001"
+    },
+    "code": {
+      "id": "IR003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.488",
+      "lon": "52.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بوشهر",
+      "en": "Bushehr",
+      "slug": "bushehr-ir003002"
+    },
+    "code": {
+      "id": "IR003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.061",
+      "lon": "51.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دشتستان",
+      "en": "Dashtestan",
+      "slug": "dashtestan-ir003003"
+    },
+    "code": {
+      "id": "IR003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.225",
+      "lon": "51.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دشتی",
+      "en": "Dashti",
+      "slug": "dashti-ir003004"
+    },
+    "code": {
+      "id": "IR003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.447",
+      "lon": "51.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دیر",
+      "en": "Dayyer",
+      "slug": "dayyer-ir003006"
+    },
+    "code": {
+      "id": "IR003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.037",
+      "lon": "51.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دیلم",
+      "en": "Deylam",
+      "slug": "deylam-ir003005"
+    },
+    "code": {
+      "id": "IR003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.021",
+      "lon": "50.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گناوه",
+      "en": "Ganaveh",
+      "slug": "ganaveh-ir003007"
+    },
+    "code": {
+      "id": "IR003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.534",
+      "lon": "50.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جم",
+      "en": "Jam",
+      "slug": "jam-ir003008"
+    },
+    "code": {
+      "id": "IR003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.92",
+      "lon": "52.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کنگان",
+      "en": "Kangan",
+      "slug": "kangan-ir003009"
+    },
+    "code": {
+      "id": "IR003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.771",
+      "lon": "52.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR003010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تنگستان",
+      "en": "Tangestan",
+      "slug": "tangestan-ir003010"
+    },
+    "code": {
+      "id": "IR003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR003",
+        "level": 1,
+        "name": {
+          "local": "بوشهر",
+          "en": "Bushehr",
+          "slug": "bushehr-ir003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.71",
+      "lon": "51.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

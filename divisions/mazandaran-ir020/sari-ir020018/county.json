@@ -1,0 +1,45 @@
+{
+  "id": "IR020018",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ساری",
+    "en": "Sari",
+    "slug": "sari-ir020018"
+  },
+  "code": {
+    "id": "IR020018",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.394",
+    "lon": "53.246"
+  },
+  "metadata": {},
+  "source": {}
+}

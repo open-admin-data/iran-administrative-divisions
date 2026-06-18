@@ -1,0 +1,45 @@
+{
+  "id": "IR010006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان حاجیآباد",
+    "en": "Hajiabad",
+    "slug": "hajiabad-ir010006"
+  },
+  "code": {
+    "id": "IR010006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR010",
+    "level": 1,
+    "name": {
+      "local": "هرمزگان",
+      "en": "Hormozgan",
+      "slug": "hormozgan-ir010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.299",
+    "lon": "55.731"
+  },
+  "metadata": {},
+  "source": {}
+}

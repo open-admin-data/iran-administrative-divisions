@@ -1,0 +1,272 @@
+[
+  {
+    "id": "IR001001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اشتهارد",
+      "en": "Eshtehard",
+      "slug": "eshtehard-ir001001"
+    },
+    "code": {
+      "id": "IR001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR001",
+        "level": 1,
+        "name": {
+          "local": "البرز",
+          "en": "Alborz",
+          "slug": "alborz-ir001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.701",
+      "lon": "50.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR001002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فردیس",
+      "en": "Fardis",
+      "slug": "fardis-ir001002"
+    },
+    "code": {
+      "id": "IR001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR001",
+        "level": 1,
+        "name": {
+          "local": "البرز",
+          "en": "Alborz",
+          "slug": "alborz-ir001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.736",
+      "lon": "50.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR001003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کرج",
+      "en": "Karaj",
+      "slug": "karaj-ir001003"
+    },
+    "code": {
+      "id": "IR001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR001",
+        "level": 1,
+        "name": {
+          "local": "البرز",
+          "en": "Alborz",
+          "slug": "alborz-ir001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.936",
+      "lon": "51.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR001004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نظرآباد",
+      "en": "Nazarabad",
+      "slug": "nazarabad-ir001004"
+    },
+    "code": {
+      "id": "IR001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR001",
+        "level": 1,
+        "name": {
+          "local": "البرز",
+          "en": "Alborz",
+          "slug": "alborz-ir001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.903",
+      "lon": "50.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR001005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ساوجبلاغ",
+      "en": "Savojbolagh",
+      "slug": "savojbolagh-ir001005"
+    },
+    "code": {
+      "id": "IR001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR001",
+        "level": 1,
+        "name": {
+          "local": "البرز",
+          "en": "Alborz",
+          "slug": "alborz-ir001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.934",
+      "lon": "50.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR001006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان طالقان",
+      "en": "Taleghan",
+      "slug": "taleghan-ir001006"
+    },
+    "code": {
+      "id": "IR001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR001",
+        "level": 1,
+        "name": {
+          "local": "البرز",
+          "en": "Alborz",
+          "slug": "alborz-ir001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.222",
+      "lon": "50.772"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

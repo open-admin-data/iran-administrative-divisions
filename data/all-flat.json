@@ -1,0 +1,1028 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/ir/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/iran-administrative-divisions",
+  "data": [
+    {
+      "id": "IR001",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      },
+      "code": {
+        "id": "IR001",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.946",
+        "lon": "50.906"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/alborz-ir001/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR002",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      },
+      "code": {
+        "id": "IR002",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "38.407",
+        "lon": "47.986"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/ardabil-ir002/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR003",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      },
+      "code": {
+        "id": "IR003",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "28.785",
+        "lon": "51.504"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/bushehr-ir003/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR004",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "چهارمحال و بختیاری",
+        "en": "Chaharmahal and Bakhtiari",
+        "slug": "chaharmahal-and-bakhtiari-ir004"
+      },
+      "code": {
+        "id": "IR004",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.979",
+        "lon": "50.81"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/chaharmahal-and-bakhtiari-ir004/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR005",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      },
+      "code": {
+        "id": "IR005",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "38.086",
+        "lon": "46.692"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/east-azerbaijan-ir005/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR006",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      },
+      "code": {
+        "id": "IR006",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 29
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.358",
+        "lon": "53.318"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/fars-ir006/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR007",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      },
+      "code": {
+        "id": "IR007",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 16
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.509",
+        "lon": "49.019"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/gilan-ir007/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR008",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      },
+      "code": {
+        "id": "IR008",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.313",
+        "lon": "54.894"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/golestan-ir008/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR009",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      },
+      "code": {
+        "id": "IR009",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.87",
+        "lon": "48.559"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/hamadan-ir009/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR010",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      },
+      "code": {
+        "id": "IR010",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "27.142",
+        "lon": "55.033"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/hormozgan-ir010/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR011",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      },
+      "code": {
+        "id": "IR011",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.043",
+        "lon": "46.872"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/ilam-ir011/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR012",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      },
+      "code": {
+        "id": "IR012",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 24
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.609",
+        "lon": "52.048"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/isfahan-ir012/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR013",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      },
+      "code": {
+        "id": "IR013",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 23
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.233",
+        "lon": "57.339"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/kerman-ir013/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR014",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      },
+      "code": {
+        "id": "IR014",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.487",
+        "lon": "46.809"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/kermanshah-ir014/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR015",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      },
+      "code": {
+        "id": "IR015",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 27
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.464",
+        "lon": "48.992"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/khuzestan-ir015/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR016",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "کهگیلویه و بویراحمد",
+        "en": "Kohgiluyeh and Boyer-Ahmad",
+        "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+      },
+      "code": {
+        "id": "IR016",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.703",
+        "lon": "51.095"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/kohgiluyeh-and-boyer-ahmad-ir016/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR017",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      },
+      "code": {
+        "id": "IR017",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.601",
+        "lon": "47.006"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/kurdistan-ir017/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR018",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "لرستان",
+        "en": "Lorestan",
+        "slug": "lorestan-ir018"
+      },
+      "code": {
+        "id": "IR018",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "33.516",
+        "lon": "48.322"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/lorestan-ir018/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR019",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "مرکزی",
+        "en": "Markazi",
+        "slug": "markazi-ir019"
+      },
+      "code": {
+        "id": "IR019",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.477",
+        "lon": "49.582"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/markazi-ir019/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR020",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      },
+      "code": {
+        "id": "IR020",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 22
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.363",
+        "lon": "52.368"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/mazandaran-ir020/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR021",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      },
+      "code": {
+        "id": "IR021",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.433",
+        "lon": "57.179"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/north-khorasan-ir021/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR022",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "قزوین",
+        "en": "Qazvin",
+        "slug": "qazvin-ir022"
+      },
+      "code": {
+        "id": "IR022",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.109",
+        "lon": "50.039"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/qazvin-ir022/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR023",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "قم",
+        "en": "Qom",
+        "slug": "qom-ir023"
+      },
+      "code": {
+        "id": "IR023",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "34.667",
+        "lon": "51.002"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/qom-ir023/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR024",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      },
+      "code": {
+        "id": "IR024",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 28
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.779",
+        "lon": "59.03"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/razavi-khorasan-ir024/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR025",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      },
+      "code": {
+        "id": "IR025",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.787",
+        "lon": "54.968"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/semnan-ir025/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR026",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "سیستان و بلوچستان",
+        "en": "Sistan and Baluchestan",
+        "slug": "sistan-and-baluchestan-ir026"
+      },
+      "code": {
+        "id": "IR026",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 19
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "28.273",
+        "lon": "60.861"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/sistan-and-baluchestan-ir026/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR027",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      },
+      "code": {
+        "id": "IR027",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.802",
+        "lon": "58.239"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/south-khorasan-ir027/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR028",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      },
+      "code": {
+        "id": "IR028",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 16
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "35.502",
+        "lon": "51.327"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/tehran-ir028/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR029",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      },
+      "code": {
+        "id": "IR029",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "37.875",
+        "lon": "44.7"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/west-azerbaijan-ir029/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR030",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      },
+      "code": {
+        "id": "IR030",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.483",
+        "lon": "54.416"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/yazd-ir030/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    },
+    {
+      "id": "IR031",
+      "level": 1,
+      "level_name": {
+        "local": "استان",
+        "en": "Province"
+      },
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      },
+      "code": {
+        "id": "IR031",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "county": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "36.401",
+        "lon": "48.422"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/ir/provinces/zanjan-ir031/",
+        "api": "https://openadmindata.org/api/ir/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "IR024",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "خراسان رضوی",
+    "en": "Razavi Khorasan",
+    "slug": "razavi-khorasan-ir024"
+  },
+  "code": {
+    "id": "IR024",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.779",
+    "lon": "59.03"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/razavi-khorasan-ir024/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

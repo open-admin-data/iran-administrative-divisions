@@ -1,0 +1,45 @@
+{
+  "id": "IR025009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سرخه",
+    "en": "Sorkheh",
+    "slug": "sorkheh-ir025009"
+  },
+  "code": {
+    "id": "IR025009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR025",
+    "level": 1,
+    "name": {
+      "local": "سمنان",
+      "en": "Semnan",
+      "slug": "semnan-ir025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.99",
+    "lon": "53.162"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR010011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان قشم",
+    "en": "Qeshm",
+    "slug": "qeshm-ir010011"
+  },
+  "code": {
+    "id": "IR010011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR010",
+    "level": 1,
+    "name": {
+      "local": "هرمزگان",
+      "en": "Hormozgan",
+      "slug": "hormozgan-ir010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.769",
+    "lon": "55.909"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "IR021001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بجنورد",
+      "en": "Bojnurd",
+      "slug": "bojnurd-ir021001"
+    },
+    "code": {
+      "id": "IR021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.601",
+      "lon": "57.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR021002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اسفراین",
+      "en": "Esfarayen",
+      "slug": "esfarayen-ir021002"
+    },
+    "code": {
+      "id": "IR021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.934",
+      "lon": "57.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR021003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فاروج",
+      "en": "Faroj",
+      "slug": "faroj-ir021003"
+    },
+    "code": {
+      "id": "IR021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.273",
+      "lon": "58.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR021004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گرمه",
+      "en": "Germeh",
+      "slug": "germeh-ir021004"
+    },
+    "code": {
+      "id": "IR021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.109",
+      "lon": "56.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR021005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جاجرم",
+      "en": "Jajrom",
+      "slug": "jajrom-ir021005"
+    },
+    "code": {
+      "id": "IR021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.03",
+      "lon": "56.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR021006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مانه وسملقان",
+      "en": "Maneh-o-Samalqan",
+      "slug": "maneh-o-samalqan-ir021006"
+    },
+    "code": {
+      "id": "IR021006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.732",
+      "lon": "56.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR021007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رازوجرگلان",
+      "en": "Razo Jalgelan",
+      "slug": "razo-jalgelan-ir021007"
+    },
+    "code": {
+      "id": "IR021007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.07",
+      "lon": "56.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR021008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شیروان",
+      "en": "Shirvan",
+      "slug": "shirvan-ir021008"
+    },
+    "code": {
+      "id": "IR021008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR021",
+        "level": 1,
+        "name": {
+          "local": "خراسان شمالی",
+          "en": "North Khorasan",
+          "slug": "north-khorasan-ir021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.503",
+      "lon": "57.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

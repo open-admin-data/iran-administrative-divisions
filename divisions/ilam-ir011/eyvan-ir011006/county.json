@@ -1,0 +1,45 @@
+{
+  "id": "IR011006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ایوان",
+    "en": "Eyvan",
+    "slug": "eyvan-ir011006"
+  },
+  "code": {
+    "id": "IR011006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR011",
+    "level": 1,
+    "name": {
+      "local": "ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.856",
+    "lon": "46.235"
+  },
+  "metadata": {},
+  "source": {}
+}

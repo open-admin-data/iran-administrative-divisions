@@ -1,0 +1,45 @@
+{
+  "id": "IR030005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بهاباد",
+    "en": "Bahabad",
+    "slug": "bahabad-ir030005"
+  },
+  "code": {
+    "id": "IR030005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR030",
+    "level": 1,
+    "name": {
+      "local": "یزد",
+      "en": "Yazd",
+      "slug": "yazd-ir030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.016",
+    "lon": "56.067"
+  },
+  "metadata": {},
+  "source": {}
+}

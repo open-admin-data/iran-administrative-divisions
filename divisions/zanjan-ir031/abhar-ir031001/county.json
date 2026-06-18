@@ -1,0 +1,45 @@
+{
+  "id": "IR031001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ابهر",
+    "en": "Abhar",
+    "slug": "abhar-ir031001"
+  },
+  "code": {
+    "id": "IR031001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR031",
+    "level": 1,
+    "name": {
+      "local": "زنجان",
+      "en": "Zanjan",
+      "slug": "zanjan-ir031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.134",
+    "lon": "49.165"
+  },
+  "metadata": {},
+  "source": {}
+}

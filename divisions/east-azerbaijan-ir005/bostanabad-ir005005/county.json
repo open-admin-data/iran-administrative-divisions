@@ -1,0 +1,45 @@
+{
+  "id": "IR005005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بستان آباد",
+    "en": "Bostanabad",
+    "slug": "bostanabad-ir005005"
+  },
+  "code": {
+    "id": "IR005005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR005",
+    "level": 1,
+    "name": {
+      "local": "آذربایجان شرقی",
+      "en": "East Azerbaijan",
+      "slug": "east-azerbaijan-ir005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR005",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان شرقی",
+        "en": "East Azerbaijan",
+        "slug": "east-azerbaijan-ir005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.813",
+    "lon": "46.756"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,587 @@
+[
+  {
+    "id": "IR010001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ابوموسی",
+      "en": "Abumusa",
+      "slug": "abumusa-ir010001"
+    },
+    "code": {
+      "id": "IR010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.913",
+      "lon": "54.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بندرعباس",
+      "en": "Bandar-Abbas",
+      "slug": "bandar-abbas-ir010002"
+    },
+    "code": {
+      "id": "IR010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.468",
+      "lon": "56.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بندر لنگه",
+      "en": "Bandar-Lengeh",
+      "slug": "bandar-lengeh-ir010003"
+    },
+    "code": {
+      "id": "IR010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.814",
+      "lon": "54.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بشاگرد",
+      "en": "Bashagard",
+      "slug": "bashagard-ir010004"
+    },
+    "code": {
+      "id": "IR010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.505",
+      "lon": "58.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بستک",
+      "en": "Bastak",
+      "slug": "bastak-ir010005"
+    },
+    "code": {
+      "id": "IR010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.191",
+      "lon": "54.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان حاجیآباد",
+      "en": "Hajiabad",
+      "slug": "hajiabad-ir010006"
+    },
+    "code": {
+      "id": "IR010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.299",
+      "lon": "55.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جاسک",
+      "en": "Jask",
+      "slug": "jask-ir010007"
+    },
+    "code": {
+      "id": "IR010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.838",
+      "lon": "58.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خمیر",
+      "en": "Khamir",
+      "slug": "khamir-ir010008"
+    },
+    "code": {
+      "id": "IR010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.224",
+      "lon": "55.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان میناب",
+      "en": "Minab",
+      "slug": "minab-ir010009"
+    },
+    "code": {
+      "id": "IR010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.959",
+      "lon": "57.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پارسیان",
+      "en": "Parsian",
+      "slug": "parsian-ir010010"
+    },
+    "code": {
+      "id": "IR010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.138",
+      "lon": "53.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قشم",
+      "en": "Qeshm",
+      "slug": "qeshm-ir010011"
+    },
+    "code": {
+      "id": "IR010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.769",
+      "lon": "55.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رودان",
+      "en": "Rudan",
+      "slug": "rudan-ir010012"
+    },
+    "code": {
+      "id": "IR010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.547",
+      "lon": "57.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR010013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سیریک",
+      "en": "Sirik",
+      "slug": "sirik-ir010013"
+    },
+    "code": {
+      "id": "IR010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR010",
+      "level": 1,
+      "name": {
+        "local": "هرمزگان",
+        "en": "Hormozgan",
+        "slug": "hormozgan-ir010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR010",
+        "level": 1,
+        "name": {
+          "local": "هرمزگان",
+          "en": "Hormozgan",
+          "slug": "hormozgan-ir010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.529",
+      "lon": "57.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

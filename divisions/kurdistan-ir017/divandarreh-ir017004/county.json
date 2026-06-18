@@ -1,0 +1,45 @@
+{
+  "id": "IR017004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دیواندره",
+    "en": "Divandarreh",
+    "slug": "divandarreh-ir017004"
+  },
+  "code": {
+    "id": "IR017004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR017",
+    "level": 1,
+    "name": {
+      "local": "کردستان",
+      "en": "Kurdistan",
+      "slug": "kurdistan-ir017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.97",
+    "lon": "46.982"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR017010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سروآباد",
+    "en": "Sarvabad",
+    "slug": "sarvabad-ir017010"
+  },
+  "code": {
+    "id": "IR017010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR017",
+    "level": 1,
+    "name": {
+      "local": "کردستان",
+      "en": "Kurdistan",
+      "slug": "kurdistan-ir017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.22",
+    "lon": "46.41"
+  },
+  "metadata": {},
+  "source": {}
+}

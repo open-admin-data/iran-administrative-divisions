@@ -1,0 +1,45 @@
+{
+  "id": "IR017002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بیجار",
+    "en": "Bijar",
+    "slug": "bijar-ir017002"
+  },
+  "code": {
+    "id": "IR017002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR017",
+    "level": 1,
+    "name": {
+      "local": "کردستان",
+      "en": "Kurdistan",
+      "slug": "kurdistan-ir017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.967",
+    "lon": "47.663"
+  },
+  "metadata": {},
+  "source": {}
+}

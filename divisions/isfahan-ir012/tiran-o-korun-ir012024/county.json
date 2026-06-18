@@ -1,0 +1,45 @@
+{
+  "id": "IR012024",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان تیران وکرون",
+    "en": "Tiran-o-Korun",
+    "slug": "tiran-o-korun-ir012024"
+  },
+  "code": {
+    "id": "IR012024",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR012",
+    "level": 1,
+    "name": {
+      "local": "اصفهان",
+      "en": "Isfahan",
+      "slug": "isfahan-ir012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.784",
+    "lon": "51.041"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR008013",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان رامیان",
+    "en": "Ramian",
+    "slug": "ramian-ir008013"
+  },
+  "code": {
+    "id": "IR008013",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.966",
+    "lon": "55.103"
+  },
+  "metadata": {},
+  "source": {}
+}

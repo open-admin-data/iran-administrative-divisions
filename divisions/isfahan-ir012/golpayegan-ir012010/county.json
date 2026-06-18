@@ -1,0 +1,45 @@
+{
+  "id": "IR012010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان گلپایگان",
+    "en": "Golpayegan",
+    "slug": "golpayegan-ir012010"
+  },
+  "code": {
+    "id": "IR012010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR012",
+    "level": 1,
+    "name": {
+      "local": "اصفهان",
+      "en": "Isfahan",
+      "slug": "isfahan-ir012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR012",
+      "level": 1,
+      "name": {
+        "local": "اصفهان",
+        "en": "Isfahan",
+        "slug": "isfahan-ir012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.453",
+    "lon": "50.291"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR017005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان قروه",
+    "en": "Qorveh",
+    "slug": "qorveh-ir017005"
+  },
+  "code": {
+    "id": "IR017005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR017",
+    "level": 1,
+    "name": {
+      "local": "کردستان",
+      "en": "Kurdistan",
+      "slug": "kurdistan-ir017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.25",
+    "lon": "47.806"
+  },
+  "metadata": {},
+  "source": {}
+}

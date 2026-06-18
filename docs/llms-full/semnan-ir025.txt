@@ -1,0 +1,49 @@
+# Semnan — Iran Administrative Divisions
+
+> 8 countys
+> Code: IR025
+> Coordinates: 35.787, 54.968
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان آرادان (Aradan)
+
+Code: IR025001, Coordinates: 34.926, 52.634
+
+
+### شهرستان دامغان (Damghan)
+
+Code: IR025002, Coordinates: 35.396, 54.355
+
+
+### شهرستان گرمسار (Garmsar)
+
+Code: IR025003, Coordinates: 34.99, 52.241
+
+
+### شهرستان مهدی شهر (Mehdishahr)
+
+Code: IR025004, Coordinates: 35.887, 53.308
+
+
+### شهرستان میامی (Meyami)
+
+Code: IR025005, Coordinates: 36.738, 55.956
+
+
+### شهرستان سمنان (Semnan)
+
+Code: IR025006, Coordinates: 35.106, 53.831
+
+
+### شهرستان شاهرود (Shahrud)
+
+Code: IR025008, Coordinates: 35.575, 55.857
+
+
+### شهرستان سرخه (Sorkheh)
+
+Code: IR025009, Coordinates: 34.99, 53.162
+
+

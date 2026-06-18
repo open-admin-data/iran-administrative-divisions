@@ -1,0 +1,45 @@
+{
+  "id": "IR016001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بهمئی",
+    "en": "Bahmai",
+    "slug": "bahmai-ir016001"
+  },
+  "code": {
+    "id": "IR016001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR016",
+    "level": 1,
+    "name": {
+      "local": "کهگیلویه و بویراحمد",
+      "en": "Kohgiluyeh and Boyer-Ahmad",
+      "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR016",
+      "level": 1,
+      "name": {
+        "local": "کهگیلویه و بویراحمد",
+        "en": "Kohgiluyeh and Boyer-Ahmad",
+        "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.984",
+    "lon": "50.079"
+  },
+  "metadata": {},
+  "source": {}
+}

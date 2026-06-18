@@ -1,0 +1,45 @@
+{
+  "id": "IR013019",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ریگان",
+    "en": "Rigan",
+    "slug": "rigan-ir013019"
+  },
+  "code": {
+    "id": "IR013019",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR013",
+    "level": 1,
+    "name": {
+      "local": "کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.471",
+    "lon": "58.819"
+  },
+  "metadata": {},
+  "source": {}
+}

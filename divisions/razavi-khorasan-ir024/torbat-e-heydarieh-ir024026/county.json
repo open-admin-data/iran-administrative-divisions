@@ -1,0 +1,45 @@
+{
+  "id": "IR024026",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان تربت حیدریه",
+    "en": "Torbat-e-Heydarieh",
+    "slug": "torbat-e-heydarieh-ir024026"
+  },
+  "code": {
+    "id": "IR024026",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR024",
+    "level": 1,
+    "name": {
+      "local": "خراسان رضوی",
+      "en": "Razavi Khorasan",
+      "slug": "razavi-khorasan-ir024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.406",
+    "lon": "59.058"
+  },
+  "metadata": {},
+  "source": {}
+}

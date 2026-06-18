@@ -1,0 +1,45 @@
+{
+  "id": "IR008011",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مراوهتپه",
+    "en": "Maravehtapeh",
+    "slug": "maravehtapeh-ir008011"
+  },
+  "code": {
+    "id": "IR008011",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.817",
+    "lon": "55.873"
+  },
+  "metadata": {},
+  "source": {}
+}

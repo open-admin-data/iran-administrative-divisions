@@ -1,0 +1,45 @@
+{
+  "id": "IR020009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان قائمشهر",
+    "en": "Qaemshahr",
+    "slug": "qaemshahr-ir020009"
+  },
+  "code": {
+    "id": "IR020009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.467",
+    "lon": "52.881"
+  },
+  "metadata": {},
+  "source": {}
+}

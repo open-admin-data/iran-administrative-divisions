@@ -1,0 +1,33 @@
+{
+  "id": "IR017",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "کردستان",
+    "en": "Kurdistan",
+    "slug": "kurdistan-ir017"
+  },
+  "code": {
+    "id": "IR017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.601",
+    "lon": "47.006"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/kurdistan-ir017/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

@@ -1,0 +1,104 @@
+# Sistan and Baluchestan — Iran Administrative Divisions
+
+> 19 countys
+> Code: IR026
+> Coordinates: 28.273, 60.861
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان چابهار (Chabahar)
+
+Code: IR026001, Coordinates: 25.505, 61.202
+
+
+### شهرستان دلگان (Dalgan)
+
+Code: IR026002, Coordinates: 27.41, 59.323
+
+
+### شهرستان فنوج (Fanouj)
+
+Code: IR026003, Coordinates: 26.719, 59.478
+
+
+### شهرستان قصرقند (Ghasre Ghand)
+
+Code: IR026013, Coordinates: 26.116, 60.812
+
+
+### شهرستان هامون (Hamoun)
+
+Code: IR026004, Coordinates: 30.551, 61.251
+
+
+### شهرستان هیرمند (Hirmand)
+
+Code: IR026005, Coordinates: 31.175, 61.683
+
+
+### شهرستان ایرانشهر (Iranshahr)
+
+Code: IR026006, Coordinates: 27.74, 60.163
+
+
+### شهرستان خاش (Khash)
+
+Code: IR026007, Coordinates: 28.192, 61.54
+
+
+### شهرستان کنارک (Konarak)
+
+Code: IR026008, Coordinates: 25.646, 59.983
+
+
+### شهرستان مهرستان (Mehrestan)
+
+Code: IR026009, Coordinates: 27.015, 61.462
+
+
+### شهرستان میرجاوه (Mirjaveh)
+
+Code: IR026010, Coordinates: 28.86, 61.205
+
+
+### شهرستان نیکشهر (Nikshahr)
+
+Code: IR026011, Coordinates: 26.451, 60.197
+
+
+### شهرستان نیمروز (Nimrouz)
+
+Code: IR026012, Coordinates: 30.948, 60.666
+
+
+### شهرستان سراوان (Saravan)
+
+Code: IR026014, Coordinates: 27.329, 62.462
+
+
+### شهرستان سرباز (Sarbaz)
+
+Code: IR026015, Coordinates: 26.436, 61.551
+
+
+### شهرستان سیب وسوران (Sibo Soran)
+
+Code: IR026016, Coordinates: 27.217, 62.095
+
+
+### شهرستان زابل (Zabol)
+
+Code: IR026017, Coordinates: 31.032, 61.589
+
+
+### شهرستان زاهدان (Zahedan)
+
+Code: IR026019, Coordinates: 29.661, 60.248
+
+
+### شهرستان زهک (Zehak)
+
+Code: IR026018, Coordinates: 30.794, 61.629
+
+

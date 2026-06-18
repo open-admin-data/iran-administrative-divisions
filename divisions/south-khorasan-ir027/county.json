@@ -1,0 +1,497 @@
+[
+  {
+    "id": "IR027001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بیرجند",
+      "en": "Birjand",
+      "slug": "birjand-ir027001"
+    },
+    "code": {
+      "id": "IR027001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.074",
+      "lon": "59.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بشرویه",
+      "en": "Boshruyeh",
+      "slug": "boshruyeh-ir027002"
+    },
+    "code": {
+      "id": "IR027002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.043",
+      "lon": "57.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان درمیان",
+      "en": "Darmian",
+      "slug": "darmian-ir027003"
+    },
+    "code": {
+      "id": "IR027003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.945",
+      "lon": "60.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فردوس",
+      "en": "Ferdows",
+      "slug": "ferdows-ir027004"
+    },
+    "code": {
+      "id": "IR027004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.974",
+      "lon": "58.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خوسف",
+      "en": "Khusf",
+      "slug": "khusf-ir027006"
+    },
+    "code": {
+      "id": "IR027006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.336",
+      "lon": "58.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نهبندان",
+      "en": "Nehbandan",
+      "slug": "nehbandan-ir027007"
+    },
+    "code": {
+      "id": "IR027007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.433",
+      "lon": "59.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قائنات",
+      "en": "Qaen",
+      "slug": "qaen-ir027005"
+    },
+    "code": {
+      "id": "IR027005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.657",
+      "lon": "59.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سرایان",
+      "en": "Sarayan",
+      "slug": "sarayan-ir027008"
+    },
+    "code": {
+      "id": "IR027008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.338",
+      "lon": "58.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سربیشه",
+      "en": "Sarbisheh",
+      "slug": "sarbisheh-ir027009"
+    },
+    "code": {
+      "id": "IR027009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.472",
+      "lon": "60.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان طبس",
+      "en": "Tabas",
+      "slug": "tabas-ir027010"
+    },
+    "code": {
+      "id": "IR027010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.393",
+      "lon": "56.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR027011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زیرکوه",
+      "en": "Zirkouh",
+      "slug": "zirkouh-ir027011"
+    },
+    "code": {
+      "id": "IR027011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR027",
+        "level": 1,
+        "name": {
+          "local": "خراسان جنوبی",
+          "en": "South Khorasan",
+          "slug": "south-khorasan-ir027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.543",
+      "lon": "60.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

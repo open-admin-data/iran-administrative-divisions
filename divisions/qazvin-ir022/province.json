@@ -1,0 +1,33 @@
+{
+  "id": "IR022",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "قزوین",
+    "en": "Qazvin",
+    "slug": "qazvin-ir022"
+  },
+  "code": {
+    "id": "IR022",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.109",
+    "lon": "50.039"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/qazvin-ir022/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

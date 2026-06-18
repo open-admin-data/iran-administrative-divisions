@@ -1,0 +1,992 @@
+[
+  {
+    "id": "IR020001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان عباس آباد",
+      "en": "Abbasabad",
+      "slug": "abbasabad-ir020001"
+    },
+    "code": {
+      "id": "IR020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.638",
+      "lon": "51.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آمل",
+      "en": "Amol",
+      "slug": "amol-ir020002"
+    },
+    "code": {
+      "id": "IR020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.193",
+      "lon": "52.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بابل",
+      "en": "Babol",
+      "slug": "babol-ir020003"
+    },
+    "code": {
+      "id": "IR020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.273",
+      "lon": "52.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بابلسر",
+      "en": "Babolsar",
+      "slug": "babolsar-ir020004"
+    },
+    "code": {
+      "id": "IR020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.658",
+      "lon": "52.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بهشهر",
+      "en": "Behshahr",
+      "slug": "behshahr-ir020005"
+    },
+    "code": {
+      "id": "IR020005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.678",
+      "lon": "53.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چالوس",
+      "en": "Chalus",
+      "slug": "chalus-ir020006"
+    },
+    "code": {
+      "id": "IR020006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.425",
+      "lon": "51.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فریدونکنار",
+      "en": "Feredunkenar",
+      "slug": "feredunkenar-ir020007"
+    },
+    "code": {
+      "id": "IR020007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.645",
+      "lon": "52.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گلوگاه",
+      "en": "Galugah",
+      "slug": "galugah-ir020008"
+    },
+    "code": {
+      "id": "IR020008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.703",
+      "lon": "53.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جویبار",
+      "en": "Juybar",
+      "slug": "juybar-ir020010"
+    },
+    "code": {
+      "id": "IR020010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.677",
+      "lon": "52.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کلاردشت",
+      "en": "Kelardasht",
+      "slug": "kelardasht-ir020011"
+    },
+    "code": {
+      "id": "IR020011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.42",
+      "lon": "51.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان محمودآباد",
+      "en": "Mahmudabad",
+      "slug": "mahmudabad-ir020012"
+    },
+    "code": {
+      "id": "IR020012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.61",
+      "lon": "52.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان میاندورود",
+      "en": "Miandorud",
+      "slug": "miandorud-ir020013"
+    },
+    "code": {
+      "id": "IR020013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.623",
+      "lon": "53.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نکا",
+      "en": "Neka",
+      "slug": "neka-ir020014"
+    },
+    "code": {
+      "id": "IR020014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.589",
+      "lon": "53.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سوادکوه شمالی",
+      "en": "Northern Savadkooh",
+      "slug": "northern-savadkooh-ir020019"
+    },
+    "code": {
+      "id": "IR020019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.253",
+      "lon": "52.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نوشهر",
+      "en": "Noshahr",
+      "slug": "noshahr-ir020015"
+    },
+    "code": {
+      "id": "IR020015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.466",
+      "lon": "51.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نور",
+      "en": "Nur",
+      "slug": "nur-ir020016"
+    },
+    "code": {
+      "id": "IR020016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.322",
+      "lon": "52.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قائمشهر",
+      "en": "Qaemshahr",
+      "slug": "qaemshahr-ir020009"
+    },
+    "code": {
+      "id": "IR020009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.467",
+      "lon": "52.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رامسر",
+      "en": "Ramsar",
+      "slug": "ramsar-ir020017"
+    },
+    "code": {
+      "id": "IR020017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.77",
+      "lon": "50.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ساری",
+      "en": "Sari",
+      "slug": "sari-ir020018"
+    },
+    "code": {
+      "id": "IR020018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.394",
+      "lon": "53.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020020",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سوادکوه",
+      "en": "Savadkuh",
+      "slug": "savadkuh-ir020020"
+    },
+    "code": {
+      "id": "IR020020",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.09",
+      "lon": "52.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020021",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سیمرغ",
+      "en": "Simorgh",
+      "slug": "simorgh-ir020021"
+    },
+    "code": {
+      "id": "IR020021",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.581",
+      "lon": "52.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR020022",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تنکابن",
+      "en": "Tonekabon",
+      "slug": "tonekabon-ir020022"
+    },
+    "code": {
+      "id": "IR020022",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR020",
+        "level": 1,
+        "name": {
+          "local": "مازندران",
+          "en": "Mazandaran",
+          "slug": "mazandaran-ir020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.569",
+      "lon": "50.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

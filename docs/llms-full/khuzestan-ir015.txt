@@ -1,0 +1,144 @@
+# Khuzestan — Iran Administrative Divisions
+
+> 27 countys
+> Code: IR015
+> Coordinates: 31.464, 48.992
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان آبادان (Abadan)
+
+Code: IR015001, Coordinates: 30.216, 48.665
+
+
+### شهرستان آغاجاری (Aghajari)
+
+Code: IR015002, Coordinates: 30.747, 49.91
+
+
+### شهرستان اهواز (Ahvaz)
+
+Code: IR015003, Coordinates: 31.334, 48.864
+
+
+### شهرستان اندیکا (Andika)
+
+Code: IR015004, Coordinates: 32.32, 49.596
+
+
+### شهرستان اندیمشک (Andimeshk)
+
+Code: IR015005, Coordinates: 32.637, 48.205
+
+
+### شهرستان باغملک (Baghmalek)
+
+Code: IR015006, Coordinates: 31.467, 49.941
+
+
+### شهرستان باوی (Bavi)
+
+Code: IR015008, Coordinates: 31.531, 48.936
+
+
+### شهرستان بهبهان (Behbahan)
+
+Code: IR015009, Coordinates: 30.549, 50.302
+
+
+### شهرستان دشت آزادگان (Dasht-e-Azadegan)
+
+Code: IR015010, Coordinates: 31.738, 48.044
+
+
+### شهرستان دزفول (Dezful)
+
+Code: IR015011, Coordinates: 32.485, 48.746
+
+
+### شهرستان گتوند (Guotvand)
+
+Code: IR015012, Coordinates: 32.252, 48.801
+
+
+### شهرستان هفتکل (Haftgol)
+
+Code: IR015013, Coordinates: 31.536, 49.405
+
+
+### شهرستان حمیدیه (Hamidieh)
+
+Code: IR015014, Coordinates: 31.504, 48.495
+
+
+### شهرستان هندیجان (Hendijan)
+
+Code: IR015015, Coordinates: 30.294, 49.842
+
+
+### شهرستان هویزه (Hoveizeh)
+
+Code: IR015016, Coordinates: 31.339, 47.981
+
+
+### شهرستان ایذه (Izeh)
+
+Code: IR015017, Coordinates: 31.89, 49.935
+
+
+### شهرستان کارون (Karoun)
+
+Code: IR015018, Coordinates: 31.082, 48.591
+
+
+### شهرستان خرمشهر (Khorramshahr)
+
+Code: IR015019, Coordinates: 30.65, 48.176
+
+
+### شهرستان لالی (Lali)
+
+Code: IR015020, Coordinates: 32.394, 49.139
+
+
+### شهرستان بندر ماهشهر (Mahshahr)
+
+Code: IR015007, Coordinates: 30.53, 49.257
+
+
+### شهرستان مسجدسلیمان (Masjed-Soleyman)
+
+Code: IR015021, Coordinates: 32.003, 49.297
+
+
+### شهرستان امیدیه (Omidiyeh)
+
+Code: IR015022, Coordinates: 30.792, 49.694
+
+
+### شهرستان رامهرمز (Ramhormoz)
+
+Code: IR015023, Coordinates: 31.216, 49.655
+
+
+### شهرستان رامشیر (Ramshir)
+
+Code: IR015024, Coordinates: 30.954, 49.381
+
+
+### شهرستان شادگان (Shadegan)
+
+Code: IR015025, Coordinates: 30.647, 48.628
+
+
+### شهرستان شوش (Shush)
+
+Code: IR015026, Coordinates: 32.093, 48.134
+
+
+### شهرستان شوشتر (Shushtar)
+
+Code: IR015027, Coordinates: 31.873, 48.917
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "IR021",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "خراسان شمالی",
+    "en": "North Khorasan",
+    "slug": "north-khorasan-ir021"
+  },
+  "code": {
+    "id": "IR021",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.433",
+    "lon": "57.179"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/north-khorasan-ir021/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

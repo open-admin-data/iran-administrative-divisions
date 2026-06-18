@@ -1,0 +1,45 @@
+{
+  "id": "IR007016",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان طوالش",
+    "en": "Talesh",
+    "slug": "talesh-ir007016"
+  },
+  "code": {
+    "id": "IR007016",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.899",
+    "lon": "48.752"
+  },
+  "metadata": {},
+  "source": {}
+}

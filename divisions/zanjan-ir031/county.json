@@ -1,0 +1,362 @@
+[
+  {
+    "id": "IR031001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ابهر",
+      "en": "Abhar",
+      "slug": "abhar-ir031001"
+    },
+    "code": {
+      "id": "IR031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.134",
+      "lon": "49.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR031002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ایجرود",
+      "en": "Eejrud",
+      "slug": "eejrud-ir031002"
+    },
+    "code": {
+      "id": "IR031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.326",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR031003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خدابنده",
+      "en": "Khodabandeh",
+      "slug": "khodabandeh-ir031003"
+    },
+    "code": {
+      "id": "IR031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.99",
+      "lon": "48.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR031004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خرمدره",
+      "en": "Khorramdarreh",
+      "slug": "khorramdarreh-ir031004"
+    },
+    "code": {
+      "id": "IR031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.295",
+      "lon": "49.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR031005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ماه نشان",
+      "en": "Mahneshan",
+      "slug": "mahneshan-ir031005"
+    },
+    "code": {
+      "id": "IR031005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.643",
+      "lon": "47.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR031006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سلطانیه",
+      "en": "Soltanieh",
+      "slug": "soltanieh-ir031006"
+    },
+    "code": {
+      "id": "IR031006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.481",
+      "lon": "48.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR031007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان طارم",
+      "en": "Tarom",
+      "slug": "tarom-ir031007"
+    },
+    "code": {
+      "id": "IR031007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.927",
+      "lon": "48.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR031008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زنجان",
+      "en": "Zanjan",
+      "slug": "zanjan-ir031008"
+    },
+    "code": {
+      "id": "IR031008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR031",
+      "level": 1,
+      "name": {
+        "local": "زنجان",
+        "en": "Zanjan",
+        "slug": "zanjan-ir031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR031",
+        "level": 1,
+        "name": {
+          "local": "زنجان",
+          "en": "Zanjan",
+          "slug": "zanjan-ir031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.851",
+      "lon": "48.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

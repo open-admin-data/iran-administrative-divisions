@@ -1,0 +1,33 @@
+{
+  "id": "IR015",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "خوزستان",
+    "en": "Khuzestan",
+    "slug": "khuzestan-ir015"
+  },
+  "code": {
+    "id": "IR015",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.464",
+    "lon": "48.992"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/khuzestan-ir015/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

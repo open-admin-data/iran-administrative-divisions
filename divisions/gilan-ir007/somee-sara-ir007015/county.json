@@ -1,0 +1,45 @@
+{
+  "id": "IR007015",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان صومعه سرا",
+    "en": "Some'e-Sara",
+    "slug": "somee-sara-ir007015"
+  },
+  "code": {
+    "id": "IR007015",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.378",
+    "lon": "49.347"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "IR030001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ابرکوه",
+      "en": "Abarkuh",
+      "slug": "abarkuh-ir030001"
+    },
+    "code": {
+      "id": "IR030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.127",
+      "lon": "53.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اردکان",
+      "en": "Ardekan",
+      "slug": "ardekan-ir030002"
+    },
+    "code": {
+      "id": "IR030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.703",
+      "lon": "54.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اشکذر",
+      "en": "Ashkezar",
+      "slug": "ashkezar-ir030003"
+    },
+    "code": {
+      "id": "IR030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.986",
+      "lon": "53.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بافق",
+      "en": "Bafq",
+      "slug": "bafq-ir030004"
+    },
+    "code": {
+      "id": "IR030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.646",
+      "lon": "55.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بهاباد",
+      "en": "Bahabad",
+      "slug": "bahabad-ir030005"
+    },
+    "code": {
+      "id": "IR030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.016",
+      "lon": "56.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خاتم",
+      "en": "Khatam",
+      "slug": "khatam-ir030006"
+    },
+    "code": {
+      "id": "IR030006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.303",
+      "lon": "54.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مهریز",
+      "en": "Mehriz",
+      "slug": "mehriz-ir030007"
+    },
+    "code": {
+      "id": "IR030007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.381",
+      "lon": "54.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان میبد",
+      "en": "Meybod",
+      "slug": "meybod-ir030008"
+    },
+    "code": {
+      "id": "IR030008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.96",
+      "lon": "53.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تفت",
+      "en": "Taft",
+      "slug": "taft-ir030009"
+    },
+    "code": {
+      "id": "IR030009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.441",
+      "lon": "53.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR030010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان یزد",
+      "en": "Yazd",
+      "slug": "yazd-ir030010"
+    },
+    "code": {
+      "id": "IR030010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR030",
+        "level": 1,
+        "name": {
+          "local": "یزد",
+          "en": "Yazd",
+          "slug": "yazd-ir030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.943",
+      "lon": "54.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

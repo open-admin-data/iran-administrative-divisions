@@ -1,0 +1,45 @@
+{
+  "id": "IR014003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان گیلانغرب",
+    "en": "Gilan-e-Gharb",
+    "slug": "gilan-e-gharb-ir014003"
+  },
+  "code": {
+    "id": "IR014003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR014",
+    "level": 1,
+    "name": {
+      "local": "کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.062",
+    "lon": "46.042"
+  },
+  "metadata": {},
+  "source": {}
+}

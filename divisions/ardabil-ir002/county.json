@@ -1,0 +1,452 @@
+[
+  {
+    "id": "IR002001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اردبیل",
+      "en": "Ardabil",
+      "slug": "ardabil-ir002001"
+    },
+    "code": {
+      "id": "IR002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.287",
+      "lon": "48.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بیلهسوار",
+      "en": "Bilasavar",
+      "slug": "bilasavar-ir002002"
+    },
+    "code": {
+      "id": "IR002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.347",
+      "lon": "47.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گرمی",
+      "en": "Germi",
+      "slug": "germi-ir002003"
+    },
+    "code": {
+      "id": "IR002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.027",
+      "lon": "47.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خلخال",
+      "en": "Khalkhal",
+      "slug": "khalkhal-ir002004"
+    },
+    "code": {
+      "id": "IR002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.489",
+      "lon": "48.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کوثر",
+      "en": "Kowsar",
+      "slug": "kowsar-ir002005"
+    },
+    "code": {
+      "id": "IR002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.715",
+      "lon": "48.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مشگینشهر",
+      "en": "Meshginshahr",
+      "slug": "meshginshahr-ir002006"
+    },
+    "code": {
+      "id": "IR002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.543",
+      "lon": "47.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نمین",
+      "en": "Namin",
+      "slug": "namin-ir002007"
+    },
+    "code": {
+      "id": "IR002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.387",
+      "lon": "48.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نیر",
+      "en": "Nir",
+      "slug": "nir-ir002008"
+    },
+    "code": {
+      "id": "IR002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38",
+      "lon": "48.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پارس آباد",
+      "en": "Parsabad",
+      "slug": "parsabad-ir002009"
+    },
+    "code": {
+      "id": "IR002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.462",
+      "lon": "47.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR002010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سرعین",
+      "en": "Sareyn",
+      "slug": "sareyn-ir002010"
+    },
+    "code": {
+      "id": "IR002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR002",
+        "level": 1,
+        "name": {
+          "local": "اردبیل",
+          "en": "Ardabil",
+          "slug": "ardabil-ir002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.183",
+      "lon": "48.02"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

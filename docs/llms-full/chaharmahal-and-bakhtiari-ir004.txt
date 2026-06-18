@@ -1,0 +1,54 @@
+# Chaharmahal and Bakhtiari — Iran Administrative Divisions
+
+> 9 countys
+> Code: IR004
+> Coordinates: 31.979, 50.81
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان اردل (Ardal)
+
+Code: IR004001, Coordinates: 31.914, 50.34
+
+
+### شهرستان بن (Ben)
+
+Code: IR004002, Coordinates: 32.578, 50.616
+
+
+### شهرستان بروجن (Borujen)
+
+Code: IR004003, Coordinates: 31.856, 51.134
+
+
+### شهرستان فارسان (Farsan)
+
+Code: IR004004, Coordinates: 32.22, 50.569
+
+
+### شهرستان کیار (Kiaar)
+
+Code: IR004005, Coordinates: 31.931, 50.691
+
+
+### شهرستان کوهرنگ (Kuhrang)
+
+Code: IR004006, Coordinates: 32.405, 50.112
+
+
+### شهرستان لردگان (Lordegan)
+
+Code: IR004007, Coordinates: 31.456, 50.794
+
+
+### شهرستان سامان (Saman)
+
+Code: IR004008, Coordinates: 32.551, 50.9
+
+
+### شهرستان شهرکرد (Shahrekord)
+
+Code: IR004009, Coordinates: 32.294, 50.87
+
+

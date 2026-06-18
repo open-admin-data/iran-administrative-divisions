@@ -1,0 +1,45 @@
+{
+  "id": "IR014010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان روانسر",
+    "en": "Ravansar",
+    "slug": "ravansar-ir014010"
+  },
+  "code": {
+    "id": "IR014010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR014",
+    "level": 1,
+    "name": {
+      "local": "کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.767",
+    "lon": "46.644"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR007006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان لاهیجان",
+    "en": "Lahijan",
+    "slug": "lahijan-ir007006"
+  },
+  "code": {
+    "id": "IR007006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR007",
+    "level": 1,
+    "name": {
+      "local": "گیلان",
+      "en": "Gilan",
+      "slug": "gilan-ir007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.237",
+    "lon": "50.038"
+  },
+  "metadata": {},
+  "source": {}
+}

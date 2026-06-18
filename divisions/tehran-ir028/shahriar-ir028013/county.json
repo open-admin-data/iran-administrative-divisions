@@ -1,0 +1,45 @@
+{
+  "id": "IR028013",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان شهریار",
+    "en": "Shahriar",
+    "slug": "shahriar-ir028013"
+  },
+  "code": {
+    "id": "IR028013",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR028",
+    "level": 1,
+    "name": {
+      "local": "تهران",
+      "en": "Tehran",
+      "slug": "tehran-ir028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.597",
+    "lon": "51.049"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "IR024001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بجستان",
+      "en": "Bajestan",
+      "slug": "bajestan-ir024001"
+    },
+    "code": {
+      "id": "IR024001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.586",
+      "lon": "58.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان باخرز",
+      "en": "Bakharz",
+      "slug": "bakharz-ir024002"
+    },
+    "code": {
+      "id": "IR024002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.055",
+      "lon": "60.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بردسکن",
+      "en": "Bardaskan",
+      "slug": "bardaskan-ir024003"
+    },
+    "code": {
+      "id": "IR024003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.136",
+      "lon": "57.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چناران",
+      "en": "Chenaran",
+      "slug": "chenaran-ir024005"
+    },
+    "code": {
+      "id": "IR024005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.663",
+      "lon": "59.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان درگز",
+      "en": "Dargaz",
+      "slug": "dargaz-ir024006"
+    },
+    "code": {
+      "id": "IR024006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.313",
+      "lon": "59.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان داورزن",
+      "en": "Davarzan",
+      "slug": "davarzan-ir024007"
+    },
+    "code": {
+      "id": "IR024007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.311",
+      "lon": "57.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فریمان",
+      "en": "Fariman",
+      "slug": "fariman-ir024008"
+    },
+    "code": {
+      "id": "IR024008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.729",
+      "lon": "59.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فیروزه",
+      "en": "Firuzeh",
+      "slug": "firuzeh-ir024009"
+    },
+    "code": {
+      "id": "IR024009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.35",
+      "lon": "58.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گناباد",
+      "en": "Gonabad",
+      "slug": "gonabad-ir024010"
+    },
+    "code": {
+      "id": "IR024010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.413",
+      "lon": "58.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جغتای",
+      "en": "Joghatai",
+      "slug": "joghatai-ir024011"
+    },
+    "code": {
+      "id": "IR024011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.652",
+      "lon": "57.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جوین",
+      "en": "Jowayin",
+      "slug": "jowayin-ir024012"
+    },
+    "code": {
+      "id": "IR024012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.61",
+      "lon": "57.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کلات",
+      "en": "Kalat",
+      "slug": "kalat-ir024013"
+    },
+    "code": {
+      "id": "IR024013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.851",
+      "lon": "59.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کاشمر",
+      "en": "Kashmar",
+      "slug": "kashmar-ir024014"
+    },
+    "code": {
+      "id": "IR024014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.417",
+      "lon": "58.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خواف",
+      "en": "Khaf",
+      "slug": "khaf-ir024015"
+    },
+    "code": {
+      "id": "IR024015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.452",
+      "lon": "60.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خلیل آباد",
+      "en": "Khalilabad",
+      "slug": "khalilabad-ir024016"
+    },
+    "code": {
+      "id": "IR024016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.179",
+      "lon": "58.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خوشاب",
+      "en": "Khoshab",
+      "slug": "khoshab-ir024017"
+    },
+    "code": {
+      "id": "IR024017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.57",
+      "lon": "58.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مه ولات",
+      "en": "Mahvelat",
+      "slug": "mahvelat-ir024018"
+    },
+    "code": {
+      "id": "IR024018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.058",
+      "lon": "58.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مشهد",
+      "en": "Mashhad",
+      "slug": "mashhad-ir024019"
+    },
+    "code": {
+      "id": "IR024019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.341",
+      "lon": "59.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024020",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نیشابور",
+      "en": "Nishapur",
+      "slug": "nishapur-ir024020"
+    },
+    "code": {
+      "id": "IR024020",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.272",
+      "lon": "58.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024021",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قوچان",
+      "en": "Quchan",
+      "slug": "quchan-ir024021"
+    },
+    "code": {
+      "id": "IR024021",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.146",
+      "lon": "58.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024022",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رشتخوار",
+      "en": "Rashtkhar",
+      "slug": "rashtkhar-ir024022"
+    },
+    "code": {
+      "id": "IR024022",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.804",
+      "lon": "59.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024023",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سبزوار",
+      "en": "Sabzevar",
+      "slug": "sabzevar-ir024023"
+    },
+    "code": {
+      "id": "IR024023",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.956",
+      "lon": "57.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024024",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سرخس",
+      "en": "Sarakhs",
+      "slug": "sarakhs-ir024024"
+    },
+    "code": {
+      "id": "IR024024",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.271",
+      "lon": "60.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024025",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تایباد",
+      "en": "Taybad",
+      "slug": "taybad-ir024025"
+    },
+    "code": {
+      "id": "IR024025",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.782",
+      "lon": "60.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024026",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تربت حیدریه",
+      "en": "Torbat-e-Heydarieh",
+      "slug": "torbat-e-heydarieh-ir024026"
+    },
+    "code": {
+      "id": "IR024026",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.406",
+      "lon": "59.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024027",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تربت جام",
+      "en": "Torbat-e-Jam",
+      "slug": "torbat-e-jam-ir024027"
+    },
+    "code": {
+      "id": "IR024027",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.45",
+      "lon": "60.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بینالود",
+      "en": "Torghabe-o-Shandiz",
+      "slug": "torghabe-o-shandiz-ir024004"
+    },
+    "code": {
+      "id": "IR024004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.286",
+      "lon": "59.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR024028",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان زاوه",
+      "en": "Zave",
+      "slug": "zave-ir024028"
+    },
+    "code": {
+      "id": "IR024028",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR024",
+      "level": 1,
+      "name": {
+        "local": "خراسان رضوی",
+        "en": "Razavi Khorasan",
+        "slug": "razavi-khorasan-ir024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR024",
+        "level": 1,
+        "name": {
+          "local": "خراسان رضوی",
+          "en": "Razavi Khorasan",
+          "slug": "razavi-khorasan-ir024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.262",
+      "lon": "59.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

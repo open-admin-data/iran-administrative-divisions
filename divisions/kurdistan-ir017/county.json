@@ -1,0 +1,452 @@
+[
+  {
+    "id": "IR017001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بانه",
+      "en": "Baneh",
+      "slug": "baneh-ir017001"
+    },
+    "code": {
+      "id": "IR017001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.022",
+      "lon": "45.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بیجار",
+      "en": "Bijar",
+      "slug": "bijar-ir017002"
+    },
+    "code": {
+      "id": "IR017002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.967",
+      "lon": "47.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دهگلان",
+      "en": "Dehgolan",
+      "slug": "dehgolan-ir017003"
+    },
+    "code": {
+      "id": "IR017003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.356",
+      "lon": "47.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دیواندره",
+      "en": "Divandarreh",
+      "slug": "divandarreh-ir017004"
+    },
+    "code": {
+      "id": "IR017004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.97",
+      "lon": "46.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کامیاران",
+      "en": "Kamyaran",
+      "slug": "kamyaran-ir017006"
+    },
+    "code": {
+      "id": "IR017006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.947",
+      "lon": "46.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مریوان",
+      "en": "Marivan",
+      "slug": "marivan-ir017007"
+    },
+    "code": {
+      "id": "IR017007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.588",
+      "lon": "46.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قروه",
+      "en": "Qorveh",
+      "slug": "qorveh-ir017005"
+    },
+    "code": {
+      "id": "IR017005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.25",
+      "lon": "47.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سنندج",
+      "en": "Sannandaj",
+      "slug": "sannandaj-ir017008"
+    },
+    "code": {
+      "id": "IR017008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.368",
+      "lon": "46.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سقز",
+      "en": "Saqqez",
+      "slug": "saqqez-ir017009"
+    },
+    "code": {
+      "id": "IR017009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.122",
+      "lon": "46.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR017010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سروآباد",
+      "en": "Sarvabad",
+      "slug": "sarvabad-ir017010"
+    },
+    "code": {
+      "id": "IR017010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR017",
+      "level": 1,
+      "name": {
+        "local": "کردستان",
+        "en": "Kurdistan",
+        "slug": "kurdistan-ir017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR017",
+        "level": 1,
+        "name": {
+          "local": "کردستان",
+          "en": "Kurdistan",
+          "slug": "kurdistan-ir017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.22",
+      "lon": "46.41"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

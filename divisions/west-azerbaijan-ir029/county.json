@@ -1,0 +1,767 @@
+[
+  {
+    "id": "IR029002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بوکان",
+      "en": "Bukan",
+      "slug": "bukan-ir029002"
+    },
+    "code": {
+      "id": "IR029002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.539",
+      "lon": "46.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چالدران",
+      "en": "Chaldoran",
+      "slug": "chaldoran-ir029003"
+    },
+    "code": {
+      "id": "IR029003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.101",
+      "lon": "44.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان چایپاره",
+      "en": "Chaypareh",
+      "slug": "chaypareh-ir029004"
+    },
+    "code": {
+      "id": "IR029004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.876",
+      "lon": "45.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خوی",
+      "en": "Khoy",
+      "slug": "khoy-ir029005"
+    },
+    "code": {
+      "id": "IR029005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.649",
+      "lon": "44.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مهاباد",
+      "en": "Mahabad",
+      "slug": "mahabad-ir029006"
+    },
+    "code": {
+      "id": "IR029006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.658",
+      "lon": "45.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ماکو",
+      "en": "Maku",
+      "slug": "maku-ir029007"
+    },
+    "code": {
+      "id": "IR029007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.458",
+      "lon": "44.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان میاندوآب",
+      "en": "Miandoab",
+      "slug": "miandoab-ir029008"
+    },
+    "code": {
+      "id": "IR029008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.007",
+      "lon": "46.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نقده",
+      "en": "Naqadeh",
+      "slug": "naqadeh-ir029009"
+    },
+    "code": {
+      "id": "IR029009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.953",
+      "lon": "45.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اشنویه",
+      "en": "Oshnaviyeh",
+      "slug": "oshnaviyeh-ir029001"
+    },
+    "code": {
+      "id": "IR029001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.09",
+      "lon": "45.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پیرانشهر",
+      "en": "Piranshahr",
+      "slug": "piranshahr-ir029010"
+    },
+    "code": {
+      "id": "IR029010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.672",
+      "lon": "45.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پلدشت",
+      "en": "Poldasht",
+      "slug": "poldasht-ir029011"
+    },
+    "code": {
+      "id": "IR029011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.262",
+      "lon": "45.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سلماس",
+      "en": "Salmas",
+      "slug": "salmas-ir029012"
+    },
+    "code": {
+      "id": "IR029012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.106",
+      "lon": "44.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سردشت",
+      "en": "Sardasht",
+      "slug": "sardasht-ir029013"
+    },
+    "code": {
+      "id": "IR029013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.221",
+      "lon": "45.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شاهیندژ",
+      "en": "Shahindej",
+      "slug": "shahindej-ir029014"
+    },
+    "code": {
+      "id": "IR029014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.664",
+      "lon": "46.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شوط",
+      "en": "Showt",
+      "slug": "showt-ir029015"
+    },
+    "code": {
+      "id": "IR029015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.152",
+      "lon": "44.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تکاب",
+      "en": "Takab",
+      "slug": "takab-ir029016"
+    },
+    "code": {
+      "id": "IR029016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.542",
+      "lon": "47.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR029017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ارومیه",
+      "en": "Urumia",
+      "slug": "urumia-ir029017"
+    },
+    "code": {
+      "id": "IR029017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR029",
+      "level": 1,
+      "name": {
+        "local": "آذربایجان غربی",
+        "en": "West Azerbaijan",
+        "slug": "west-azerbaijan-ir029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR029",
+        "level": 1,
+        "name": {
+          "local": "آذربایجان غربی",
+          "en": "West Azerbaijan",
+          "slug": "west-azerbaijan-ir029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.64",
+      "lon": "44.903"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

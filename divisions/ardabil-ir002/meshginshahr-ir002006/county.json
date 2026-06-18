@@ -1,0 +1,45 @@
+{
+  "id": "IR002006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مشگینشهر",
+    "en": "Meshginshahr",
+    "slug": "meshginshahr-ir002006"
+  },
+  "code": {
+    "id": "IR002006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR002",
+    "level": 1,
+    "name": {
+      "local": "اردبیل",
+      "en": "Ardabil",
+      "slug": "ardabil-ir002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.543",
+    "lon": "47.779"
+  },
+  "metadata": {},
+  "source": {}
+}

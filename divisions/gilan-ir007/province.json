@@ -1,0 +1,33 @@
+{
+  "id": "IR007",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "گیلان",
+    "en": "Gilan",
+    "slug": "gilan-ir007"
+  },
+  "code": {
+    "id": "IR007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.509",
+    "lon": "49.019"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/gilan-ir007/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

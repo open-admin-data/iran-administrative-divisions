@@ -1,0 +1,45 @@
+{
+  "id": "IR021006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مانه وسملقان",
+    "en": "Maneh-o-Samalqan",
+    "slug": "maneh-o-samalqan-ir021006"
+  },
+  "code": {
+    "id": "IR021006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR021",
+    "level": 1,
+    "name": {
+      "local": "خراسان شمالی",
+      "en": "North Khorasan",
+      "slug": "north-khorasan-ir021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR021",
+      "level": 1,
+      "name": {
+        "local": "خراسان شمالی",
+        "en": "North Khorasan",
+        "slug": "north-khorasan-ir021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.732",
+    "lon": "56.71"
+  },
+  "metadata": {},
+  "source": {}
+}

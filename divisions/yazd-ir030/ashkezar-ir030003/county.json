@@ -1,0 +1,45 @@
+{
+  "id": "IR030003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اشکذر",
+    "en": "Ashkezar",
+    "slug": "ashkezar-ir030003"
+  },
+  "code": {
+    "id": "IR030003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR030",
+    "level": 1,
+    "name": {
+      "local": "یزد",
+      "en": "Yazd",
+      "slug": "yazd-ir030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.986",
+    "lon": "53.974"
+  },
+  "metadata": {},
+  "source": {}
+}

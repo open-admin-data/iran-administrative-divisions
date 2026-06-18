@@ -1,0 +1,45 @@
+{
+  "id": "IR016004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان چرام",
+    "en": "Charam",
+    "slug": "charam-ir016004"
+  },
+  "code": {
+    "id": "IR016004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR016",
+    "level": 1,
+    "name": {
+      "local": "کهگیلویه و بویراحمد",
+      "en": "Kohgiluyeh and Boyer-Ahmad",
+      "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR016",
+      "level": 1,
+      "name": {
+        "local": "کهگیلویه و بویراحمد",
+        "en": "Kohgiluyeh and Boyer-Ahmad",
+        "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.808",
+    "lon": "50.879"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR016003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بویراحمد",
+    "en": "Yasooj",
+    "slug": "yasooj-ir016003"
+  },
+  "code": {
+    "id": "IR016003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR016",
+    "level": 1,
+    "name": {
+      "local": "کهگیلویه و بویراحمد",
+      "en": "Kohgiluyeh and Boyer-Ahmad",
+      "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR016",
+      "level": 1,
+      "name": {
+        "local": "کهگیلویه و بویراحمد",
+        "en": "Kohgiluyeh and Boyer-Ahmad",
+        "slug": "kohgiluyeh-and-boyer-ahmad-ir016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.907",
+    "lon": "51.051"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "IR029",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "آذربایجان غربی",
+    "en": "West Azerbaijan",
+    "slug": "west-azerbaijan-ir029"
+  },
+  "code": {
+    "id": "IR029",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.875",
+    "lon": "44.7"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/west-azerbaijan-ir029/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

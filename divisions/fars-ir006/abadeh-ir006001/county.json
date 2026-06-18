@@ -1,0 +1,45 @@
+{
+  "id": "IR006001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آباده",
+    "en": "Abadeh",
+    "slug": "abadeh-ir006001"
+  },
+  "code": {
+    "id": "IR006001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.221",
+    "lon": "52.415"
+  },
+  "metadata": {},
+  "source": {}
+}

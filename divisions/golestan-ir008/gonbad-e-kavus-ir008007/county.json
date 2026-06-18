@@ -1,0 +1,45 @@
+{
+  "id": "IR008007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان گنبد کاووس",
+    "en": "Gonbad-e-Kavus",
+    "slug": "gonbad-e-kavus-ir008007"
+  },
+  "code": {
+    "id": "IR008007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.588",
+    "lon": "55.059"
+  },
+  "metadata": {},
+  "source": {}
+}

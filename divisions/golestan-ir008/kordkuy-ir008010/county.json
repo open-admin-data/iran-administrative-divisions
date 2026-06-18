@@ -1,0 +1,45 @@
+{
+  "id": "IR008010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان کردکوی",
+    "en": "Kordkuy",
+    "slug": "kordkuy-ir008010"
+  },
+  "code": {
+    "id": "IR008010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.686",
+    "lon": "54.203"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR030008",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان میبد",
+    "en": "Meybod",
+    "slug": "meybod-ir030008"
+  },
+  "code": {
+    "id": "IR030008",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR030",
+    "level": 1,
+    "name": {
+      "local": "یزد",
+      "en": "Yazd",
+      "slug": "yazd-ir030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR030",
+      "level": 1,
+      "name": {
+        "local": "یزد",
+        "en": "Yazd",
+        "slug": "yazd-ir030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.96",
+    "lon": "53.374"
+  },
+  "metadata": {},
+  "source": {}
+}

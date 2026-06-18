@@ -1,0 +1,45 @@
+{
+  "id": "IR006025",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان رستم",
+    "en": "Rostam",
+    "slug": "rostam-ir006025"
+  },
+  "code": {
+    "id": "IR006025",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.425",
+    "lon": "51.386"
+  },
+  "metadata": {},
+  "source": {}
+}

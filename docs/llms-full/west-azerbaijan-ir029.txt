@@ -1,0 +1,94 @@
+# West Azerbaijan — Iran Administrative Divisions
+
+> 17 countys
+> Code: IR029
+> Coordinates: 37.875, 44.7
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان بوکان (Bukan)
+
+Code: IR029002, Coordinates: 36.539, 46.18
+
+
+### شهرستان چالدران (Chaldoran)
+
+Code: IR029003, Coordinates: 39.101, 44.447
+
+
+### شهرستان چایپاره (Chaypareh)
+
+Code: IR029004, Coordinates: 38.876, 45.012
+
+
+### شهرستان خوی (Khoy)
+
+Code: IR029005, Coordinates: 38.649, 44.761
+
+
+### شهرستان مهاباد (Mahabad)
+
+Code: IR029006, Coordinates: 36.658, 45.772
+
+
+### شهرستان ماکو (Maku)
+
+Code: IR029007, Coordinates: 39.458, 44.627
+
+
+### شهرستان میاندوآب (Miandoab)
+
+Code: IR029008, Coordinates: 37.007, 46.589
+
+
+### شهرستان نقده (Naqadeh)
+
+Code: IR029009, Coordinates: 36.953, 45.453
+
+
+### شهرستان اشنویه (Oshnaviyeh)
+
+Code: IR029001, Coordinates: 37.09, 45.014
+
+
+### شهرستان پیرانشهر (Piranshahr)
+
+Code: IR029010, Coordinates: 36.672, 45.291
+
+
+### شهرستان پلدشت (Poldasht)
+
+Code: IR029011, Coordinates: 39.262, 45.018
+
+
+### شهرستان سلماس (Salmas)
+
+Code: IR029012, Coordinates: 38.106, 44.696
+
+
+### شهرستان سردشت (Sardasht)
+
+Code: IR029013, Coordinates: 36.221, 45.497
+
+
+### شهرستان شاهیندژ (Shahindej)
+
+Code: IR029014, Coordinates: 36.664, 46.708
+
+
+### شهرستان شوط (Showt)
+
+Code: IR029015, Coordinates: 39.152, 44.855
+
+
+### شهرستان تکاب (Takab)
+
+Code: IR029016, Coordinates: 36.542, 47.104
+
+
+### شهرستان ارومیه (Urumia)
+
+Code: IR029017, Coordinates: 37.64, 44.903
+
+

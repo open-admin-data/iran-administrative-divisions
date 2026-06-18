@@ -1,0 +1,45 @@
+{
+  "id": "IR025005",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان میامی",
+    "en": "Meyami",
+    "slug": "meyami-ir025005"
+  },
+  "code": {
+    "id": "IR025005",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR025",
+    "level": 1,
+    "name": {
+      "local": "سمنان",
+      "en": "Semnan",
+      "slug": "semnan-ir025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR025",
+      "level": 1,
+      "name": {
+        "local": "سمنان",
+        "en": "Semnan",
+        "slug": "semnan-ir025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.738",
+    "lon": "55.956"
+  },
+  "metadata": {},
+  "source": {}
+}

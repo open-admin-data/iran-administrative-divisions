@@ -1,0 +1,45 @@
+{
+  "id": "IR003004",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دشتی",
+    "en": "Dashti",
+    "slug": "dashti-ir003004"
+  },
+  "code": {
+    "id": "IR003004",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR003",
+    "level": 1,
+    "name": {
+      "local": "بوشهر",
+      "en": "Bushehr",
+      "slug": "bushehr-ir003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.447",
+    "lon": "51.627"
+  },
+  "metadata": {},
+  "source": {}
+}

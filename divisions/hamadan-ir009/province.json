@@ -1,0 +1,33 @@
+{
+  "id": "IR009",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "همدان",
+    "en": "Hamadan",
+    "slug": "hamadan-ir009"
+  },
+  "code": {
+    "id": "IR009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.87",
+    "lon": "48.559"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/hamadan-ir009/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

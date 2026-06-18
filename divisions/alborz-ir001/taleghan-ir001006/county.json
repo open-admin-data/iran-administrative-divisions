@@ -1,0 +1,45 @@
+{
+  "id": "IR001006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان طالقان",
+    "en": "Taleghan",
+    "slug": "taleghan-ir001006"
+  },
+  "code": {
+    "id": "IR001006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR001",
+    "level": 1,
+    "name": {
+      "local": "البرز",
+      "en": "Alborz",
+      "slug": "alborz-ir001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR001",
+      "level": 1,
+      "name": {
+        "local": "البرز",
+        "en": "Alborz",
+        "slug": "alborz-ir001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.222",
+    "lon": "50.772"
+  },
+  "metadata": {},
+  "source": {}
+}

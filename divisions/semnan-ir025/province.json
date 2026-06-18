@@ -1,0 +1,33 @@
+{
+  "id": "IR025",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "سمنان",
+    "en": "Semnan",
+    "slug": "semnan-ir025"
+  },
+  "code": {
+    "id": "IR025",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.787",
+    "lon": "54.968"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/semnan-ir025/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

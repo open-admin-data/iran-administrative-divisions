@@ -1,0 +1,59 @@
+# Ardabil — Iran Administrative Divisions
+
+> 10 countys
+> Code: IR002
+> Coordinates: 38.407, 47.986
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان اردبیل (Ardabil)
+
+Code: IR002001, Coordinates: 38.287, 48.147
+
+
+### شهرستان بیلهسوار (Bilasavar)
+
+Code: IR002002, Coordinates: 39.347, 47.997
+
+
+### شهرستان گرمی (Germi)
+
+Code: IR002003, Coordinates: 39.027, 47.922
+
+
+### شهرستان خلخال (Khalkhal)
+
+Code: IR002004, Coordinates: 37.489, 48.475
+
+
+### شهرستان کوثر (Kowsar)
+
+Code: IR002005, Coordinates: 37.715, 48.253
+
+
+### شهرستان مشگینشهر (Meshginshahr)
+
+Code: IR002006, Coordinates: 38.543, 47.779
+
+
+### شهرستان نمین (Namin)
+
+Code: IR002007, Coordinates: 38.387, 48.428
+
+
+### شهرستان نیر (Nir)
+
+Code: IR002008, Coordinates: 38, 48.109
+
+
+### شهرستان پارس آباد (Parsabad)
+
+Code: IR002009, Coordinates: 39.462, 47.56
+
+
+### شهرستان سرعین (Sareyn)
+
+Code: IR002010, Coordinates: 38.183, 48.02
+
+

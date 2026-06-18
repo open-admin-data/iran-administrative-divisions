@@ -1,0 +1,45 @@
+{
+  "id": "IR011001",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آبدانان",
+    "en": "Abdanan",
+    "slug": "abdanan-ir011001"
+  },
+  "code": {
+    "id": "IR011001",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR011",
+    "level": 1,
+    "name": {
+      "local": "ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.857",
+    "lon": "47.526"
+  },
+  "metadata": {},
+  "source": {}
+}

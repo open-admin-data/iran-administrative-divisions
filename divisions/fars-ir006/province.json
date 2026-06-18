@@ -1,0 +1,33 @@
+{
+  "id": "IR006",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "فارس",
+    "en": "Fars",
+    "slug": "fars-ir006"
+  },
+  "code": {
+    "id": "IR006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.358",
+    "lon": "53.318"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/fars-ir006/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

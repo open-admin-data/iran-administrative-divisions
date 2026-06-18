@@ -1,0 +1,45 @@
+{
+  "id": "IR013021",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان شهربابک",
+    "en": "Shahr-e-Babak",
+    "slug": "shahr-e-babak-ir013021"
+  },
+  "code": {
+    "id": "IR013021",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR013",
+    "level": 1,
+    "name": {
+      "local": "کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.256",
+    "lon": "55.09"
+  },
+  "metadata": {},
+  "source": {}
+}

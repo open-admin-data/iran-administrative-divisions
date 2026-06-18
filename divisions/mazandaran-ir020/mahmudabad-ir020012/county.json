@@ -1,0 +1,45 @@
+{
+  "id": "IR020012",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان محمودآباد",
+    "en": "Mahmudabad",
+    "slug": "mahmudabad-ir020012"
+  },
+  "code": {
+    "id": "IR020012",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.61",
+    "lon": "52.323"
+  },
+  "metadata": {},
+  "source": {}
+}

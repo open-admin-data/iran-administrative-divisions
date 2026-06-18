@@ -1,0 +1,45 @@
+{
+  "id": "IR003008",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان جم",
+    "en": "Jam",
+    "slug": "jam-ir003008"
+  },
+  "code": {
+    "id": "IR003008",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR003",
+    "level": 1,
+    "name": {
+      "local": "بوشهر",
+      "en": "Bushehr",
+      "slug": "bushehr-ir003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.92",
+    "lon": "52.264"
+  },
+  "metadata": {},
+  "source": {}
+}

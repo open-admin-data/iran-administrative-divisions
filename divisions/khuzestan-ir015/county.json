@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "IR015001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آبادان",
+      "en": "Abadan",
+      "slug": "abadan-ir015001"
+    },
+    "code": {
+      "id": "IR015001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.216",
+      "lon": "48.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آغاجاری",
+      "en": "Aghajari",
+      "slug": "aghajari-ir015002"
+    },
+    "code": {
+      "id": "IR015002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.747",
+      "lon": "49.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اهواز",
+      "en": "Ahvaz",
+      "slug": "ahvaz-ir015003"
+    },
+    "code": {
+      "id": "IR015003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.334",
+      "lon": "48.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اندیکا",
+      "en": "Andika",
+      "slug": "andika-ir015004"
+    },
+    "code": {
+      "id": "IR015004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.32",
+      "lon": "49.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اندیمشک",
+      "en": "Andimeshk",
+      "slug": "andimeshk-ir015005"
+    },
+    "code": {
+      "id": "IR015005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.637",
+      "lon": "48.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان باغملک",
+      "en": "Baghmalek",
+      "slug": "baghmalek-ir015006"
+    },
+    "code": {
+      "id": "IR015006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.467",
+      "lon": "49.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان باوی",
+      "en": "Bavi",
+      "slug": "bavi-ir015008"
+    },
+    "code": {
+      "id": "IR015008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.531",
+      "lon": "48.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بهبهان",
+      "en": "Behbahan",
+      "slug": "behbahan-ir015009"
+    },
+    "code": {
+      "id": "IR015009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.549",
+      "lon": "50.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دشت آزادگان",
+      "en": "Dasht-e-Azadegan",
+      "slug": "dasht-e-azadegan-ir015010"
+    },
+    "code": {
+      "id": "IR015010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.738",
+      "lon": "48.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دزفول",
+      "en": "Dezful",
+      "slug": "dezful-ir015011"
+    },
+    "code": {
+      "id": "IR015011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.485",
+      "lon": "48.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گتوند",
+      "en": "Guotvand",
+      "slug": "guotvand-ir015012"
+    },
+    "code": {
+      "id": "IR015012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.252",
+      "lon": "48.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هفتکل",
+      "en": "Haftgol",
+      "slug": "haftgol-ir015013"
+    },
+    "code": {
+      "id": "IR015013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.536",
+      "lon": "49.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان حمیدیه",
+      "en": "Hamidieh",
+      "slug": "hamidieh-ir015014"
+    },
+    "code": {
+      "id": "IR015014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.504",
+      "lon": "48.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هندیجان",
+      "en": "Hendijan",
+      "slug": "hendijan-ir015015"
+    },
+    "code": {
+      "id": "IR015015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.294",
+      "lon": "49.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هویزه",
+      "en": "Hoveizeh",
+      "slug": "hoveizeh-ir015016"
+    },
+    "code": {
+      "id": "IR015016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.339",
+      "lon": "47.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015017",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ایذه",
+      "en": "Izeh",
+      "slug": "izeh-ir015017"
+    },
+    "code": {
+      "id": "IR015017",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.89",
+      "lon": "49.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015018",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کارون",
+      "en": "Karoun",
+      "slug": "karoun-ir015018"
+    },
+    "code": {
+      "id": "IR015018",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.082",
+      "lon": "48.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015019",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان خرمشهر",
+      "en": "Khorramshahr",
+      "slug": "khorramshahr-ir015019"
+    },
+    "code": {
+      "id": "IR015019",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.65",
+      "lon": "48.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015020",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان لالی",
+      "en": "Lali",
+      "slug": "lali-ir015020"
+    },
+    "code": {
+      "id": "IR015020",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.394",
+      "lon": "49.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بندر ماهشهر",
+      "en": "Mahshahr",
+      "slug": "mahshahr-ir015007"
+    },
+    "code": {
+      "id": "IR015007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.53",
+      "lon": "49.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015021",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان مسجدسلیمان",
+      "en": "Masjed-Soleyman",
+      "slug": "masjed-soleyman-ir015021"
+    },
+    "code": {
+      "id": "IR015021",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.003",
+      "lon": "49.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015022",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان امیدیه",
+      "en": "Omidiyeh",
+      "slug": "omidiyeh-ir015022"
+    },
+    "code": {
+      "id": "IR015022",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.792",
+      "lon": "49.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015023",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رامهرمز",
+      "en": "Ramhormoz",
+      "slug": "ramhormoz-ir015023"
+    },
+    "code": {
+      "id": "IR015023",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.216",
+      "lon": "49.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015024",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رامشیر",
+      "en": "Ramshir",
+      "slug": "ramshir-ir015024"
+    },
+    "code": {
+      "id": "IR015024",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.954",
+      "lon": "49.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015025",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شادگان",
+      "en": "Shadegan",
+      "slug": "shadegan-ir015025"
+    },
+    "code": {
+      "id": "IR015025",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.647",
+      "lon": "48.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015026",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شوش",
+      "en": "Shush",
+      "slug": "shush-ir015026"
+    },
+    "code": {
+      "id": "IR015026",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.093",
+      "lon": "48.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR015027",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شوشتر",
+      "en": "Shushtar",
+      "slug": "shushtar-ir015027"
+    },
+    "code": {
+      "id": "IR015027",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR015",
+        "level": 1,
+        "name": {
+          "local": "خوزستان",
+          "en": "Khuzestan",
+          "slug": "khuzestan-ir015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.873",
+      "lon": "48.917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

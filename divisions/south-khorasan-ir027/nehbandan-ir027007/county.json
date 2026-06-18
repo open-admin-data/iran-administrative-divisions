@@ -1,0 +1,45 @@
+{
+  "id": "IR027007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان نهبندان",
+    "en": "Nehbandan",
+    "slug": "nehbandan-ir027007"
+  },
+  "code": {
+    "id": "IR027007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR027",
+    "level": 1,
+    "name": {
+      "local": "خراسان جنوبی",
+      "en": "South Khorasan",
+      "slug": "south-khorasan-ir027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.433",
+    "lon": "59.645"
+  },
+  "metadata": {},
+  "source": {}
+}

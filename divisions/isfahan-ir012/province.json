@@ -1,0 +1,33 @@
+{
+  "id": "IR012",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "اصفهان",
+    "en": "Isfahan",
+    "slug": "isfahan-ir012"
+  },
+  "code": {
+    "id": "IR012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.609",
+    "lon": "52.048"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/isfahan-ir012/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

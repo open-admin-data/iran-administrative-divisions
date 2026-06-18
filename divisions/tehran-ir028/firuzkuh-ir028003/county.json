@@ -1,0 +1,45 @@
+{
+  "id": "IR028003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان فیروزکوه",
+    "en": "Firuzkuh",
+    "slug": "firuzkuh-ir028003"
+  },
+  "code": {
+    "id": "IR028003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR028",
+    "level": 1,
+    "name": {
+      "local": "تهران",
+      "en": "Tehran",
+      "slug": "tehran-ir028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR028",
+      "level": 1,
+      "name": {
+        "local": "تهران",
+        "en": "Tehran",
+        "slug": "tehran-ir028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.637",
+    "lon": "52.703"
+  },
+  "metadata": {},
+  "source": {}
+}

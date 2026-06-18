@@ -1,0 +1,45 @@
+{
+  "id": "IR014012",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ثلاث باباجانی",
+    "en": "Solas-e-Babajani",
+    "slug": "solas-e-babajani-ir014012"
+  },
+  "code": {
+    "id": "IR014012",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR014",
+    "level": 1,
+    "name": {
+      "local": "کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.819",
+    "lon": "45.994"
+  },
+  "metadata": {},
+  "source": {}
+}

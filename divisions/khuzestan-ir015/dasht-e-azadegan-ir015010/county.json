@@ -1,0 +1,45 @@
+{
+  "id": "IR015010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دشت آزادگان",
+    "en": "Dasht-e-Azadegan",
+    "slug": "dasht-e-azadegan-ir015010"
+  },
+  "code": {
+    "id": "IR015010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR015",
+    "level": 1,
+    "name": {
+      "local": "خوزستان",
+      "en": "Khuzestan",
+      "slug": "khuzestan-ir015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR015",
+      "level": 1,
+      "name": {
+        "local": "خوزستان",
+        "en": "Khuzestan",
+        "slug": "khuzestan-ir015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.738",
+    "lon": "48.044"
+  },
+  "metadata": {},
+  "source": {}
+}

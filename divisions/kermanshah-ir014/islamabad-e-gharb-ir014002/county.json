@@ -1,0 +1,45 @@
+{
+  "id": "IR014002",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان اسلام آبادغرب",
+    "en": "Islamabad-e-Gharb",
+    "slug": "islamabad-e-gharb-ir014002"
+  },
+  "code": {
+    "id": "IR014002",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR014",
+    "level": 1,
+    "name": {
+      "local": "کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.043",
+    "lon": "46.652"
+  },
+  "metadata": {},
+  "source": {}
+}

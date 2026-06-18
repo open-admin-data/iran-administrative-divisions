@@ -1,0 +1,39 @@
+# Qazvin — Iran Administrative Divisions
+
+> 6 countys
+> Code: IR022
+> Coordinates: 36.109, 50.039
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان آبیک (Abyek)
+
+Code: IR022001, Coordinates: 36.08, 50.318
+
+
+### شهرستان البرز (Alborz)
+
+Code: IR022002, Coordinates: 36.215, 50.119
+
+
+### شهرستان آوج (Avaj)
+
+Code: IR022003, Coordinates: 35.69, 49.197
+
+
+### شهرستان بوئین زهرا (Buin-Zahra)
+
+Code: IR022004, Coordinates: 35.839, 49.989
+
+
+### شهرستان قزوین (Qazvin)
+
+Code: IR022005, Coordinates: 36.454, 49.922
+
+
+### شهرستان تاکستان (Takestan)
+
+Code: IR022006, Coordinates: 36.015, 49.58
+
+

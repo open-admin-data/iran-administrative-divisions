@@ -1,0 +1,89 @@
+# Gilan — Iran Administrative Divisions
+
+> 16 countys
+> Code: IR007
+> Coordinates: 37.509, 49.019
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان املش (Amlash)
+
+Code: IR007001, Coordinates: 36.956, 50.116
+
+
+### شهرستان آستانه اشرفیه (Astane-ye-Ashrafiyeh)
+
+Code: IR007002, Coordinates: 37.333, 50.004
+
+
+### شهرستان آستارا (Astara)
+
+Code: IR007003, Coordinates: 38.353, 48.727
+
+
+### شهرستان بندر انزلی (Bandar-e-Anzali)
+
+Code: IR007004, Coordinates: 37.473, 49.369
+
+
+### شهرستان فومن (Fuman)
+
+Code: IR007005, Coordinates: 37.175, 49.141
+
+
+### شهرستان لاهیجان (Lahijan)
+
+Code: IR007006, Coordinates: 37.237, 50.038
+
+
+### شهرستان لنگرود (Langrud)
+
+Code: IR007007, Coordinates: 37.133, 50.156
+
+
+### شهرستان ماسال (Masal)
+
+Code: IR007008, Coordinates: 37.396, 48.991
+
+
+### شهرستان رشت (Rasht)
+
+Code: IR007009, Coordinates: 37.241, 49.653
+
+
+### شهرستان رضوانشهر (Rezvanshahr)
+
+Code: IR007010, Coordinates: 37.534, 48.969
+
+
+### شهرستان رودبار (Rudbar)
+
+Code: IR007011, Coordinates: 36.823, 49.569
+
+
+### شهرستان رودسر (Rudsar)
+
+Code: IR007012, Coordinates: 36.914, 50.358
+
+
+### شهرستان شفت (Shaft)
+
+Code: IR007013, Coordinates: 37.136, 49.429
+
+
+### شهرستان سیاهکل (Siahkal)
+
+Code: IR007014, Coordinates: 36.943, 49.874
+
+
+### شهرستان صومعه سرا (Some&#39;e-Sara)
+
+Code: IR007015, Coordinates: 37.378, 49.347
+
+
+### شهرستان طوالش (Talesh)
+
+Code: IR007016, Coordinates: 37.899, 48.752
+
+

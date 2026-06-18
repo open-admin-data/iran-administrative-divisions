@@ -1,0 +1,129 @@
+# Isfahan — Iran Administrative Divisions
+
+> 24 countys
+> Code: IR012
+> Coordinates: 32.609, 52.048
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان آران وبیدگل (Aran-o-Bidgol)
+
+Code: IR012001, Coordinates: 34.141, 51.87
+
+
+### شهرستان اردستان (Ardestan)
+
+Code: IR012002, Coordinates: 33.653, 52.669
+
+
+### شهرستان بوئین ومیاندشت (Booeino Miyandasht)
+
+Code: IR012004, Coordinates: 33.163, 50.105
+
+
+### شهرستان برخوار (Borkhar)
+
+Code: IR012003, Coordinates: 33.01, 51.768
+
+
+### شهرستان چادگان (Chadegan)
+
+Code: IR012005, Coordinates: 32.75, 50.607
+
+
+### شهرستان دهاقان (Dehaghan)
+
+Code: IR012006, Coordinates: 32.004, 51.595
+
+
+### شهرستان فلاورجان (Falavarjan)
+
+Code: IR012007, Coordinates: 32.519, 51.536
+
+
+### شهرستان فریدن (Faridan)
+
+Code: IR012008, Coordinates: 32.962, 50.376
+
+
+### شهرستان فریدون شهر (Fereydunshahr)
+
+Code: IR012009, Coordinates: 32.851, 50.032
+
+
+### شهرستان گلپایگان (Golpayegan)
+
+Code: IR012010, Coordinates: 33.453, 50.291
+
+
+### شهرستان اصفهان (Isfahan)
+
+Code: IR012011, Coordinates: 32.254, 52.506
+
+
+### شهرستان کاشان (Kashan)
+
+Code: IR012012, Coordinates: 33.973, 51.256
+
+
+### شهرستان خوانسار (Khansar)
+
+Code: IR012013, Coordinates: 33.249, 50.448
+
+
+### شهرستان خمینی شهر (Khomeinishahr)
+
+Code: IR012014, Coordinates: 32.685, 51.525
+
+
+### شهرستان خوروبیابانک (Khorobiyabanak)
+
+Code: IR012015, Coordinates: 33.673, 54.988
+
+
+### شهرستان لنجان (Lenjan)
+
+Code: IR012016, Coordinates: 32.376, 51.213
+
+
+### شهرستان مبارکه (Mobarakeh)
+
+Code: IR012017, Coordinates: 32.278, 51.509
+
+
+### شهرستان نائین (Nain)
+
+Code: IR012018, Coordinates: 33.389, 53.936
+
+
+### شهرستان نجف آباد (Najafabad)
+
+Code: IR012019, Coordinates: 32.906, 51.13
+
+
+### شهرستان نطنز (Natanz)
+
+Code: IR012020, Coordinates: 33.587, 51.766
+
+
+### شهرستان سمیرم (Semirom)
+
+Code: IR012022, Coordinates: 31.265, 51.648
+
+
+### شهرستان شاهین شهرومیمه (Shahinshahro Meymeh)
+
+Code: IR012023, Coordinates: 33.24, 51.173
+
+
+### شهرستان شهرضا (Shahreza)
+
+Code: IR012021, Coordinates: 31.896, 51.871
+
+
+### شهرستان تیران وکرون (Tiran-o-Korun)
+
+Code: IR012024, Coordinates: 32.784, 51.041
+
+

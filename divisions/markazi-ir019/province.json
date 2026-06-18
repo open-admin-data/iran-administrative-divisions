@@ -1,0 +1,33 @@
+{
+  "id": "IR019",
+  "level": 1,
+  "level_name": {
+    "local": "استان",
+    "en": "Province"
+  },
+  "name": {
+    "local": "مرکزی",
+    "en": "Markazi",
+    "slug": "markazi-ir019"
+  },
+  "code": {
+    "id": "IR019",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.477",
+    "lon": "49.582"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ir/provinces/markazi-ir019/",
+    "api": "https://openadmindata.org/api/ir/"
+  }
+}

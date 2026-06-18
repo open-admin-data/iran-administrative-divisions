@@ -1,0 +1,45 @@
+{
+  "id": "IR006018",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان لارستان",
+    "en": "Larestan",
+    "slug": "larestan-ir006018"
+  },
+  "code": {
+    "id": "IR006018",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.835",
+    "lon": "54.611"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IR011008",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان ملکشاهی",
+    "en": "Malekshahi",
+    "slug": "malekshahi-ir011008"
+  },
+  "code": {
+    "id": "IR011008",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR011",
+    "level": 1,
+    "name": {
+      "local": "ایلام",
+      "en": "Ilam",
+      "slug": "ilam-ir011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR011",
+      "level": 1,
+      "name": {
+        "local": "ایلام",
+        "en": "Ilam",
+        "slug": "ilam-ir011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.288",
+    "lon": "46.628"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "id": "IR014001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان دالاهو",
+      "en": "Dalaho",
+      "slug": "dalaho-ir014001"
+    },
+    "code": {
+      "id": "IR014001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.384",
+      "lon": "46.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان گیلانغرب",
+      "en": "Gilan-e-Gharb",
+      "slug": "gilan-e-gharb-ir014003"
+    },
+    "code": {
+      "id": "IR014003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.062",
+      "lon": "46.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان هرسین",
+      "en": "Harsin",
+      "slug": "harsin-ir014004"
+    },
+    "code": {
+      "id": "IR014004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.34",
+      "lon": "47.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اسلام آبادغرب",
+      "en": "Islamabad-e-Gharb",
+      "slug": "islamabad-e-gharb-ir014002"
+    },
+    "code": {
+      "id": "IR014002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.043",
+      "lon": "46.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان جوانرود",
+      "en": "Javanrud",
+      "slug": "javanrud-ir014005"
+    },
+    "code": {
+      "id": "IR014005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.861",
+      "lon": "46.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کنگاور",
+      "en": "Kangavar",
+      "slug": "kangavar-ir014006"
+    },
+    "code": {
+      "id": "IR014006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.452",
+      "lon": "47.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کرمانشاه",
+      "en": "Kermanshah",
+      "slug": "kermanshah-ir014007"
+    },
+    "code": {
+      "id": "IR014007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.298",
+      "lon": "46.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان پاوه",
+      "en": "Paveh",
+      "slug": "paveh-ir014008"
+    },
+    "code": {
+      "id": "IR014008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.095",
+      "lon": "46.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان قصر شیرین",
+      "en": "Qasr-e-Shirin",
+      "slug": "qasr-e-shirin-ir014009"
+    },
+    "code": {
+      "id": "IR014009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.203",
+      "lon": "45.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان روانسر",
+      "en": "Ravansar",
+      "slug": "ravansar-ir014010"
+    },
+    "code": {
+      "id": "IR014010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.767",
+      "lon": "46.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان صحنه",
+      "en": "Sahneh",
+      "slug": "sahneh-ir014011"
+    },
+    "code": {
+      "id": "IR014011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.564",
+      "lon": "47.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سرپل ذهاب",
+      "en": "Sarpol-e-Zahab",
+      "slug": "sarpol-e-zahab-ir014013"
+    },
+    "code": {
+      "id": "IR014013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.53",
+      "lon": "45.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ثلاث باباجانی",
+      "en": "Solas-e-Babajani",
+      "slug": "solas-e-babajani-ir014012"
+    },
+    "code": {
+      "id": "IR014012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.819",
+      "lon": "45.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR014014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سنقر",
+      "en": "Sonqor",
+      "slug": "sonqor-ir014014"
+    },
+    "code": {
+      "id": "IR014014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR014",
+      "level": 1,
+      "name": {
+        "local": "کرمانشاه",
+        "en": "Kermanshah",
+        "slug": "kermanshah-ir014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR014",
+        "level": 1,
+        "name": {
+          "local": "کرمانشاه",
+          "en": "Kermanshah",
+          "slug": "kermanshah-ir014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.854",
+      "lon": "47.438"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

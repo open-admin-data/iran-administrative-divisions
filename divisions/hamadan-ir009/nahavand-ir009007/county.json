@@ -1,0 +1,45 @@
+{
+  "id": "IR009007",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان نهاوند",
+    "en": "Nahavand",
+    "slug": "nahavand-ir009007"
+  },
+  "code": {
+    "id": "IR009007",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR009",
+    "level": 1,
+    "name": {
+      "local": "همدان",
+      "en": "Hamadan",
+      "slug": "hamadan-ir009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.218",
+    "lon": "48.247"
+  },
+  "metadata": {},
+  "source": {}
+}

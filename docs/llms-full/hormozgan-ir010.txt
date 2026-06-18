@@ -1,0 +1,74 @@
+# Hormozgan — Iran Administrative Divisions
+
+> 13 countys
+> Code: IR010
+> Coordinates: 27.142, 55.033
+> Last updated: 2026-06-18. License: CC-BY-4.0.
+
+## Countys
+
+### شهرستان ابوموسی (Abumusa)
+
+Code: IR010001, Coordinates: 25.913, 54.525
+
+
+### شهرستان بندرعباس (Bandar-Abbas)
+
+Code: IR010002, Coordinates: 27.468, 56.317
+
+
+### شهرستان بندر لنگه (Bandar-Lengeh)
+
+Code: IR010003, Coordinates: 26.814, 54.528
+
+
+### شهرستان بشاگرد (Bashagard)
+
+Code: IR010004, Coordinates: 26.505, 58.259
+
+
+### شهرستان بستک (Bastak)
+
+Code: IR010005, Coordinates: 27.191, 54.587
+
+
+### شهرستان حاجیآباد (Hajiabad)
+
+Code: IR010006, Coordinates: 28.299, 55.731
+
+
+### شهرستان جاسک (Jask)
+
+Code: IR010007, Coordinates: 25.838, 58.2
+
+
+### شهرستان خمیر (Khamir)
+
+Code: IR010008, Coordinates: 27.224, 55.513
+
+
+### شهرستان میناب (Minab)
+
+Code: IR010009, Coordinates: 26.959, 57.437
+
+
+### شهرستان پارسیان (Parsian)
+
+Code: IR010010, Coordinates: 27.138, 53.176
+
+
+### شهرستان قشم (Qeshm)
+
+Code: IR010011, Coordinates: 26.769, 55.909
+
+
+### شهرستان رودان (Rudan)
+
+Code: IR010012, Coordinates: 27.547, 57.158
+
+
+### شهرستان سیریک (Sirik)
+
+Code: IR010013, Coordinates: 26.529, 57.219
+
+

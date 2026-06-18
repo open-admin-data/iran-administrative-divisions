@@ -1,0 +1,45 @@
+{
+  "id": "IR006003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان بوانات",
+    "en": "Bavanat",
+    "slug": "bavanat-ir006003"
+  },
+  "code": {
+    "id": "IR006003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.268",
+    "lon": "53.595"
+  },
+  "metadata": {},
+  "source": {}
+}

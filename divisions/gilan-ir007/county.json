@@ -1,0 +1,722 @@
+[
+  {
+    "id": "IR007001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان املش",
+      "en": "Amlash",
+      "slug": "amlash-ir007001"
+    },
+    "code": {
+      "id": "IR007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.956",
+      "lon": "50.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آستانه اشرفیه",
+      "en": "Astane-ye-Ashrafiyeh",
+      "slug": "astane-ye-ashrafiyeh-ir007002"
+    },
+    "code": {
+      "id": "IR007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.333",
+      "lon": "50.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان آستارا",
+      "en": "Astara",
+      "slug": "astara-ir007003"
+    },
+    "code": {
+      "id": "IR007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.353",
+      "lon": "48.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بندر انزلی",
+      "en": "Bandar-e-Anzali",
+      "slug": "bandar-e-anzali-ir007004"
+    },
+    "code": {
+      "id": "IR007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.473",
+      "lon": "49.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فومن",
+      "en": "Fuman",
+      "slug": "fuman-ir007005"
+    },
+    "code": {
+      "id": "IR007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.175",
+      "lon": "49.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان لاهیجان",
+      "en": "Lahijan",
+      "slug": "lahijan-ir007006"
+    },
+    "code": {
+      "id": "IR007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.237",
+      "lon": "50.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان لنگرود",
+      "en": "Langrud",
+      "slug": "langrud-ir007007"
+    },
+    "code": {
+      "id": "IR007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.133",
+      "lon": "50.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ماسال",
+      "en": "Masal",
+      "slug": "masal-ir007008"
+    },
+    "code": {
+      "id": "IR007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.396",
+      "lon": "48.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رشت",
+      "en": "Rasht",
+      "slug": "rasht-ir007009"
+    },
+    "code": {
+      "id": "IR007009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.241",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007010",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رضوانشهر",
+      "en": "Rezvanshahr",
+      "slug": "rezvanshahr-ir007010"
+    },
+    "code": {
+      "id": "IR007010",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.534",
+      "lon": "48.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007011",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رودبار",
+      "en": "Rudbar",
+      "slug": "rudbar-ir007011"
+    },
+    "code": {
+      "id": "IR007011",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.823",
+      "lon": "49.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007012",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رودسر",
+      "en": "Rudsar",
+      "slug": "rudsar-ir007012"
+    },
+    "code": {
+      "id": "IR007012",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.914",
+      "lon": "50.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007013",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان شفت",
+      "en": "Shaft",
+      "slug": "shaft-ir007013"
+    },
+    "code": {
+      "id": "IR007013",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.136",
+      "lon": "49.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007014",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان سیاهکل",
+      "en": "Siahkal",
+      "slug": "siahkal-ir007014"
+    },
+    "code": {
+      "id": "IR007014",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.943",
+      "lon": "49.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007015",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان صومعه سرا",
+      "en": "Some'e-Sara",
+      "slug": "somee-sara-ir007015"
+    },
+    "code": {
+      "id": "IR007015",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.378",
+      "lon": "49.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR007016",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان طوالش",
+      "en": "Talesh",
+      "slug": "talesh-ir007016"
+    },
+    "code": {
+      "id": "IR007016",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR007",
+      "level": 1,
+      "name": {
+        "local": "گیلان",
+        "en": "Gilan",
+        "slug": "gilan-ir007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR007",
+        "level": 1,
+        "name": {
+          "local": "گیلان",
+          "en": "Gilan",
+          "slug": "gilan-ir007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.899",
+      "lon": "48.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

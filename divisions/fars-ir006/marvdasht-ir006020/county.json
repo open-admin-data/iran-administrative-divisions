@@ -1,0 +1,45 @@
+{
+  "id": "IR006020",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان مرودشت",
+    "en": "Marvdasht",
+    "slug": "marvdasht-ir006020"
+  },
+  "code": {
+    "id": "IR006020",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR006",
+    "level": 1,
+    "name": {
+      "local": "فارس",
+      "en": "Fars",
+      "slug": "fars-ir006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR006",
+      "level": 1,
+      "name": {
+        "local": "فارس",
+        "en": "Fars",
+        "slug": "fars-ir006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.159",
+    "lon": "52.686"
+  },
+  "metadata": {},
+  "source": {}
+}

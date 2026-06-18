@@ -1,0 +1,45 @@
+{
+  "id": "IR022003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان آوج",
+    "en": "Avaj",
+    "slug": "avaj-ir022003"
+  },
+  "code": {
+    "id": "IR022003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR022",
+    "level": 1,
+    "name": {
+      "local": "قزوین",
+      "en": "Qazvin",
+      "slug": "qazvin-ir022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR022",
+      "level": 1,
+      "name": {
+        "local": "قزوین",
+        "en": "Qazvin",
+        "slug": "qazvin-ir022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.69",
+    "lon": "49.197"
+  },
+  "metadata": {},
+  "source": {}
+}

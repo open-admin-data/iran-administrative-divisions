@@ -1,0 +1,407 @@
+[
+  {
+    "id": "IR009001",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان اسدآباد",
+      "en": "Asadabad",
+      "slug": "asadabad-ir009001"
+    },
+    "code": {
+      "id": "IR009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.787",
+      "lon": "48.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009002",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان بهار",
+      "en": "Bahar",
+      "slug": "bahar-ir009002"
+    },
+    "code": {
+      "id": "IR009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.962",
+      "lon": "48.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009003",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان فامنین",
+      "en": "Famenin",
+      "slug": "famenin-ir009003"
+    },
+    "code": {
+      "id": "IR009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.046",
+      "lon": "49.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009004",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان همدان",
+      "en": "Hamadan",
+      "slug": "hamadan-ir009004"
+    },
+    "code": {
+      "id": "IR009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.836",
+      "lon": "48.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009005",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان کبودرآهنگ",
+      "en": "Kabudarahang",
+      "slug": "kabudarahang-ir009005"
+    },
+    "code": {
+      "id": "IR009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.338",
+      "lon": "48.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009006",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان ملایر",
+      "en": "Malayer",
+      "slug": "malayer-ir009006"
+    },
+    "code": {
+      "id": "IR009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.338",
+      "lon": "48.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009007",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان نهاوند",
+      "en": "Nahavand",
+      "slug": "nahavand-ir009007"
+    },
+    "code": {
+      "id": "IR009007",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.218",
+      "lon": "48.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009008",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان رزن",
+      "en": "Razan",
+      "slug": "razan-ir009008"
+    },
+    "code": {
+      "id": "IR009008",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.459",
+      "lon": "48.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "IR009009",
+    "level": 2,
+    "level_name": {
+      "local": "شهرستان",
+      "en": "County"
+    },
+    "name": {
+      "local": "شهرستان تویسرکان",
+      "en": "Tuyserkan",
+      "slug": "tuyserkan-ir009009"
+    },
+    "code": {
+      "id": "IR009009",
+      "iso": null
+    },
+    "parent": {
+      "id": "IR009",
+      "level": 1,
+      "name": {
+        "local": "همدان",
+        "en": "Hamadan",
+        "slug": "hamadan-ir009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "IR009",
+        "level": 1,
+        "name": {
+          "local": "همدان",
+          "en": "Hamadan",
+          "slug": "hamadan-ir009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.553",
+      "lon": "48.311"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

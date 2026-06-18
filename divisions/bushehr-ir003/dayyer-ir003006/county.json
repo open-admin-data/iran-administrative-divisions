@@ -1,0 +1,45 @@
+{
+  "id": "IR003006",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان دیر",
+    "en": "Dayyer",
+    "slug": "dayyer-ir003006"
+  },
+  "code": {
+    "id": "IR003006",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR003",
+    "level": 1,
+    "name": {
+      "local": "بوشهر",
+      "en": "Bushehr",
+      "slug": "bushehr-ir003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR003",
+      "level": 1,
+      "name": {
+        "local": "بوشهر",
+        "en": "Bushehr",
+        "slug": "bushehr-ir003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.037",
+    "lon": "51.678"
+  },
+  "metadata": {},
+  "source": {}
+}

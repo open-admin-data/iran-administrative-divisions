@@ -1,0 +1,45 @@
+{
+  "id": "IR027003",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان درمیان",
+    "en": "Darmian",
+    "slug": "darmian-ir027003"
+  },
+  "code": {
+    "id": "IR027003",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR027",
+    "level": 1,
+    "name": {
+      "local": "خراسان جنوبی",
+      "en": "South Khorasan",
+      "slug": "south-khorasan-ir027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR027",
+      "level": 1,
+      "name": {
+        "local": "خراسان جنوبی",
+        "en": "South Khorasan",
+        "slug": "south-khorasan-ir027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.945",
+    "lon": "60.154"
+  },
+  "metadata": {},
+  "source": {}
+}

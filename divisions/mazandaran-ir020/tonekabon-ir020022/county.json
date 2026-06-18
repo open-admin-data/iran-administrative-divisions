@@ -1,0 +1,45 @@
+{
+  "id": "IR020022",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان تنکابن",
+    "en": "Tonekabon",
+    "slug": "tonekabon-ir020022"
+  },
+  "code": {
+    "id": "IR020022",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR020",
+    "level": 1,
+    "name": {
+      "local": "مازندران",
+      "en": "Mazandaran",
+      "slug": "mazandaran-ir020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR020",
+      "level": 1,
+      "name": {
+        "local": "مازندران",
+        "en": "Mazandaran",
+        "slug": "mazandaran-ir020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.569",
+    "lon": "50.809"
+  },
+  "metadata": {},
+  "source": {}
+}

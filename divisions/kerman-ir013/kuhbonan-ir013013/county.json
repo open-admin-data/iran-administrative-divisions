@@ -1,0 +1,45 @@
+{
+  "id": "IR013013",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان کوهبنان",
+    "en": "Kuhbonan",
+    "slug": "kuhbonan-ir013013"
+  },
+  "code": {
+    "id": "IR013013",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR013",
+    "level": 1,
+    "name": {
+      "local": "کرمان",
+      "en": "Kerman",
+      "slug": "kerman-ir013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR013",
+      "level": 1,
+      "name": {
+        "local": "کرمان",
+        "en": "Kerman",
+        "slug": "kerman-ir013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.36",
+    "lon": "56.19"
+  },
+  "metadata": {},
+  "source": {}
+}

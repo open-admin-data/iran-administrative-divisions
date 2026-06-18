@@ -1,0 +1,45 @@
+{
+  "id": "IR002010",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان سرعین",
+    "en": "Sareyn",
+    "slug": "sareyn-ir002010"
+  },
+  "code": {
+    "id": "IR002010",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR002",
+    "level": 1,
+    "name": {
+      "local": "اردبیل",
+      "en": "Ardabil",
+      "slug": "ardabil-ir002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR002",
+      "level": 1,
+      "name": {
+        "local": "اردبیل",
+        "en": "Ardabil",
+        "slug": "ardabil-ir002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.183",
+    "lon": "48.02"
+  },
+  "metadata": {},
+  "source": {}
+}

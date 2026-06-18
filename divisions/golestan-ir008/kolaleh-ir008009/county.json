@@ -1,0 +1,45 @@
+{
+  "id": "IR008009",
+  "level": 2,
+  "level_name": {
+    "local": "شهرستان",
+    "en": "County"
+  },
+  "name": {
+    "local": "شهرستان کلاله",
+    "en": "Kolaleh",
+    "slug": "kolaleh-ir008009"
+  },
+  "code": {
+    "id": "IR008009",
+    "iso": null
+  },
+  "parent": {
+    "id": "IR008",
+    "level": 1,
+    "name": {
+      "local": "گلستان",
+      "en": "Golestan",
+      "slug": "golestan-ir008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "IR008",
+      "level": 1,
+      "name": {
+        "local": "گلستان",
+        "en": "Golestan",
+        "slug": "golestan-ir008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.571",
+    "lon": "55.613"
+  },
+  "metadata": {},
+  "source": {}
+}

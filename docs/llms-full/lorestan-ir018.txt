@@ -3,7 +3,7 @@
 > 11 countys
 > Code: IR018
 > Coordinates: 33.516, 48.322
-> Last updated: 2026-06-18. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

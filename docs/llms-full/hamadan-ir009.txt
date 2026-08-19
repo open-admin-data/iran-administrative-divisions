@@ -3,7 +3,7 @@
 > 9 countys
 > Code: IR009
 > Coordinates: 34.87, 48.559
-> Last updated: 2026-06-18. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

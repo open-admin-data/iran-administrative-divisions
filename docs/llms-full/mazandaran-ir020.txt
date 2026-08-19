@@ -3,7 +3,7 @@
 > 22 countys
 > Code: IR020
 > Coordinates: 36.363, 52.368
-> Last updated: 2026-06-18. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

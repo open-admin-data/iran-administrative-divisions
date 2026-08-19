@@ -3,7 +3,7 @@
 > 10 countys
 > Code: IR030
 > Coordinates: 31.483, 54.416
-> Last updated: 2026-06-18. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

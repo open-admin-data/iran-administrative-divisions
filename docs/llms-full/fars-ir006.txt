@@ -3,7 +3,7 @@
 > 29 countys
 > Code: IR006
 > Coordinates: 29.358, 53.318
-> Last updated: 2026-06-18. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

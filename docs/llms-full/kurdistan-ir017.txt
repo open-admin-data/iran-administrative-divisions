@@ -3,7 +3,7 @@
 > 10 countys
 > Code: IR017
 > Coordinates: 35.601, 47.006
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 

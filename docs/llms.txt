@@ -9,7 +9,7 @@
 - Total provinces: 31
 - Total countys: 429
 - Coordinates: included (all levels)
-- Last updated: 2026-08-19
+- Last updated: 2026-08-20
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

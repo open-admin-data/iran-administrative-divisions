@@ -3,7 +3,7 @@
 > 10 countys
 > Code: IR011
 > Coordinates: 33.043, 46.872
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 

@@ -3,7 +3,7 @@
 > 23 countys
 > Code: IR013
 > Coordinates: 29.233, 57.339
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 

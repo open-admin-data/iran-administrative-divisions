@@ -3,7 +3,7 @@
 > 6 countys
 > Code: IR022
 > Coordinates: 36.109, 50.039
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 

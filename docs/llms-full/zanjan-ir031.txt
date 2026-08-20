@@ -3,7 +3,7 @@
 > 8 countys
 > Code: IR031
 > Coordinates: 36.401, 48.422
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 

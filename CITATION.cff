@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Iran Administrative Divisions Dataset"
-version: "2026.08"
-date-released: "2026-08-20"
+version: "2026.09"
+date-released: "2026-09-02"
 url: "https://github.com/open-admin-data/iran-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/iran-administrative-divisions"
 license: CC-BY-4.0

@@ -11,11 +11,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/ir](https://openadmindata.org/ir/) |
 | API | [openadmindata.org/api/ir](https://openadmindata.org/api/ir/) |
 | Flag | [PNG](https://onlygames.me/flags-png/ir/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Iran National Anthem MP3](https://onlygames.me/national-anthems/ir/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/irn) · [Population](https://nationdata.org/population/country/irn) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Province
 

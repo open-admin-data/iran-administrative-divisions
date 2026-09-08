@@ -3,7 +3,7 @@
 > 20 countys
 > Code: IR005
 > Coordinates: 38.086, 46.692
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Countys
 
